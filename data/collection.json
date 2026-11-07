@@ -5,7 +5,8 @@
   "total_books": 97,
   "total_hadiths": 7563,
   "seeded_books": [
-    1
+    1,
+    2
   ],
-  "active_hadiths": 7
+  "active_hadiths": 14
 }

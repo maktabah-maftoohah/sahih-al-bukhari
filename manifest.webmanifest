@@ -1,0 +1,17 @@
+{
+  "name": "Maktabah Maftoohah — Sahih al-Bukhari",
+  "short_name": "Sahih Bukhari",
+  "description": "Zero-build, offline-first digital reader for Sahih al-Bukhari with dual Malay & English translations.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#047857",
+  "lang": "ms",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

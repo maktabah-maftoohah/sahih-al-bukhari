@@ -1,6 +1,6 @@
 /**
  * Maktabah Maftoohah Sahih al-Bukhari - Reader Application
- * Zero-Build Vanilla ES6 Architecture
+ * Zero-Build Vanilla ES6 Architecture & Offline PWA
  */
 
 import { analytics } from './analytics.js';
@@ -11,6 +11,7 @@ class BukhariReader {
     this.currentBook = 1;
     this.books = [];
     this.hadiths = [];
+    this.searchQuery = '';
 
     this.contentView = document.getElementById('contentView');
     this.langToggle = document.getElementById('langToggle');
@@ -19,9 +20,21 @@ class BukhariReader {
 
   async init() {
     analytics.init();
+    this.registerServiceWorker();
     this.setupEventListeners();
     await this.loadBooks();
     await this.loadHadiths(this.currentBook);
+  }
+
+  registerServiceWorker() {
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('./sw.js').then(
+          (reg) => console.log('Bukhari PWA ServiceWorker registered:', reg.scope),
+          (err) => console.warn('Bukhari PWA ServiceWorker registration failed:', err)
+        );
+      });
+    }
   }
 
   setupEventListeners() {
@@ -60,6 +73,7 @@ class BukhariReader {
       const res = await fetch(`./data/hadiths/${padded}.json`);
       if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
       this.hadiths = await res.json();
+      this.searchQuery = '';
       this.render();
     } catch (e) {
       console.warn(`Book ${bookNumber} not yet seeded:`, e);
@@ -76,7 +90,7 @@ class BukhariReader {
         <h3 style="margin-bottom: 0.5rem;">${title} (${book.title_ar || ''})</h3>
         <p style="color: var(--text-muted); margin-bottom: 1.5rem;">
           ${this.currentLang === 'ms' 
-            ? 'Kitab ini dalam proses penyusunan dan pengesahan teks autentik.' 
+            ? 'Kitab ini dalam perancangan penyusunan dan pengesahan teks autentik.' 
             : 'This book is scheduled for text verification and ingestion.'}
         </p>
         <button class="btn-pill" id="backToBook1">
@@ -95,14 +109,31 @@ class BukhariReader {
     }
   }
 
+  getFilteredHadiths() {
+    if (!this.searchQuery.trim()) {
+      return this.hadiths;
+    }
+    const q = this.searchQuery.toLowerCase().trim();
+    return this.hadiths.filter(h => {
+      const numMatch = String(h.hadith_number).includes(q) || String(h.in_book_number).includes(q);
+      const arMatch = (h.arabic || '').includes(q);
+      const msMatch = (h.translations?.ms || '').toLowerCase().includes(q);
+      const enMatch = (h.translations?.en || '').toLowerCase().includes(q);
+      const tagMatch = (h.tags || []).some(t => t.toLowerCase().includes(q));
+      return numMatch || arMatch || msMatch || enMatch || tagMatch;
+    });
+  }
+
   render() {
     const currentBookObj = this.books.find(b => b.book_number === this.currentBook) || {};
     const bookTitle = this.currentLang === 'ms' 
       ? (currentBookObj.title_ms || currentBookObj.title_ar) 
       : (currentBookObj.title_en || currentBookObj.title_ar);
 
-    // Book Selector Header
-    const selectorHtml = `
+    const filtered = this.getFilteredHadiths();
+
+    // Book Selector & Search Control
+    const controlsHtml = `
       <div class="hero-section">
         <div class="book-control-row">
           <label for="bookSelector" style="font-weight: 600;">
@@ -117,28 +148,58 @@ class BukhariReader {
             }).join('')}
           </select>
           <div class="book-meta">
-            <span class="badge">${this.hadiths.length} ${this.currentLang === 'ms' ? 'Hadis Aktif' : 'Active Hadiths'}</span>
+            <span class="badge">${filtered.length} / ${this.hadiths.length} ${this.currentLang === 'ms' ? 'Hadis' : 'Hadiths'}</span>
             <span class="badge badge-sahih">Sahih al-Bukhari</span>
           </div>
+        </div>
+
+        <div class="search-control-row">
+          <input 
+            type="search" 
+            id="hadithSearch" 
+            class="search-input" 
+            placeholder="${this.currentLang === 'ms' ? 'Cari hadis mengikut nombor, kata kunci, atau tema...' : 'Search hadith by number, keyword, or topic...'}"
+            value="${this.searchQuery}"
+          />
         </div>
       </div>
     `;
 
     // Hadith Cards List
-    const hadithListHtml = `
+    const hadithListHtml = filtered.length > 0 ? `
       <div class="hadith-list">
-        ${this.hadiths.map(h => this.renderHadithCard(h)).join('')}
+        ${filtered.map(h => this.renderHadithCard(h)).join('')}
+      </div>
+    ` : `
+      <div class="hadith-card" style="text-align: center; padding: 2rem;">
+        <p style="color: var(--text-muted);">
+          ${this.currentLang === 'ms' ? 'Tiada hadis sepadan dengan carian.' : 'No hadiths found matching your search.'}
+        </p>
       </div>
     `;
 
-    this.contentView.innerHTML = selectorHtml + hadithListHtml;
+    this.contentView.innerHTML = controlsHtml + hadithListHtml;
 
-    // Attach selector change handler
+    // Attach event listeners
     const selector = document.getElementById('bookSelector');
     if (selector) {
       selector.addEventListener('change', (e) => {
         this.currentBook = parseInt(e.target.value, 10);
         this.loadHadiths(this.currentBook);
+      });
+    }
+
+    const searchInput = document.getElementById('hadithSearch');
+    if (searchInput) {
+      searchInput.addEventListener('input', (e) => {
+        this.searchQuery = e.target.value;
+        const listContainer = document.querySelector('.hadith-list') || this.contentView;
+        const updated = this.getFilteredHadiths();
+        if (document.querySelector('.hadith-list')) {
+          document.querySelector('.hadith-list').innerHTML = updated.length > 0 
+            ? updated.map(h => this.renderHadithCard(h)).join('')
+            : `<div class="hadith-card" style="text-align: center; padding: 2rem;"><p style="color: var(--text-muted);">${this.currentLang === 'ms' ? 'Tiada hadis sepadan.' : 'No matching hadiths.'}</p></div>`;
+        }
       });
     }
   }
@@ -150,7 +211,7 @@ class BukhariReader {
 
     const crossRefsHtml = (hadith.cross_references || []).map(cr => {
       if (cr.type === 'quran') {
-        return `<span class="badge badge-crossref">Surah ${cr.surah}:${cr.ayah}</span>`;
+        return `<a href="../al-quran/#ayah/${cr.surah}/${cr.ayah}" class="badge badge-crossref" target="_blank" rel="noopener" title="${this.currentLang === 'ms' ? `Buka Surah ${cr.surah}:${cr.ayah} dalam Al-Quran Digital` : `Open Surah ${cr.surah}:${cr.ayah} in Digital Quran`}">📖 Surah ${cr.surah}:${cr.ayah} ↗</a>`;
       }
       return '';
     }).join('');
