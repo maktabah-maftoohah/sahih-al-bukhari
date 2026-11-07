@@ -2,6 +2,10 @@
   "collection": "sahih-al-bukhari",
   "title": "Maktabah Maftoohah — Sahih al-Bukhari",
   "title_ar": "صحيح البخاري",
-  "seeded": true,
-  "items": []
+  "total_books": 97,
+  "total_hadiths": 7563,
+  "seeded_books": [
+    1
+  ],
+  "active_hadiths": 7
 }
