@@ -1,9 +1,15 @@
 /**
- * Maktabah Maftoohah Zero-Build ES6 Reader Application
+ * Maktabah Maftoohah Sahih al-Bukhari - Reader Application
+ * Zero-Build ES6 Architecture
  */
-console.log('Maktabah Maftoohah Reader initialized.');
+
+import { analytics } from './analytics.js';
+
+console.log('Maktabah Maftoohah Sahih al-Bukhari initialized.');
 
 document.addEventListener('DOMContentLoaded', () => {
+  analytics.init();
+
   const themeToggle = document.getElementById('themeToggle');
   if (themeToggle) {
     themeToggle.addEventListener('click', () => {
