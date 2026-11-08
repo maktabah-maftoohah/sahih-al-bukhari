@@ -124,17 +124,41 @@ def run_etl():
     books_dict = {b["book_number"]: b for b in existing_books}
 
     # Group Arabic hadiths by book number
-    books_hadiths = {}
-    for h in ara_hadiths:
-        ref = h.get("reference", {})
-        book_num = ref.get("book")
-        if not book_num:
+    section_details = loaded_editions["ara-bukhari"].get("metadata", {}).get("section_details", {})
+    sections = []
+    for k, v in section_details.items():
+        if k == '0' or not k.isdigit():
             continue
+        try:
+            sections.append((int(k), float(v['hadithnumber_first']), float(v['hadithnumber_last'])))
+        except (ValueError, KeyError):
+            pass
+    sections.sort(key=lambda x: x[0])
+
+    def resolve_book_id(h, last_known_book):
+        ref_book = h.get("reference", {}).get("book")
+        if ref_book and int(ref_book) > 0:
+            return int(ref_book)
+        hnum = float(h.get("hadithnumber", 0))
+        for sec_id, first, last in sections:
+            if first <= hnum <= last:
+                return sec_id
+        # Check gaps between sections
+        for idx in range(len(sections) - 1):
+            if sections[idx][2] < hnum < sections[idx + 1][1]:
+                return sections[idx][0]
+        return last_known_book or 1
+
+    books_hadiths = {}
+    current_book_tracker = 1
+    for h in ara_hadiths:
+        book_num = resolve_book_id(h, current_book_tracker)
+        current_book_tracker = book_num
         if book_num not in books_hadiths:
             books_hadiths[book_num] = []
         books_hadiths[book_num].append(h)
 
-    print(f"  Indexed hadiths across {len(books_hadiths)} books.")
+    print(f"  Indexed {sum(len(v) for v in books_hadiths.values())} hadiths across {len(books_hadiths)} books.")
 
     print("\n=== Step 3: Generating Canonical Hadith Shards (01.json - 97.json) ===")
     updated_books = []
@@ -143,7 +167,7 @@ def run_etl():
         h_list = books_hadiths[book_num]
         book_info = books_dict.get(book_num, {
             "book_number": book_num,
-            "title": f"Book {book_num}",
+            "title_ms": f"Kitab {book_num}",
             "title_ar": f"كتاب {book_num}",
             "title_en": f"Book {book_num}"
         })
@@ -160,14 +184,17 @@ def run_etl():
             en_trans = eng_map.get(h_num, "").strip()
             ms_trans = ind_map.get(h_num, "").strip()
 
+            # Normalize integer or float hadith number
+            normalized_h_num = int(h_num) if float(h_num).is_integer() else float(h_num)
+
             canonical_h = {
                 "collection_id": "sahih-al-bukhari",
-                "hadith_number": int(h_num),
-                "in_book_number": int(in_book) if in_book is not None else None,
+                "hadith_number": normalized_h_num,
+                "in_book_number": int(in_book) if in_book is not None and int(in_book) > 0 else None,
                 "book_number": int(book_num),
                 "book_title": {
                     "ar": book_info.get("title_ar", ""),
-                    "ms": book_info.get("title", ""),
+                    "ms": book_info.get("title_ms") or book_info.get("title", ""),
                     "en": book_info.get("title_en", "")
                 },
                 "arabic": ar_text,
@@ -197,7 +224,7 @@ def run_etl():
         chapters_data = [
             {
                 "chapter_number": 1,
-                "title": book_info.get("title", ""),
+                "title": book_info.get("title_ms") or book_info.get("title", ""),
                 "title_ar": book_info.get("title_ar", ""),
                 "hadith_range": f"{first_h_num}-{last_h_num}",
                 "hadiths_count": len(shard_hadiths)
@@ -209,11 +236,28 @@ def run_etl():
         # Update book record
         book_info["hadith_range"] = f"{first_h_num}-{last_h_num}"
         book_info["hadiths_count"] = len(shard_hadiths)
+        book_info["hadith_start"] = int(first_h_num)
+        book_info["hadith_end"] = int(last_h_num)
+        book_info["hadith_count"] = len(shard_hadiths)
         updated_books.append(book_info)
 
     # Save updated books.json
     with open(DATA_DIR / "books.json", "w", encoding="utf-8") as bf:
         json.dump(updated_books, bf, ensure_ascii=False, indent=2)
+
+    # Update collection.json
+    collection_path = DATA_DIR / "collection.json"
+    collection_meta = {
+        "collection": "sahih-al-bukhari",
+        "title": "Maktabah Maftoohah — Sahih al-Bukhari",
+        "title_ar": "صحيح البخاري",
+        "total_books": len(updated_books),
+        "total_hadiths": len(ara_hadiths),
+        "seeded_books": [b["book_number"] for b in updated_books],
+        "active_hadiths": len(ara_hadiths)
+    }
+    with open(collection_path, "w", encoding="utf-8") as colf:
+        json.dump(collection_meta, colf, ensure_ascii=False, indent=2)
 
     print(f"  Successfully compiled {len(updated_books)} books into data/hadiths/ and data/chapters/!")
     print(f"  Total hadiths in collection: {len(ara_hadiths)}")

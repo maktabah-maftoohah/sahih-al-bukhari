@@ -23,7 +23,96 @@ class BukhariReader {
     this.registerServiceWorker();
     this.setupEventListeners();
     await this.loadBooks();
-    await this.loadHadiths(this.currentBook);
+    await this.handleRouting();
+    window.addEventListener('hashchange', () => this.handleRouting());
+    window.addEventListener('popstate', () => this.handleRouting());
+  }
+
+  parseRoute() {
+    // 1. Check path e.g. /sahih-al-bukhari/42 or /42
+    const pathname = window.location.pathname;
+    let sub = pathname;
+    if (sub.startsWith('/sahih-al-bukhari')) {
+      sub = sub.slice('/sahih-al-bukhari'.length);
+    }
+    sub = sub.replace(/^\/+|\/+$/g, '');
+    if (sub && sub !== 'index.html' && sub !== '404.html') {
+      const pathMatch = sub.match(/^(?:hadith\/|h\/)?(\d+(?:\.\d+)?)$/i);
+      if (pathMatch) {
+        return { type: 'hadith', number: parseFloat(pathMatch[1]) };
+      }
+    }
+
+    // 2. Check hash e.g. #hadith/42, #42, #bukhari:42, #book/2
+    const hash = window.location.hash.slice(1);
+    if (hash) {
+      const hadithHash = hash.match(/^(?:hadith\/|h\/|bukhari:)?(\d+(?:\.\d+)?)$/i);
+      if (hadithHash) {
+        return { type: 'hadith', number: parseFloat(hadithHash[1]) };
+      }
+      const bookHash = hash.match(/^book\/(\d+)(?:\/(\d+))?$/i);
+      if (bookHash) {
+        return { type: 'book', book: parseInt(bookHash[1], 10), inBook: bookHash[2] ? parseInt(bookHash[2], 10) : null };
+      }
+    }
+
+    // 3. Check query param e.g. ?hadith=42, ?h=42
+    if (window.location.search) {
+      const sp = new URLSearchParams(window.location.search);
+      const h = sp.get('hadith') || sp.get('h');
+      if (h) {
+        return { type: 'hadith', number: parseFloat(h) };
+      }
+      const b = sp.get('book') || sp.get('b');
+      if (b) {
+        return { type: 'book', book: parseInt(b, 10) };
+      }
+    }
+
+    return null;
+  }
+
+  async handleRouting() {
+    const route = this.parseRoute();
+    if (route && route.type === 'hadith') {
+      const targetHadith = route.number;
+      const targetBook = this.books.find(b => targetHadith >= b.hadith_start && targetHadith <= b.hadith_end) || this.books[0];
+      const bookNum = targetBook ? targetBook.book_number : 1;
+      this.currentBook = bookNum;
+      await this.loadHadiths(bookNum);
+      this.scrollToHadith(targetHadith);
+    } else if (route && route.type === 'book') {
+      this.currentBook = route.book;
+      await this.loadHadiths(route.book);
+    } else {
+      await this.loadHadiths(this.currentBook);
+    }
+  }
+
+  scrollToHadith(hadithNum) {
+    const normalized = Number.isInteger(hadithNum) ? hadithNum : hadithNum;
+    setTimeout(() => {
+      const el = document.getElementById(`hadith-${normalized}`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        el.classList.add('highlight-target');
+        setTimeout(() => el.classList.remove('highlight-target'), 2600);
+      }
+    }, 200);
+
+    // Update document title dynamically
+    const bookObj = this.books.find(b => b.book_number === this.currentBook);
+    const bookTitle = bookObj ? (this.currentLang === 'ms' ? bookObj.title_ms : bookObj.title_en) : '';
+    document.title = `Sahih al-Bukhari #${hadithNum} (${bookTitle}) — Maktabah Maftoohah`;
+
+    // Reflect clean deep link in URL
+    const isLocal = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1';
+    const basePath = window.location.pathname.startsWith('/sahih-al-bukhari') ? '/sahih-al-bukhari/' : './';
+    if (!isLocal) {
+      window.history.replaceState(null, '', `${basePath}${normalized}`);
+    } else {
+      window.history.replaceState(null, '', `#hadith/${normalized}`);
+    }
   }
 
   registerServiceWorker() {
@@ -67,6 +156,29 @@ class BukhariReader {
         if (e.target === docsModal) docsModal.close();
       });
     }
+
+    // Direct Link Copy Event Listener
+    document.addEventListener('click', async (e) => {
+      const btn = e.target.closest('.btn-copy-link');
+      if (btn) {
+        const num = btn.getAttribute('data-hadith-num');
+        const permalink = `https://maktabah-maftoohah.github.io/sahih-al-bukhari/${num}`;
+        try {
+          await navigator.clipboard.writeText(permalink);
+          const span = btn.querySelector('.copy-text');
+          const original = span ? span.textContent : '';
+          btn.classList.add('copied');
+          if (span) span.textContent = this.currentLang === 'ms' ? 'Disalin!' : 'Copied!';
+          setTimeout(() => {
+            btn.classList.remove('copied');
+            if (span) span.textContent = original;
+          }, 2000);
+        } catch (err) {
+          console.warn('Clipboard write failed:', err);
+          prompt(this.currentLang === 'ms' ? 'Salin pautan hadis ini:' : 'Copy this hadith link:', permalink);
+        }
+      }
+    });
   }
 
   async loadBooks() {
@@ -238,8 +350,11 @@ class BukhariReader {
               # ${hadith.hadith_number}
             </span>
             <span class="badge">
-              ${this.currentLang === 'ms' ? 'Kitab' : 'Book'} ${hadith.book_number} : ${hadith.in_book_number}
+              ${this.currentLang === 'ms' ? 'Kitab' : 'Book'} ${hadith.book_number} : ${hadith.in_book_number || '-'}
             </span>
+            <button class="btn-copy-link" data-hadith-num="${hadith.hadith_number}" title="${this.currentLang === 'ms' ? 'Salin pautan terus hadis ini' : 'Copy direct link to this hadith'}">
+              🔗 <span class="copy-text">${this.currentLang === 'ms' ? 'Salin Pautan' : 'Copy Link'}</span>
+            </button>
           </div>
           <div>
             <span class="badge badge-sahih">${gradeAr} / ${grade}</span>

@@ -4,6 +4,9 @@ from pathlib import Path
 def test_project():
     root = Path(__file__).resolve().parent.parent
     assert (root / "index.html").exists(), "index.html missing"
+    assert (root / "404.html").exists(), "404.html missing"
+    assert (root / "assets" / "og-banner.jpg").exists(), "og-banner.jpg missing"
+    assert (root / "1" / "index.html").exists(), "Hadith 1 OG page stub missing"
     assert (root / "AGENTS.md").exists(), "AGENTS.md missing"
     assert (root / ".nojekyll").exists(), ".nojekyll missing"
     assert (root / "data" / "books.json").exists(), "books.json missing"

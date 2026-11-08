@@ -63,7 +63,7 @@
     "hadith_end": 333,
     "hadith_count": 40,
     "hadith_range": "294-333",
-    "hadiths_count": 37
+    "hadiths_count": 40
   },
   {
     "book_number": 7,
@@ -82,21 +82,21 @@
     "title_ms": "Kitab Solat",
     "title_en": "Book of Prayers (Salat)",
     "hadith_start": 349,
-    "hadith_end": 520,
-    "hadith_count": 172,
-    "hadith_range": "349-520",
-    "hadiths_count": 167
+    "hadith_end": 521,
+    "hadith_count": 174,
+    "hadith_range": "349-521",
+    "hadiths_count": 174
   },
   {
     "book_number": 9,
     "title_ar": "كتاب مواقيت الصلاة",
     "title_ms": "Kitab Waktu-Waktu Solat",
     "title_en": "Book of Times of the Prayers",
-    "hadith_start": 521,
+    "hadith_start": 522,
     "hadith_end": 602,
-    "hadith_count": 82,
+    "hadith_count": 81,
     "hadith_range": "522-602",
-    "hadiths_count": 77
+    "hadiths_count": 81
   },
   {
     "book_number": 10,
@@ -105,9 +105,9 @@
     "title_en": "Book of Call to Prayers (Adhan)",
     "hadith_start": 603,
     "hadith_end": 875,
-    "hadith_count": 273,
+    "hadith_count": 275,
     "hadith_range": "603-875",
-    "hadiths_count": 266
+    "hadiths_count": 275
   },
   {
     "book_number": 11,
@@ -118,7 +118,7 @@
     "hadith_end": 941,
     "hadith_count": 66,
     "hadith_range": "876-941",
-    "hadiths_count": 65
+    "hadiths_count": 66
   },
   {
     "book_number": 12,
@@ -140,7 +140,7 @@
     "hadith_end": 989,
     "hadith_count": 42,
     "hadith_range": "948-989",
-    "hadiths_count": 37
+    "hadiths_count": 42
   },
   {
     "book_number": 14,
@@ -162,7 +162,7 @@
     "hadith_end": 1039,
     "hadith_count": 35,
     "hadith_range": "1005-1039",
-    "hadiths_count": 34
+    "hadiths_count": 35
   },
   {
     "book_number": 16,
@@ -173,7 +173,7 @@
     "hadith_end": 1066,
     "hadith_count": 27,
     "hadith_range": "1040-1066",
-    "hadiths_count": 24
+    "hadiths_count": 27
   },
   {
     "book_number": 17,
@@ -195,7 +195,7 @@
     "hadith_end": 1119,
     "hadith_count": 40,
     "hadith_range": "1080-1119",
-    "hadiths_count": 39
+    "hadiths_count": 40
   },
   {
     "book_number": 19,
@@ -204,9 +204,9 @@
     "title_en": "Book of Prayer at Night (Tahajjud)",
     "hadith_start": 1120,
     "hadith_end": 1187,
-    "hadith_count": 68,
+    "hadith_count": 69,
     "hadith_range": "1120-1187",
-    "hadiths_count": 63
+    "hadiths_count": 69
   },
   {
     "book_number": 20,
@@ -217,7 +217,7 @@
     "hadith_end": 1197,
     "hadith_count": 10,
     "hadith_range": "1188-1197",
-    "hadiths_count": 9
+    "hadiths_count": 10
   },
   {
     "book_number": 21,
@@ -226,7 +226,7 @@
     "title_en": "Book of Actions while Praying",
     "hadith_start": 1198,
     "hadith_end": 1223,
-    "hadith_count": 26,
+    "hadith_count": 27,
     "hadith_range": "1198-1223",
     "hadiths_count": 27
   },
@@ -237,7 +237,7 @@
     "title_en": "Book of Forgetfulness in Prayer",
     "hadith_start": 1224,
     "hadith_end": 1236,
-    "hadith_count": 13,
+    "hadith_count": 14,
     "hadith_range": "1224-1236",
     "hadiths_count": 14
   },
@@ -248,9 +248,9 @@
     "title_en": "Book of Funerals (Al-Jana'iz)",
     "hadith_start": 1237,
     "hadith_end": 1394,
-    "hadith_count": 158,
+    "hadith_count": 160,
     "hadith_range": "1237-1394",
-    "hadiths_count": 148
+    "hadiths_count": 160
   },
   {
     "book_number": 24,
@@ -261,7 +261,7 @@
     "hadith_end": 1512,
     "hadith_count": 118,
     "hadith_range": "1395-1512",
-    "hadiths_count": 112
+    "hadiths_count": 118
   },
   {
     "book_number": 25,
@@ -272,7 +272,7 @@
     "hadith_end": 1772,
     "hadith_count": 260,
     "hadith_range": "1513-1772",
-    "hadiths_count": 247
+    "hadiths_count": 260
   },
   {
     "book_number": 26,
@@ -283,7 +283,7 @@
     "hadith_end": 1805,
     "hadith_count": 33,
     "hadith_range": "1773-1805",
-    "hadiths_count": 30
+    "hadiths_count": 33
   },
   {
     "book_number": 27,
@@ -313,8 +313,8 @@
     "title_ms": "Kitab Keutamaan Kota Madinah",
     "title_en": "Book of Virtues of Madinah",
     "hadith_start": 1867,
-    "hadith_end": 1903,
-    "hadith_count": 37,
+    "hadith_end": 1890,
+    "hadith_count": 24,
     "hadith_range": "1867-1890",
     "hadiths_count": 24
   },
@@ -323,11 +323,11 @@
     "title_ar": "كتاب الصوم",
     "title_ms": "Kitab Puasa",
     "title_en": "Book of Fasting (Sawm)",
-    "hadith_start": 1904,
+    "hadith_start": 1891,
     "hadith_end": 2007,
-    "hadith_count": 104,
+    "hadith_count": 117,
     "hadith_range": "1891-2007",
-    "hadiths_count": 112
+    "hadiths_count": 117
   },
   {
     "book_number": 31,
@@ -360,7 +360,7 @@
     "hadith_end": 2046,
     "hadith_count": 22,
     "hadith_range": "2025-2046",
-    "hadiths_count": 21
+    "hadiths_count": 22
   },
   {
     "book_number": 34,
@@ -369,9 +369,9 @@
     "title_en": "Book of Sales and Trade",
     "hadith_start": 2047,
     "hadith_end": 2238,
-    "hadith_count": 192,
+    "hadith_count": 193,
     "hadith_range": "2047-2238",
-    "hadiths_count": 184
+    "hadiths_count": 193
   },
   {
     "book_number": 35,
@@ -380,9 +380,9 @@
     "title_en": "Book of As-Salam (Forward Buying)",
     "hadith_start": 2239,
     "hadith_end": 2256,
-    "hadith_count": 18,
+    "hadith_count": 20,
     "hadith_range": "2239-2256",
-    "hadiths_count": 16
+    "hadiths_count": 20
   },
   {
     "book_number": 36,
@@ -404,7 +404,7 @@
     "hadith_end": 2286,
     "hadith_count": 27,
     "hadith_range": "2260-2286",
-    "hadiths_count": 25
+    "hadiths_count": 27
   },
   {
     "book_number": 38,
@@ -437,7 +437,7 @@
     "hadith_end": 2319,
     "hadith_count": 21,
     "hadith_range": "2299-2319",
-    "hadiths_count": 18
+    "hadiths_count": 21
   },
   {
     "book_number": 41,
@@ -448,7 +448,7 @@
     "hadith_end": 2350,
     "hadith_count": 31,
     "hadith_range": "2320-2350",
-    "hadiths_count": 28
+    "hadiths_count": 31
   },
   {
     "book_number": 42,
@@ -458,8 +458,8 @@
     "hadith_start": 2351,
     "hadith_end": 2384,
     "hadith_count": 34,
-    "hadith_range": "2351-2383",
-    "hadiths_count": 31
+    "hadith_range": "2351-2384",
+    "hadiths_count": 34
   },
   {
     "book_number": 43,
@@ -470,7 +470,7 @@
     "hadith_end": 2409,
     "hadith_count": 25,
     "hadith_range": "2385-2409",
-    "hadiths_count": 24
+    "hadiths_count": 25
   },
   {
     "book_number": 44,
@@ -481,7 +481,7 @@
     "hadith_end": 2425,
     "hadith_count": 16,
     "hadith_range": "2410-2425",
-    "hadiths_count": 15
+    "hadiths_count": 16
   },
   {
     "book_number": 45,
@@ -490,7 +490,7 @@
     "title_en": "Book of Lost Property Found by Others",
     "hadith_start": 2426,
     "hadith_end": 2439,
-    "hadith_count": 14,
+    "hadith_count": 15,
     "hadith_range": "2426-2439",
     "hadiths_count": 15
   },
@@ -514,7 +514,7 @@
     "hadith_end": 2507,
     "hadith_count": 25,
     "hadith_range": "2483-2507",
-    "hadiths_count": 22
+    "hadiths_count": 25
   },
   {
     "book_number": 48,
@@ -524,8 +524,8 @@
     "hadith_start": 2508,
     "hadith_end": 2516,
     "hadith_count": 9,
-    "hadith_range": "2508-2515",
-    "hadiths_count": 8
+    "hadith_range": "2508-2516",
+    "hadiths_count": 9
   },
   {
     "book_number": 49,
@@ -536,7 +536,7 @@
     "hadith_end": 2559,
     "hadith_count": 43,
     "hadith_range": "2517-2559",
-    "hadiths_count": 41
+    "hadiths_count": 43
   },
   {
     "book_number": 50,
@@ -558,7 +558,7 @@
     "hadith_end": 2636,
     "hadith_count": 71,
     "hadith_range": "2566-2636",
-    "hadiths_count": 68
+    "hadiths_count": 71
   },
   {
     "book_number": 52,
@@ -569,7 +569,7 @@
     "hadith_end": 2689,
     "hadith_count": 53,
     "hadith_range": "2637-2689",
-    "hadiths_count": 50
+    "hadiths_count": 53
   },
   {
     "book_number": 53,
@@ -577,21 +577,21 @@
     "title_ms": "Kitab Perdamaian (Sulh)",
     "title_en": "Book of Peacemaking (Reconciliation)",
     "hadith_start": 2690,
-    "hadith_end": 2710,
-    "hadith_count": 21,
-    "hadith_range": "2690-2710",
-    "hadiths_count": 20
+    "hadith_end": 2711,
+    "hadith_count": 22,
+    "hadith_range": "2690-2711",
+    "hadiths_count": 22
   },
   {
     "book_number": 54,
     "title_ar": "كتاب الشروط",
     "title_ms": "Kitab Syarat-Syarat",
     "title_en": "Book of Conditions",
-    "hadith_start": 2711,
+    "hadith_start": 2712,
     "hadith_end": 2737,
-    "hadith_count": 27,
+    "hadith_count": 26,
     "hadith_range": "2712-2737",
-    "hadiths_count": 24
+    "hadiths_count": 26
   },
   {
     "book_number": 55,
@@ -613,7 +613,7 @@
     "hadith_end": 3090,
     "hadith_count": 309,
     "hadith_range": "2782-3090",
-    "hadiths_count": 294
+    "hadiths_count": 309
   },
   {
     "book_number": 57,
@@ -621,21 +621,21 @@
     "title_ms": "Kitab Kewajipan Seperlima Harta Rampasan (Khums)",
     "title_en": "Book of One-Fifth of Booty to the Cause of Allah",
     "hadith_start": 3091,
-    "hadith_end": 3155,
-    "hadith_count": 65,
-    "hadith_range": "3091-3155",
-    "hadiths_count": 63
+    "hadith_end": 3156,
+    "hadith_count": 66,
+    "hadith_range": "3091-3156",
+    "hadiths_count": 66
   },
   {
     "book_number": 58,
     "title_ar": "كتاب الجزية والموادعة",
     "title_ms": "Kitab Jizyah dan Perjanjian Damai",
     "title_en": "Book of Jizyah and Tax",
-    "hadith_start": 3156,
+    "hadith_start": 3157,
     "hadith_end": 3189,
-    "hadith_count": 34,
+    "hadith_count": 33,
     "hadith_range": "3157-3189",
-    "hadiths_count": 30
+    "hadiths_count": 33
   },
   {
     "book_number": 59,
@@ -646,7 +646,7 @@
     "hadith_end": 3325,
     "hadith_count": 136,
     "hadith_range": "3190-3325",
-    "hadiths_count": 131
+    "hadiths_count": 136
   },
   {
     "book_number": 60,
@@ -657,7 +657,7 @@
     "hadith_end": 3488,
     "hadith_count": 163,
     "hadith_range": "3326-3488",
-    "hadiths_count": 154
+    "hadiths_count": 163
   },
   {
     "book_number": 61,
@@ -666,9 +666,9 @@
     "title_en": "Book of Virtues and Merits of the Prophet and Companions",
     "hadith_start": 3489,
     "hadith_end": 3648,
-    "hadith_count": 160,
+    "hadith_count": 162,
     "hadith_range": "3489-3648",
-    "hadiths_count": 151
+    "hadiths_count": 162
   },
   {
     "book_number": 62,
@@ -677,9 +677,9 @@
     "title_en": "Book of Companions of the Prophet",
     "hadith_start": 3649,
     "hadith_end": 3775,
-    "hadith_count": 127,
+    "hadith_count": 128,
     "hadith_range": "3649-3775",
-    "hadiths_count": 120
+    "hadiths_count": 128
   },
   {
     "book_number": 63,
@@ -690,7 +690,7 @@
     "hadith_end": 3948,
     "hadith_count": 173,
     "hadith_range": "3776-3948",
-    "hadiths_count": 172
+    "hadiths_count": 173
   },
   {
     "book_number": 64,
@@ -699,9 +699,9 @@
     "title_en": "Book of Military Expeditions led by the Prophet (Al-Maghazi)",
     "hadith_start": 3949,
     "hadith_end": 4473,
-    "hadith_count": 525,
+    "hadith_count": 526,
     "hadith_range": "3949-4473",
-    "hadiths_count": 488
+    "hadiths_count": 526
   },
   {
     "book_number": 65,
@@ -709,19 +709,19 @@
     "title_ms": "Kitab Tafsir al-Quran",
     "title_en": "Book of Prophetic Commentary on the Quran (Tafseer)",
     "hadith_start": 4474,
-    "hadith_end": 4977,
-    "hadith_count": 504,
-    "hadith_range": "4474-4977",
-    "hadiths_count": 499
+    "hadith_end": 4978,
+    "hadith_count": 507,
+    "hadith_range": "4474-4978",
+    "hadiths_count": 507
   },
   {
     "book_number": 66,
     "title_ar": "كتاب فضائل القرآن",
     "title_ms": "Kitab Keutamaan al-Quran",
     "title_en": "Book of Virtues of the Quran",
-    "hadith_start": 4978,
+    "hadith_start": 4979,
     "hadith_end": 5062,
-    "hadith_count": 85,
+    "hadith_count": 87,
     "hadith_range": "4979-5062",
     "hadiths_count": 87
   },
@@ -734,7 +734,7 @@
     "hadith_end": 5250,
     "hadith_count": 188,
     "hadith_range": "5063-5250",
-    "hadiths_count": 183
+    "hadiths_count": 188
   },
   {
     "book_number": 68,
@@ -745,7 +745,7 @@
     "hadith_end": 5350,
     "hadith_count": 100,
     "hadith_range": "5251-5350",
-    "hadiths_count": 95
+    "hadiths_count": 100
   },
   {
     "book_number": 69,
@@ -765,7 +765,7 @@
     "title_en": "Book of Foods and Meals",
     "hadith_start": 5373,
     "hadith_end": 5466,
-    "hadith_count": 94,
+    "hadith_count": 95,
     "hadith_range": "5373-5466",
     "hadiths_count": 95
   },
@@ -776,7 +776,7 @@
     "title_en": "Book of Sacrifice for Newborn (Aqiqa)",
     "hadith_start": 5467,
     "hadith_end": 5474,
-    "hadith_count": 8,
+    "hadith_count": 9,
     "hadith_range": "5467-5474",
     "hadiths_count": 9
   },
@@ -789,7 +789,7 @@
     "hadith_end": 5544,
     "hadith_count": 70,
     "hadith_range": "5475-5544",
-    "hadiths_count": 69
+    "hadiths_count": 70
   },
   {
     "book_number": 73,
@@ -822,7 +822,7 @@
     "hadith_end": 5677,
     "hadith_count": 38,
     "hadith_range": "5640-5677",
-    "hadiths_count": 37
+    "hadiths_count": 38
   },
   {
     "book_number": 76,
@@ -833,7 +833,7 @@
     "hadith_end": 5782,
     "hadith_count": 105,
     "hadith_range": "5678-5782",
-    "hadiths_count": 93
+    "hadiths_count": 105
   },
   {
     "book_number": 77,
@@ -842,9 +842,9 @@
     "title_en": "Book of Dress",
     "hadith_start": 5783,
     "hadith_end": 5969,
-    "hadith_count": 187,
+    "hadith_count": 188,
     "hadith_range": "5783-5969",
-    "hadiths_count": 185
+    "hadiths_count": 188
   },
   {
     "book_number": 78,
@@ -855,7 +855,7 @@
     "hadith_end": 6226,
     "hadith_count": 257,
     "hadith_range": "5970-6226",
-    "hadiths_count": 250
+    "hadiths_count": 257
   },
   {
     "book_number": 79,
@@ -866,7 +866,7 @@
     "hadith_end": 6303,
     "hadith_count": 77,
     "hadith_range": "6227-6303",
-    "hadiths_count": 75
+    "hadiths_count": 77
   },
   {
     "book_number": 80,
@@ -877,7 +877,7 @@
     "hadith_end": 6411,
     "hadith_count": 108,
     "hadith_range": "6304-6411",
-    "hadiths_count": 106
+    "hadiths_count": 108
   },
   {
     "book_number": 81,
@@ -888,7 +888,7 @@
     "hadith_end": 6593,
     "hadith_count": 182,
     "hadith_range": "6412-6593",
-    "hadiths_count": 181
+    "hadiths_count": 182
   },
   {
     "book_number": 82,
@@ -899,7 +899,7 @@
     "hadith_end": 6620,
     "hadith_count": 27,
     "hadith_range": "6594-6620",
-    "hadiths_count": 26
+    "hadiths_count": 27
   },
   {
     "book_number": 83,
@@ -910,7 +910,7 @@
     "hadith_end": 6707,
     "hadith_count": 87,
     "hadith_range": "6621-6707",
-    "hadiths_count": 84
+    "hadiths_count": 87
   },
   {
     "book_number": 84,
@@ -932,7 +932,7 @@
     "hadith_end": 6771,
     "hadith_count": 49,
     "hadith_range": "6723-6771",
-    "hadiths_count": 47
+    "hadiths_count": 49
   },
   {
     "book_number": 86,
@@ -943,7 +943,7 @@
     "hadith_end": 6860,
     "hadith_count": 89,
     "hadith_range": "6772-6860",
-    "hadiths_count": 81
+    "hadiths_count": 89
   },
   {
     "book_number": 87,
@@ -952,9 +952,9 @@
     "title_en": "Book of Blood Money (Ad-Diyat)",
     "hadith_start": 6861,
     "hadith_end": 6917,
-    "hadith_count": 57,
+    "hadith_count": 59,
     "hadith_range": "6861-6917",
-    "hadiths_count": 55
+    "hadiths_count": 59
   },
   {
     "book_number": 88,
@@ -965,7 +965,7 @@
     "hadith_end": 6939,
     "hadith_count": 22,
     "hadith_range": "6918-6939",
-    "hadiths_count": 21
+    "hadiths_count": 22
   },
   {
     "book_number": 89,
@@ -987,7 +987,7 @@
     "hadith_end": 6981,
     "hadith_count": 29,
     "hadith_range": "6953-6981",
-    "hadiths_count": 28
+    "hadiths_count": 29
   },
   {
     "book_number": 91,
@@ -998,7 +998,7 @@
     "hadith_end": 7047,
     "hadith_count": 66,
     "hadith_range": "6982-7047",
-    "hadiths_count": 61
+    "hadiths_count": 66
   },
   {
     "book_number": 92,
@@ -1009,7 +1009,7 @@
     "hadith_end": 7136,
     "hadith_count": 89,
     "hadith_range": "7048-7136",
-    "hadiths_count": 83
+    "hadiths_count": 89
   },
   {
     "book_number": 93,
@@ -1020,7 +1020,7 @@
     "hadith_end": 7225,
     "hadith_count": 89,
     "hadith_range": "7137-7225",
-    "hadiths_count": 84
+    "hadiths_count": 89
   },
   {
     "book_number": 94,
@@ -1042,7 +1042,7 @@
     "hadith_end": 7267,
     "hadith_count": 22,
     "hadith_range": "7246-7267",
-    "hadiths_count": 21
+    "hadiths_count": 22
   },
   {
     "book_number": 96,
@@ -1053,7 +1053,7 @@
     "hadith_end": 7370,
     "hadith_count": 103,
     "hadith_range": "7268-7370",
-    "hadiths_count": 97
+    "hadiths_count": 103
   },
   {
     "book_number": 97,
@@ -1064,6 +1064,6 @@
     "hadith_end": 7563,
     "hadith_count": 193,
     "hadith_range": "7371-7563",
-    "hadiths_count": 188
+    "hadiths_count": 193
   }
 ]
