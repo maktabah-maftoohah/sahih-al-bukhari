@@ -122,7 +122,16 @@
       "ms": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sulaiman At Taimi] dari [Abu 'Utsman An Nahdi] dari [Ibnu Mas'ud], bahwa ada seorang laki-laki mencium seorang wanita, ia lalu mendatangi Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau. Maka turunlah firman Allah: '(Dan dirikanlah shalat pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk).' (Qs. Huud: 114). Laki-laki itu lalu bertanya, \"Wahai Rasulullah, apakah ini khusus buatku?\" beliau menjawab: \"Untuk semua umatku",
       "en": "Narrated Ibn Mas`ud:A man kissed a woman (unlawfully) and then went to the Prophet (ﷺ) and informed him. Allah revealed: And offer prayers perfectly At the two ends of the day And in some hours of the night (i.e. the five compulsory prayers). Verily! good deeds remove (annul) the evil deeds (small sins) (11.114). The man asked Allah's Messenger (ﷺ), \"Is it for me?\" He said, \"It is for all my followers",
       "id": "Telah menceritakan kepada kami [Qutaibah] berkata, telah menceritakan kepada kami [Yazid bin Zurai'] dari [Sulaiman At Taimi] dari [Abu 'Utsman An Nahdi] dari [Ibnu Mas'ud], bahwa ada seorang laki-laki mencium seorang wanita, ia lalu mendatangi Nabi shallallahu 'alaihi wasallam dan mengabarkan kepada beliau. Maka turunlah firman Allah: '(Dan dirikanlah shalat pada kedua tepi siang (pagi dan petang) dan pada bahagian permulaan daripada malam. Sesungguhnya perbuatan-perbuatan yang baik itu menghapuskan (dosa) perbuatan-perbuatan yang buruk).' (Qs. Huud: 114). Laki-laki itu lalu bertanya, \"Wahai Rasulullah, apakah ini khusus buatku?\" beliau menjawab: \"Untuk semua umatku"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 11,
+        "ayah": 114,
+        "surah_name": "Hud",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/11/114"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -447,7 +456,16 @@
       "ms": "Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami dari [Muhajir Abu Al Hasan] mantan budak bani Taimillah, ia berkata, aku mendengar [Zaid bin Wahb] dari [Abu Dzar Al Ghifari] berkata, \"Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika ada mu'adzin yang hendak mengumandangkan adzan Zhuhur, Nabi shallallahu 'alaihi wasallam bersabda: \"Tundalah.\" Sesaat kemudian mu'adzin itu kembali akan mengumandangkan adzan. Maka Nabi shallallahu 'alaihi wasallam pun kembali bersabda: \"Tundalah hingga kita melihat bayang-bayang bukit.\" Kemudian Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya panas yang sangat menyengat itu berasal dari hembusan api jahannam. Maka apabila udara sangat panas menyengat tundalah shalat (hingga panas) mereda.\" Ibnu 'Abbas berkata, \"Maksud dari firman Allah: tataqayya'u (Qs. An Nahl: 48) adalah condong",
       "en": "Narrated Abu Dhar Al-Ghifar:We were with the Prophet (ﷺ) on a journey and the Mu'adh-dhin (call maker for the prayer) wanted to pronounce the Adhan (call) for the Zuhr prayer. The Prophet (ﷺ) said, 'Let it become cooler.\" He again (after a while) wanted to pronounce the Adhan but the Prophet (ﷺ) said to him, \"Let it become cooler till we see the shadows of hillocks.\" The Prophet (ﷺ) added, \"The severity of heat is from the raging of the Hell-fire, and in very hot weather pray (Zuhr) when it becomes cooler",
       "id": "Telah menceritakan kepada kami [Adam bin Abu Iyas] berkata, telah menceritakan kepada kami [Syu'bah] berkata, telah menceritakan kepada kami dari [Muhajir Abu Al Hasan] mantan budak bani Taimillah, ia berkata, aku mendengar [Zaid bin Wahb] dari [Abu Dzar Al Ghifari] berkata, \"Kami pernah bersama Nabi shallallahu 'alaihi wasallam dalam suatu perjalanan, ketika ada mu'adzin yang hendak mengumandangkan adzan Zhuhur, Nabi shallallahu 'alaihi wasallam bersabda: \"Tundalah.\" Sesaat kemudian mu'adzin itu kembali akan mengumandangkan adzan. Maka Nabi shallallahu 'alaihi wasallam pun kembali bersabda: \"Tundalah hingga kita melihat bayang-bayang bukit.\" Kemudian Nabi shallallahu 'alaihi wasallam bersabda: \"Sesungguhnya panas yang sangat menyengat itu berasal dari hembusan api jahannam. Maka apabila udara sangat panas menyengat tundalah shalat (hingga panas) mereda.\" Ibnu 'Abbas berkata, \"Maksud dari firman Allah: tataqayya'u (Qs. An Nahl: 48) adalah condong"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 16,
+        "ayah": 48,
+        "surah_name": "An-Nahl",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/16/48"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -772,7 +790,16 @@
       "ms": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang kehilangan shalat 'Ashar (dengan berjama'ah) seperti orang yang kehilangan keluarga dan hartanya.\" Saat menafsirkan ayat: '(Dia sekali-kali tidak akan mengurangi) ' (Qs. Muhammad: 35) Abu Abdullah berkata, \"Bila kamu membunuh seseorang atau kamu mengambil hartanya",
       "en": "Narrated Ibn `Umar:Allah's Messenger (ﷺ) said, \"Whoever misses the `Asr prayer (intentionally) then it is as if he lost his family and property",
       "id": "Telah menceritakan kepada kami ['Abdullah bin Yusuf] berkata, telah mengabarkan kepada kami [Malik] dari [Nafi'] dari ['Abdullah bin 'Umar], bahwa Rasulullah shallallahu 'alaihi wasallam bersabda: \"Orang yang kehilangan shalat 'Ashar (dengan berjama'ah) seperti orang yang kehilangan keluarga dan hartanya.\" Saat menafsirkan ayat: '(Dia sekali-kali tidak akan mengurangi) ' (Qs. Muhammad: 35) Abu Abdullah berkata, \"Bila kamu membunuh seseorang atau kamu mengambil hartanya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 47,
+        "ayah": 35,
+        "surah_name": "Muhammad",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/47/35"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -822,7 +849,16 @@
       "ms": "Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] berkata, telah menceritakan kepada kami [Isma'il] dari [Qais] dari [Jarir bin 'Abdullah] berkata, \"Pada suatu malam kami pernah bersama Nabi shallallahu 'alaihi wasallam, beliau lalu melihat ke arah bulan purnama. Kemudian beliau bersabda: \"Sesungguhnya kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan purnama ini. Dan kalian tidak akan saling berdesakan dalam melihat-Nya. Maka jika kalian mampu untuk tidak terlewatkan untuk melaksanakan shalat sebelum terbit matahri dan sebelum terbenamnya, maka lakukanlah.\" Beliau kemudian membaca ayat: '(Dan bertasbihlah sambil memuji Rabbmu sebelum terbit matahari dan sebelum terbenamnya) ' (Qs. Qaaf: 39). Isma'il menyebutkan, \"Kerjakanlah dan sekali-kali jangan sampai kalian terlewatkan",
       "en": "Narrated Qais:Jarir said, \"We were with the Prophet (ﷺ) and he looked at the moon--full-moon--and said, 'Certainly you will see your Lord as you see this moon and you will have no trouble in seeing Him. So if you can avoid missing (through sleep or business, etc.) a prayer before the sunrise (Fajr) and a prayer before sunset (`Asr), you must do so.' He then recited Allah's Statement: And celebrate the praises Of your Lord before the rising of the sun and before (its) setting.\" (50.39) Isma`il said, \"Offer those prayers and do not miss them",
       "id": "Telah menceritakan kepada kami [Al Humaidi] berkata, telah menceritakan kepada kami [Marwan bin Mu'awiyah] berkata, telah menceritakan kepada kami [Isma'il] dari [Qais] dari [Jarir bin 'Abdullah] berkata, \"Pada suatu malam kami pernah bersama Nabi shallallahu 'alaihi wasallam, beliau lalu melihat ke arah bulan purnama. Kemudian beliau bersabda: \"Sesungguhnya kalian akan melihat Rabb kalian sebagaimana kalian melihat bulan purnama ini. Dan kalian tidak akan saling berdesakan dalam melihat-Nya. Maka jika kalian mampu untuk tidak terlewatkan untuk melaksanakan shalat sebelum terbit matahri dan sebelum terbenamnya, maka lakukanlah.\" Beliau kemudian membaca ayat: '(Dan bertasbihlah sambil memuji Rabbmu sebelum terbit matahari dan sebelum terbenamnya) ' (Qs. Qaaf: 39). Isma'il menyebutkan, \"Kerjakanlah dan sekali-kali jangan sampai kalian terlewatkan"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 50,
+        "ayah": 39,
+        "surah_name": "Qaf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/50/39"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

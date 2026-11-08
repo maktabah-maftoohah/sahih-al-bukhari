@@ -22,7 +22,16 @@
       "ms": "Telah bercerita kepada kami [Khalid bin Yazid Al Kilaniy] telah bercerita kepada kami [Abu Bakr] dari [Abu Hashin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] menjelaskan tentang firman Allah dalam QS al-Hujurat ayat 13; \"Wa ja'alnaakum syu'uubaw wa qabaa'ila lita'aarafuw\" (Dan Kami jadikan kalian berbangsa-bangsa dan bersuku-suku\"). Asy-Syu'ub (jama' dari asy-Sya'bu) adalah suku bangsa (yang besar) sedang al-qaba'il (jama' dari al-qabilah) adalah suku atau marga",
       "en": "Narrated Ibn `Abbas:Regarding the Verse: 'And (We) made you into Shu'ub and Qabail-- (49.13) that Shu'ub means the big Qabail (i.e. nations) while the Qabail (i.e. tribes) means the branch tribes",
       "id": "Telah bercerita kepada kami [Khalid bin Yazid Al Kilaniy] telah bercerita kepada kami [Abu Bakr] dari [Abu Hashin] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] menjelaskan tentang firman Allah dalam QS al-Hujurat ayat 13; \"Wa ja'alnaakum syu'uubaw wa qabaa'ila lita'aarafuw\" (Dan Kami jadikan kalian berbangsa-bangsa dan bersuku-suku\"). Asy-Syu'ub (jama' dari asy-Sya'bu) adalah suku bangsa (yang besar) sedang al-qaba'il (jama' dari al-qabilah) adalah suku atau marga"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 49,
+        "ayah": 13,
+        "surah_name": "Al-Hujurat",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/49/13"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -222,7 +231,16 @@
       "ms": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] telah bercerita kepadaku ['Abdul Malik] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] tentang firman Allah Ta'ala: \"Illal mawaddatu fil qurbaa\" (\"Kecuali kasih sayang dalam kekeluargaan\") (QS. Asysyura 23), Perawi berkata; \"Maka Sa'id bin Jubair berkata; \"Maksudnya adalah kerabat Nabi Muhammad Shallallhu 'alaihi wa salam\". Lalu (Ibnu 'Abbas) berkata; \"Sesungguhnya Nabi Shallallhu 'alaihi wa salam bukanlah marga dari suku Quraisy tetapi beliau punya hubungan kekerabatan terhadap mereka, maka diturunkanlah wahyu Allah Ta'ala itu kepadanya, yaitu maksudnya kecuali kalian menyambung kekerabatan antara aku dan kalian",
       "en": "Narrated Tawus:Ibn `Abbas recited the Qur'anic Verse:--'Except to be kind to me for my kin-ship to you--\" (42.23) Sa`id bin Jubair said, \"(The Verse implies) the kinship of Muhammad.\" Ibn `Abbas said, \"There was not a single house (i.e. sub-tribe) of Quraish but had a kinship to the Prophet (ﷺ) and so the above Verse was revealed in this connection, and its interpretation is: 'O Quraish! You should keep good relation between me (i.e. Muhammad) and you",
       "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami [Yahya] dari [Syu'bah] telah bercerita kepadaku ['Abdul Malik] dari [Thawus] dari [Ibnu 'Abbas radliallahu 'anhuma] tentang firman Allah Ta'ala: \"Illal mawaddatu fil qurbaa\" (\"Kecuali kasih sayang dalam kekeluargaan\") (QS. Asysyura 23), Perawi berkata; \"Maka Sa'id bin Jubair berkata; \"Maksudnya adalah kerabat Nabi Muhammad Shallallhu 'alaihi wa salam\". Lalu (Ibnu 'Abbas) berkata; \"Sesungguhnya Nabi Shallallhu 'alaihi wa salam bukanlah marga dari suku Quraisy tetapi beliau punya hubungan kekerabatan terhadap mereka, maka diturunkanlah wahyu Allah Ta'ala itu kepadanya, yaitu maksudnya kecuali kalian menyambung kekerabatan antara aku dan kalian"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 42,
+        "ayah": 23,
+        "surah_name": "Asy-Syura",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/42/23"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -272,7 +290,16 @@
       "ms": "Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; aku mendengar Rasulullah Shallallhu 'alaihi wa salam bersabda: \"Kebanggaan dan kesombongan, ada pada orang-orang yang biasa mengembala, yaitu orang-orang yang tinggal di pelosok, sedangkan karakter tenang ada pada pengembala (pemilik) kambing, dan iman itu ada pada negeri Yaman sedangkan hikmah banyak difahami oleh pendudukYaman\". Abu 'Abdullah Al Bukhariy berkata; \"Dinamakan Yaman karena negeri itu berada di sebelah kanan Ka'bah sedangkan Syam karena negeri itu berada di sebelah kiri dari Ka'bah. Al Masy'amah (dalam QS al-Waqi'ah ayat 9) artinya al-Maysarah (golongan kiri) dan al-yadul yusraa berarti tangan kiri sedangkan al-Janibul aysar (samping kiri) disebut juga asy-Syam",
       "en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, \"Pride and arrogance are characteristics of the rural bedouins while calmness is found among the owners of sheep. Belief is Yemenite, and wisdom is also Yemenite i.e. the Yemenites are well-known for their true belief and wisdom).\" Abu `Abdullah (Al-Bukhari) said, \"Yemen was called so because it is situated to the right of the Ka`ba, and Sham was called so because it is situated to the left of the Ka`ba",
       "id": "Telah bercerita kepada kami [Abu Al Yaman] telah mengabarkan kepada kami [Syu'aib] dari [Az Zuhriy] berkata, telah mengabarkan kepadaku [Abu Salamah bin 'Abdur Rahman] bahwa [Abu Hurairah radliallahu 'anhu] berkata; aku mendengar Rasulullah Shallallhu 'alaihi wa salam bersabda: \"Kebanggaan dan kesombongan, ada pada orang-orang yang biasa mengembala, yaitu orang-orang yang tinggal di pelosok, sedangkan karakter tenang ada pada pengembala (pemilik) kambing, dan iman itu ada pada negeri Yaman sedangkan hikmah banyak difahami oleh pendudukYaman\". Abu 'Abdullah Al Bukhariy berkata; \"Dinamakan Yaman karena negeri itu berada di sebelah kanan Ka'bah sedangkan Syam karena negeri itu berada di sebelah kiri dari Ka'bah. Al Masy'amah (dalam QS al-Waqi'ah ayat 9) artinya al-Maysarah (golongan kiri) dan al-yadul yusraa berarti tangan kiri sedangkan al-Janibul aysar (samping kiri) disebut juga asy-Syam"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 56,
+        "ayah": 9,
+        "surah_name": "Al-Waqi'ah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/56/9"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -747,7 +774,16 @@
       "ms": "Telah bercerita kepada kami [Muhammad] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Amru bin Dinar] bahwa dia mendengar [Jabir radliallahu 'anhu] berkata; \"Kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam, ketika itu orang-orang Kaum Muhajirin sudah bergabung dan jumlah mereka semakin banyak. Di antara Kaum Muhajirin itu ada seorang laki- laki yang pandai memainkan senjata lalu dia memukul pantat seorang shahabat Anshar sehingga menjadikan orang Anshar ini sangat marah, lalu dia berseru seraya berkata; \"Wahai Kaum Anshar\". Laki-laki Muhajirin tadi menimpali dan berseru pula; \"Wahai Kaum Muhajirin\". Akhirnya Nabi shallallahu 'alaihi wasallam datang dan bersabda: \"Mengapa seruan-seruan kaum jahiliyah masih saja terus dipertahankan? '. Kemudian beliau bertanya; \"Apa yang terjadi dengan mereka?\". Lalu beliau diberitahu bahwa ada seorang shahabat Muhajirin yang memukul pantat seorang shahabat Anshar. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Tinggalkanlah seruan itu karena hal semacam itu tercela (buruk) \". Setelah itu 'Abdullah bin Ubbay bin Salul berkata; \"Apakah mereka (Kaum Muhajirin) tengah mengumpulkan kekuatan untuk melawan kami?. Seandainya kita kembali ke Madinah maka orang yang kuat pasti akan mengusir orang yang hina\" (Allah Subhaanahu wa Ta'ala mengabadikan perkataannya ini dalam QS al-Munafiqun ayat 8). Spontan'Umar berkata; \"Tidak sebaiknyakah kita bunuh saja orang tercela ini, wahai Rasulullah!\" Yang dimaksudnya adalah 'Abdullah bin Ubay bin Salul. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Tidak, agar orang-orang tidakberdalih bahwa dia (Muhammad) membunuh shahabatnya",
       "en": "Narrated Jabir:We were in the company of the Prophet (ﷺ) in a Ghazwa. A large number of emigrants joined him and among the emigrants there was a person who used to play jokes (or play with spears); so he (jokingly) stroked an Ansari man on the hip. The Ansari got so angry that both of them called their people. The Ansari said, \"Help, O Ansar!\" And the emigrant said \"Help, O emigrants!\" The Prophet (ﷺ) came out and said, \"What is wrong with the people (as they are calling) this call of the period of Ignorance? \"Then he said, \"What is the matter with them?\" So he was told about the stroke of the emigrant to the Ansari. The Prophet (ﷺ) said, \"Stop this (i.e. appeal for help) for it is an evil call. \"Abdullah bin Ubai bin Salul (a hypocrite) said, \"The emigrants have called and (gathered against us); so when we return to Medina, surely, the more honorable people will expel therefrom the meaner,\" Upon that `Umar said, \"O Allah's Prophet! Shall we not kill this evil person (i.e. `Abdullah bin Ubai bin Salul) ?\" The Prophet) said, \"(No), lest the people should say that Muhammad used to kill his companions",
       "id": "Telah bercerita kepada kami [Muhammad] telah mengabarkan kepada kami [Makhlad bin Yazid] telah mengabarkan kepada kami [Ibnu Juraij] berkata, telah mengabarkan kepadaku ['Amru bin Dinar] bahwa dia mendengar [Jabir radliallahu 'anhu] berkata; \"Kami pernah berperang bersama Nabi shallallahu 'alaihi wasallam, ketika itu orang-orang Kaum Muhajirin sudah bergabung dan jumlah mereka semakin banyak. Di antara Kaum Muhajirin itu ada seorang laki- laki yang pandai memainkan senjata lalu dia memukul pantat seorang shahabat Anshar sehingga menjadikan orang Anshar ini sangat marah, lalu dia berseru seraya berkata; \"Wahai Kaum Anshar\". Laki-laki Muhajirin tadi menimpali dan berseru pula; \"Wahai Kaum Muhajirin\". Akhirnya Nabi shallallahu 'alaihi wasallam datang dan bersabda: \"Mengapa seruan-seruan kaum jahiliyah masih saja terus dipertahankan? '. Kemudian beliau bertanya; \"Apa yang terjadi dengan mereka?\". Lalu beliau diberitahu bahwa ada seorang shahabat Muhajirin yang memukul pantat seorang shahabat Anshar. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Tinggalkanlah seruan itu karena hal semacam itu tercela (buruk) \". Setelah itu 'Abdullah bin Ubbay bin Salul berkata; \"Apakah mereka (Kaum Muhajirin) tengah mengumpulkan kekuatan untuk melawan kami?. Seandainya kita kembali ke Madinah maka orang yang kuat pasti akan mengusir orang yang hina\" (Allah Subhaanahu wa Ta'ala mengabadikan perkataannya ini dalam QS al-Munafiqun ayat 8). Spontan'Umar berkata; \"Tidak sebaiknyakah kita bunuh saja orang tercela ini, wahai Rasulullah!\" Yang dimaksudnya adalah 'Abdullah bin Ubay bin Salul. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Tidak, agar orang-orang tidakberdalih bahwa dia (Muhammad) membunuh shahabatnya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 63,
+        "ayah": 8,
+        "surah_name": "Al-Munafiqun",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/63/8"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -922,7 +958,16 @@
       "ms": "Narrated Ibn `Abbas:When the Verse:-- 'And warn your tribe of near kindred.' (26.214) was revealed, the Prophet (ﷺ) started calling (the 'Arab tribes), \"O Bani Fihr, O Bani `Adi\" mentioning first the various branch tribes of Quraish",
       "en": "Narrated Ibn `Abbas:When the Verse:-- 'And warn your tribe of near kindred.' (26.214) was revealed, the Prophet (ﷺ) started calling (the 'Arab tribes), \"O Bani Fihr, O Bani `Adi\" mentioning first the various branch tribes of Quraish",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 26,
+        "ayah": 214,
+        "surah_name": "Asy-Syu'ara'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/26/214"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -947,7 +992,16 @@
       "ms": "Telah bercerita kepada kami ['Umar bin Hafsh] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami ['Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; \"Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya (\"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat\", maka Nabi shallallahu 'alaihi wasallam berseru: \"Wahai Bani Fihir, wahai Bani 'Adiy, yaitu nama desa-desa suku Quraisy\". Dan [Qabishah] berkata kepada kami, telah mengabarkan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; \"Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya (\"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat\", maka Nabi shallallahu 'alaihi wasallam berseru memanggil mereka suku persuku)",
       "en": "Narrated Ibn `Abbas: When the Verse:-- 'And warn your tribe of near kindred' (26.214). was revealed, the Prophet (ﷺ) started calling every tribe by its name",
       "id": "Telah bercerita kepada kami ['Umar bin Hafsh] telah bercerita kepada kami [bapakku] telah bercerita kepada kami [Al A'masy] telah bercerita kepada kami ['Amru bin Murrah] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; \"Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya (\"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat\", maka Nabi shallallahu 'alaihi wasallam berseru: \"Wahai Bani Fihir, wahai Bani 'Adiy, yaitu nama desa-desa suku Quraisy\". Dan [Qabishah] berkata kepada kami, telah mengabarkan kepada kami [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma] berkata; \"Ketika turun firman Allah Subhaanahu wa Ta'ala QS asy-Syu'ara (26) ayat 214 yang artinya (\"Dan berilah peringatan kepada kerabat-kerabatmu yang terdekat\", maka Nabi shallallahu 'alaihi wasallam berseru memanggil mereka suku persuku)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 26,
+        "ayah": 214,
+        "surah_name": "Asy-Syu'ara'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/26/214"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -3522,7 +3576,16 @@
       "ms": "Narrated Sa`id bin Jubair:About Ibn `Abbas: `Umar bin Al-Khattab used to treat Ibn `Abbas very favorably `Abdur Rahman bin `Auf said to him. \"We also have sons that are equal to him (but you are partial to him.)\" `Umar said, \"It is because of his knowledge.\" Then `Umar asked Ibn `Abbas about the interpretation of the Verse:- 'When come the Help of Allah and the conquest (of Mecca) (110.1) Ibn `Abbas said. \"It portended the death of Allah's Messenger (ﷺ), which Allah had informed him of.\" `Umar said, \"I do not know from this Verse but what you know",
       "en": "Narrated Sa`id bin Jubair:About Ibn `Abbas: `Umar bin Al-Khattab used to treat Ibn `Abbas very favorably `Abdur Rahman bin `Auf said to him. \"We also have sons that are equal to him (but you are partial to him.)\" `Umar said, \"It is because of his knowledge.\" Then `Umar asked Ibn `Abbas about the interpretation of the Verse:- 'When come the Help of Allah and the conquest (of Mecca) (110.1) Ibn `Abbas said. \"It portended the death of Allah's Messenger (ﷺ), which Allah had informed him of.\" `Umar said, \"I do not know from this Verse but what you know",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 110,
+        "ayah": 1,
+        "surah_name": "An-Nasr",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/110/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

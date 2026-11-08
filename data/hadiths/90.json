@@ -322,7 +322,23 @@
       "ms": "Telah menceritakan kepada kami [Abul Yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Urwah] menceritakan; ia bertanya [Aisyah] tentang ayat; 'Jika kalian khawatir tidak bisa berbuat adil terhadap yatimmu, maka nikahilah wanita yang baik-baik bagimu, dua, tiga, atau empat (QS. Annisa'; 3) dia mengatakan; 'yaitu yatim dalam asuhan walinya, dan si wali tersebut kurang menyukai kecantikan dan hartanya, namun tetap akan ia nikahi dengan syarat membayar mahar serendah-rendahnya yang menyalahi adat normal. Maka mereka dilarang menikahi anak-anak yatim tersebut kecuali jika berbuat adil dengan membayar mahar secara sempurna, lantas para sahabat bertanya kepada Rasulullah shallallahu 'alaihi wasallam di kemudian hari, maka Allah menurunkan ayat; 'Mereka meminta fatwa kepadamu,,, dan seterusnya (QS. Annisa' 127), kemudian dia menyebutkan hadits",
       "en": "Narrated `Urwa:That he asked `Aisha regarding the Verse: 'If you fear that you shall not be able to deal justly with the orphan girls, marry (other) women of your choice.' (4.3) `Aisha said, \"It is about an orphan girl under the custody of her guardian who being attracted by her wealth and beauty wants to marry her with Mahr less than other women of her status. So such guardians were forbidden to marry them unless they treat them justly by giving them their full Mahr. Then the people sought the verdict of Allah's Apostle for such cases, whereupon Allah revealed: 'They ask your instruction concerning women..' (4.127) (The sub-narrator then mentioned the Hadith)",
       "id": "Telah menceritakan kepada kami [Abul Yaman] telah menceritakan kepada kami [Syu'aib] dari [Az Zuhri] mengatakan, [Urwah] menceritakan; ia bertanya [Aisyah] tentang ayat; 'Jika kalian khawatir tidak bisa berbuat adil terhadap yatimmu, maka nikahilah wanita yang baik-baik bagimu, dua, tiga, atau empat (QS. Annisa'; 3) dia mengatakan; 'yaitu yatim dalam asuhan walinya, dan si wali tersebut kurang menyukai kecantikan dan hartanya, namun tetap akan ia nikahi dengan syarat membayar mahar serendah-rendahnya yang menyalahi adat normal. Maka mereka dilarang menikahi anak-anak yatim tersebut kecuali jika berbuat adil dengan membayar mahar secara sempurna, lantas para sahabat bertanya kepada Rasulullah shallallahu 'alaihi wasallam di kemudian hari, maka Allah menurunkan ayat; 'Mereka meminta fatwa kepadamu,,, dan seterusnya (QS. Annisa' 127), kemudian dia menyebutkan hadits"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 3,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/3"
+      },
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 127,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/127"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

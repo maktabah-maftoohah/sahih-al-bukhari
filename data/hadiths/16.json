@@ -497,7 +497,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata, \"Ketika terjadi gerhana matahari, Nabi shallallahu 'alaihi wasallam berdiri dengan tergesa-gesa seolah akan terjadi hari kiamat. Beliau lantas mendatangi masjid dan shalat dengan berdiri, rukuk dan sujud yang paling panjang, yang pernah aku lihat dari yang beliau pernah lakukan. Kemudian beliau bersabda: \"Inilah dua tanda-tanda yang Allah kirimkan, ia tidak terjadi karena hidup atau matinya seseorang, tetapi '(Dia, Allah mempertakuti hamba-hambaNya dengannya) ' (Qs. Az ZUmar: 16). Maka jika kalian melihat sesuatu padanya (gerhana), maka segeralah untuk mengingat Allah, berdoa dan minta ampunan",
       "en": "Narrated Abu Musa:The sun eclipsed and the Prophet (ﷺ) got up, being afraid that it might be the Hour (i.e. Day of Judgment). He went to the Mosque and offered the prayer with the longest Qiyam, bowing and prostration that I had ever seen him doing. Then he said, \"These signs which Allah sends do not occur because of the life or death of somebody, but Allah makes His worshipers afraid by them. So when you see anything thereof, proceed to remember Allah, invoke Him and ask for His forgiveness",
       "id": "Telah menceritakan kepada kami [Muhammad bin Al 'Ala] berkata, telah menceritakan kepada kami [Abu Usamah] dari [Buraid bin 'Abdullah] dari [Abu Burdah] dari [Abu Musa] berkata, \"Ketika terjadi gerhana matahari, Nabi shallallahu 'alaihi wasallam berdiri dengan tergesa-gesa seolah akan terjadi hari kiamat. Beliau lantas mendatangi masjid dan shalat dengan berdiri, rukuk dan sujud yang paling panjang, yang pernah aku lihat dari yang beliau pernah lakukan. Kemudian beliau bersabda: \"Inilah dua tanda-tanda yang Allah kirimkan, ia tidak terjadi karena hidup atau matinya seseorang, tetapi '(Dia, Allah mempertakuti hamba-hambaNya dengannya) ' (Qs. Az ZUmar: 16). Maka jika kalian melihat sesuatu padanya (gerhana), maka segeralah untuk mengingat Allah, berdoa dan minta ampunan"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 39,
+        "ayah": 16,
+        "surah_name": "Az-Zumar",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/39/16"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

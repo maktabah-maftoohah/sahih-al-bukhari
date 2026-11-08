@@ -597,7 +597,16 @@
       "ms": "Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Malik bin Su'air] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] mengenai firman Allah; \"... Dan janganlah kamu mengeraskan suaramu dalam shalatmu dan janganlah pula merendahkannya...\" QS Al Isra`; 110. ayat ini di turunkan mengenai do'a",
       "en": "Narrated `Aisha:The Verse: 'Neither say your prayer aloud, nor say it in a low tone.' (17.110) was revealed as regards invocation",
       "id": "Telah menceritakan kepada kami [Ali] telah menceritakan kepada kami [Malik bin Su'air] telah menceritakan kepada kami [Hisyam bin 'Urwah] dari [Ayahnya] dari [Aisyah] mengenai firman Allah; \"... Dan janganlah kamu mengeraskan suaramu dalam shalatmu dan janganlah pula merendahkannya...\" QS Al Isra`; 110. ayat ini di turunkan mengenai do'a"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 17,
+        "ayah": 110,
+        "surah_name": "Al-Isra'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/17/110"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

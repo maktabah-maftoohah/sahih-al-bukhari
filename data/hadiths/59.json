@@ -247,7 +247,16 @@
       "ms": "Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] dari [Abu Dzar radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata kepada Abu Dzar ketika matahari sedang terbenam: \"Tahukah kamu kemana matahari itu pergi?\". Aku jawab; \"Allah dan Rasul-Nya yang lebih tahu\". Beliau berkata: \"Sesungguhnya dia akan terus pergi hingga bersujud di bawah al-'Arsy lalu dia minta izin kemudian diizinkan dan dia minta agar terus saja bersujud namun tidak diperkenankan dan minta izin namun tidak diizinkan dan dikatakan kepadanya: \"Kembalilah ke tempat asal kamu datang\". Maka matahari itu terbit (keluar) dari tempat terbenamnya tadi\". Begitulah sebagaimana firman Allah QS Yasin ayat 38 yang artinya: (Dan matahari berjalan pada tempat peredarannya (orbitnya). Demikianlah itu ketetapan Allah Yang Maha Perkasa lagi Maha Mengetahui",
       "en": "Narrated Abu Dhar:The Prophet (ﷺ) asked me at sunset, \"Do you know where the sun goes (at the time of sunset)?\" I replied, \"Allah and His Apostle know better.\" He said, \"It goes (i.e. travels) till it prostrates Itself underneath the Throne and takes the permission to rise again, and it is permitted and then (a time will come when) it will be about to prostrate itself but its prostration will not be accepted, and it will ask permission to go on its course but it will not be permitted, but it will be ordered to return whence it has come and so it will rise in the west. And that is the interpretation of the Statement of Allah: \"And the sun Runs its fixed course For a term (decreed). that is The Decree of (Allah) The Exalted in Might, The All- Knowing",
       "id": "Telah bercerita kepada kami [Muhammad bin Yusuf] telah bercerita kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim at-Taymiy] dari [bapaknya] dari [Abu Dzar radliallahu 'anhu] berkata; Nabi shallallahu 'alaihi wasallam berkata kepada Abu Dzar ketika matahari sedang terbenam: \"Tahukah kamu kemana matahari itu pergi?\". Aku jawab; \"Allah dan Rasul-Nya yang lebih tahu\". Beliau berkata: \"Sesungguhnya dia akan terus pergi hingga bersujud di bawah al-'Arsy lalu dia minta izin kemudian diizinkan dan dia minta agar terus saja bersujud namun tidak diperkenankan dan minta izin namun tidak diizinkan dan dikatakan kepadanya: \"Kembalilah ke tempat asal kamu datang\". Maka matahari itu terbit (keluar) dari tempat terbenamnya tadi\". Begitulah sebagaimana firman Allah QS Yasin ayat 38 yang artinya: (Dan matahari berjalan pada tempat peredarannya (orbitnya). Demikianlah itu ketetapan Allah Yang Maha Perkasa lagi Maha Mengetahui"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 36,
+        "ayah": 38,
+        "surah_name": "Ya Sin",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/36/38"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -422,7 +431,16 @@
       "ms": "Telah bercerita kepada kami [Makkiy bin Ibrahim] telah bercerita kepada kami [Ibnu Juraij] dari ['Atha'] dari ['Aisyah radliallahu 'anhuma] berkata; \"Nabi shallallahu 'alaihi wasallam apabila melihat awan mendung di langit, Beliau memandangnya lalu membelakanginya, mondar-mandir antara keluar-masuk rumah dengan wajah yang berubah. Kemudian 'Aisyah minta penjelasan hal itu, maka Nabi shallallahu 'alaihi wasallam bersabda: \"Aku tidak tahu pasti barangkali kejadiannya bisa seperti kaum yang berkata (sebagaimana firman Allah dalam QS al-Ahqaf ayat 24) yang artinya: \"Maka tatkala mereka melihat adzab itu berupa awan yang menuju ke lembah-lembah mereka",
       "en": "Narrated Ata:`Aisha said If the Prophet (ﷺ) saw a cloud In the sky, he would walk to and fro in agitation, go out and come in, and the color of his face would change, and if it rained, he would feel relaxed.\" So `Aisha knew that state of his. So the Prophet (ﷺ) said, I don't know (am afraid), it may be similar to what happened to some people referred to in the Holy Qur'an in the following Verse: -- \"Then when they saw it as a dense cloud coming towards their valleys, they said, 'This is a cloud bringing us rain!' Nay, but, it is that (torment) which you were asking to be hastened a wind wherein is severe torment",
       "id": "Telah bercerita kepada kami [Makkiy bin Ibrahim] telah bercerita kepada kami [Ibnu Juraij] dari ['Atha'] dari ['Aisyah radliallahu 'anhuma] berkata; \"Nabi shallallahu 'alaihi wasallam apabila melihat awan mendung di langit, Beliau memandangnya lalu membelakanginya, mondar-mandir antara keluar-masuk rumah dengan wajah yang berubah. Kemudian 'Aisyah minta penjelasan hal itu, maka Nabi shallallahu 'alaihi wasallam bersabda: \"Aku tidak tahu pasti barangkali kejadiannya bisa seperti kaum yang berkata (sebagaimana firman Allah dalam QS al-Ahqaf ayat 24) yang artinya: \"Maka tatkala mereka melihat adzab itu berupa awan yang menuju ke lembah-lembah mereka"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 46,
+        "ayah": 24,
+        "surah_name": "Al-Ahqaf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/46/24"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1097,7 +1115,16 @@
       "ms": "Narrated `Abdullah:Regarding the Verse: \"Indeed he (Muhammad) did see. Of the Signs of his Lord, The Greatest!\" (53.18) That the Prophet (ﷺ) had seen a green carpet spread all over the horizon of the sky",
       "en": "Narrated `Abdullah:Regarding the Verse: \"Indeed he (Muhammad) did see. Of the Signs of his Lord, The Greatest!\" (53.18) That the Prophet (ﷺ) had seen a green carpet spread all over the horizon of the sky",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 53,
+        "ayah": 18,
+        "surah_name": "An-Najm",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/53/18"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1247,7 +1274,16 @@
       "ms": "Narrated Ibn `Abbas:The Prophet (ﷺ) said, \"On the night of my Ascent to the Heaven, I saw Moses who was a tall brown curlyhaired man as if he was one of the men of Shan'awa tribe, and I saw Jesus, a man of medium height and moderate complexion inclined to the red and white colors and of lank hair. I also saw Malik, the gate-keeper of the (Hell) Fire and Ad-Dajjal amongst the signs which Allah showed me.\" (The Prophet then recited the Holy Verse): \"So be not you in doubt of meeting him' when you met Moses during the night of Mi'raj over the heavens\" (32.23) Narrated Anas and Abu Bakra: \"The Prophet (ﷺ) said, \"The angels will guard Medina from Ad-Dajjal (who will not be able to enter the city of Medina)",
       "en": "Narrated Ibn `Abbas:The Prophet (ﷺ) said, \"On the night of my Ascent to the Heaven, I saw Moses who was a tall brown curlyhaired man as if he was one of the men of Shan'awa tribe, and I saw Jesus, a man of medium height and moderate complexion inclined to the red and white colors and of lank hair. I also saw Malik, the gate-keeper of the (Hell) Fire and Ad-Dajjal amongst the signs which Allah showed me.\" (The Prophet then recited the Holy Verse): \"So be not you in doubt of meeting him' when you met Moses during the night of Mi'raj over the heavens\" (32.23) Narrated Anas and Abu Bakra: \"The Prophet (ﷺ) said, \"The angels will guard Medina from Ad-Dajjal (who will not be able to enter the city of Medina)",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 32,
+        "ayah": 23,
+        "surah_name": "As-Sajdah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/32/23"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1922,7 +1958,16 @@
       "ms": "Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari ['Amru] dari ['Atha'] dia mengabarkan dari [Shafwan bin Ya'laa] dari [bapaknya] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam membaca suatu ayat (QS az-Zukhruf ayat 77) di atas mimbar: \"Wa naadaw yaa maalik (Mereka berseru; \"hai maalik)",
       "en": "Narrated Yali:That he heard the Prophet (ﷺ) on the pulpit reciting:-- \"They will cry: \"O Malik!' (43.77) (Malik is the gate-keeper (angel) of the (Hell) Fire",
       "id": "Telah bercerita kepada kami [Qutaibah bin Sa'id] telah bercerita kepada kami [Sufyan] dari ['Amru] dari ['Atha'] dia mengabarkan dari [Shafwan bin Ya'laa] dari [bapaknya] bahwa dia mendengar Nabi shallallahu 'alaihi wasallam membaca suatu ayat (QS az-Zukhruf ayat 77) di atas mimbar: \"Wa naadaw yaa maalik (Mereka berseru; \"hai maalik)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 43,
+        "ayah": 77,
+        "surah_name": "Az-Zukhruf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/43/77"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2147,7 +2192,16 @@
       "ms": "Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami [Yunus] dari [Humaid bin Hilal] dari [Abu Shalih] dari [Abu Sa'id] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika ada seseorang lewat di hadapan salah seorang dari kalian yang sedang shalat, hendaklah dicegahnya. Jika tidak mau dicegahnya lagi dan jika tetap tidak mau, maka perangilah karena dia adalah syetan\". Dan 'Utsman bin Al Haitsam berkata telah bercerita kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu berkata; Rasulullah shallallahu 'alaihi wasallam menugaskan aku menjaga harta zakat Ramadlan kemudian ada orang yang datang mencuri makanan namun aku merebutnya kembali, lalu aku katakan; \"Aku pasti akan mengadukan kamu kepada Rasulullah shallallahu 'alaihi wasallam\". Lalu Abu Hurairah radliallahu 'anhu menceritakan suatu hadits berkenaan masalah ini. Selanjutnya orang yang datang kepadanya tadi berkata; \"Jika kamu hendak berbaring di atas tempat tidurmu, bacalah ayat Al Kursiy karena dengannya kamu selalu dijaga oleh Allah Ta'ala dan syetan tidak akan dapat mendekatimu sampai pagi\". Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Benar apa yang dikatakannya padahal dia itu pendusta. Dia itu syetan",
       "en": "Narrated Muhammad bin Sirin:Abu Huraira said, \"Allah's Messenger (ﷺ) put me in charge of the Zakat of Ramadan (i.e. Zakat-ul-Fitr). Someone came to me and started scooping some of the foodstuff of (Zakat) with both hands. I caught him and told him that I would take him to Allah's Messenger (ﷺ).\" Then Abu Huraira told the whole narration and added \"He (i.e. the thief) said, 'Whenever you go to your bed, recite the Verse of \"Al-Kursi\" (2.255) for then a guardian from Allah will be guarding you, and Satan will not approach you till dawn.' \" On that the Prophet (ﷺ) said, \"He told you the truth, though he is a liar, and he (the thief) himself was the Satan",
       "id": "Telah bercerita kepada kami [Abu Ma'mar] telah bercerita kepada kami ['Abdul Warits] telah bercerita kepada kami [Yunus] dari [Humaid bin Hilal] dari [Abu Shalih] dari [Abu Sa'id] berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Jika ada seseorang lewat di hadapan salah seorang dari kalian yang sedang shalat, hendaklah dicegahnya. Jika tidak mau dicegahnya lagi dan jika tetap tidak mau, maka perangilah karena dia adalah syetan\". Dan 'Utsman bin Al Haitsam berkata telah bercerita kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu berkata; Rasulullah shallallahu 'alaihi wasallam menugaskan aku menjaga harta zakat Ramadlan kemudian ada orang yang datang mencuri makanan namun aku merebutnya kembali, lalu aku katakan; \"Aku pasti akan mengadukan kamu kepada Rasulullah shallallahu 'alaihi wasallam\". Lalu Abu Hurairah radliallahu 'anhu menceritakan suatu hadits berkenaan masalah ini. Selanjutnya orang yang datang kepadanya tadi berkata; \"Jika kamu hendak berbaring di atas tempat tidurmu, bacalah ayat Al Kursiy karena dengannya kamu selalu dijaga oleh Allah Ta'ala dan syetan tidak akan dapat mendekatimu sampai pagi\". Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Benar apa yang dikatakannya padahal dia itu pendusta. Dia itu syetan"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 255,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/255"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2222,7 +2276,23 @@
       "ms": "Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami ['Amru] berkata telah mengabarkan kepadaku [Sa'id bin Jubair] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma], lalu dia menjawab, telah bercerita kepada kami [Ubay bin Ka'ab] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \" Musa Alaihissalam berkata kepada muridnya; \"Hidangkanlah makanan siang kita\". Muridnya berkata; (\"Tahukah kamu tatkala kita mecari tempat berlindung di batu tadi?. Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidak ada yang melupakan aku untuk menceritakannya kecuali setan\"). Maka Musa Alaihissalam tidak mendapatkan jatah makan hingga mereka menemukan tempat yang diperintahkan Allah Ta'ala\". (Kisah dalam QS al-Kahfi ayat)",
       "en": "Narrated Ubai bin Ka`b:That he heard Allah's Messenger (ﷺ) saying, \"(The prophet) Moses said to his attendant, \"Bring us our early meal' (18.62). The latter said, 'Did you remember when we betook ourselves to the rock? I indeed forgot the fish and none but Satan made me forget to remember it.\" (18.63) Moses did not feel tired till he had crossed the place which Allah ordered him to go to",
       "id": "Telah bercerita kepada kami [Al Humaidiy] telah bercerita kepada kami [Sufyan] telah bercerita kepada kami ['Amru] berkata telah mengabarkan kepadaku [Sa'id bin Jubair] berkata; Aku bertanya kepada [Ibnu 'Abbas radliallahu 'anhuma], lalu dia menjawab, telah bercerita kepada kami [Ubay bin Ka'ab] bahwa dia mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \" Musa Alaihissalam berkata kepada muridnya; \"Hidangkanlah makanan siang kita\". Muridnya berkata; (\"Tahukah kamu tatkala kita mecari tempat berlindung di batu tadi?. Sesungguhnya aku lupa (menceritakan tentang) ikan itu dan tidak ada yang melupakan aku untuk menceritakannya kecuali setan\"). Maka Musa Alaihissalam tidak mendapatkan jatah makan hingga mereka menemukan tempat yang diperintahkan Allah Ta'ala\". (Kisah dalam QS al-Kahfi ayat)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 18,
+        "ayah": 62,
+        "surah_name": "Al-Kahf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/18/62"
+      },
+      {
+        "type": "quran",
+        "surah": 18,
+        "ayah": 63,
+        "surah_name": "Al-Kahf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/18/63"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

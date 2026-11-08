@@ -547,7 +547,16 @@
       "ms": "Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada saya [Ibnu Wahb] berkata, telah menceritakan kepada saya ['Umar bin Muhammad] bahwa [Hafsh bin 'Ashim] menceritakan kepadanya berkata; \" [Ibnu 'Umar radliallahu 'anhumaa] mengadakan perjalanan lalu berkata: \"Aku pernah menemani Nabi shallallahu 'alaihi wasallam dan aku tidak melihat Beliau melaksanakan shalat sunnah dalam safarnya\". Dan Allah subhanahu wata'ala telah berfirman: \"Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu\". (QS. Ahzab)",
       "en": "Narrated Hafs bin `Asim:Ibn `Umar went on a journey and said, \"I accompanied the Prophet (ﷺ) and he did not offer optional prayers during the journey, and Allah says: 'Verily! In Allah's Messenger (ﷺ) you have a good example to follow",
       "id": "Telah menceritakan kepada kami [Yahya bin Sulaiman] berkata, telah menceritakan kepada saya [Ibnu Wahb] berkata, telah menceritakan kepada saya ['Umar bin Muhammad] bahwa [Hafsh bin 'Ashim] menceritakan kepadanya berkata; \" [Ibnu 'Umar radliallahu 'anhumaa] mengadakan perjalanan lalu berkata: \"Aku pernah menemani Nabi shallallahu 'alaihi wasallam dan aku tidak melihat Beliau melaksanakan shalat sunnah dalam safarnya\". Dan Allah subhanahu wata'ala telah berfirman: \"Sungguh telah ada pada (diri) Rasulullah itu suri teladan yang baik bagimu\". (QS. Ahzab)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 33,
+        "ayah": 1,
+        "surah_name": "Al-Ahzab",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/33/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

@@ -97,7 +97,16 @@
       "ms": "Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa] dia adalah putra Yunus dari [Isma'il] dari [Al Harits bin Syubail] dari [Abu 'Amru Asy Syaibaniy] berkata; [Zaid bin Arqam] berkata, kepadaku: \"Sungguh kami pernah berbicara ketika sedang shalat hingga ada seorang diantara kami yang berbicara dengan temannya tentang kebutuhannya sampai kemudian turun firman Allah Ta'ala (dalam surah Al Baqarah) \"Peliharalah seluruh shalat kalian dan shalat Al Wustha dan berdirilah (dalam shalat) untuk Allah dengan khusyu'\". (QS. Albaqarah, 238), Maka kami diperintah untuk diam",
       "en": "Narrated Zaid bin Arqam:In the lifetime of the Prophet (ﷺ) we used to speak while praying, and one of us would tell his needs to his companions, till the verse, 'Guard strictly your prayers (2.238) was revealed. After that we were ordered to remain silent while praying",
       "id": "Telah menceritakan kepada kami [Ibrahim bin Musa] telah mengabarkan kepada kami ['Isa] dia adalah putra Yunus dari [Isma'il] dari [Al Harits bin Syubail] dari [Abu 'Amru Asy Syaibaniy] berkata; [Zaid bin Arqam] berkata, kepadaku: \"Sungguh kami pernah berbicara ketika sedang shalat hingga ada seorang diantara kami yang berbicara dengan temannya tentang kebutuhannya sampai kemudian turun firman Allah Ta'ala (dalam surah Al Baqarah) \"Peliharalah seluruh shalat kalian dan shalat Al Wustha dan berdirilah (dalam shalat) untuk Allah dengan khusyu'\". (QS. Albaqarah, 238), Maka kami diperintah untuk diam"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 238,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/238"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

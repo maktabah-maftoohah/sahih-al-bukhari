@@ -247,7 +247,16 @@
       "ms": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sayf] berkata, telah menceritakan kepada saya [Mujahid] berkata, aku mendengar ['Abdurrahman bin Abu Laila] bahwa [Ka'ab bin 'Ujrah radliallahu 'anhu] berkata: \"Rasulullah shallallahu 'alaihi wasallam menghampiriku di Hudaibiyah ketika kepalaku dipenuhi kutu, Beliau berkata: \"Barangkali kamu terkena serangga (kutu di kepala)?\". Aku jawab: \"Benar, wahai Rasulullah\". Maka Beliau berkata: \"Cukurlah rambutnu\". Atau dia berkata: \"Ayat ini turun untukku\" (QS Al Baqarah ayat 196 yang artinya): (\"....Maka barangsiapa dari kalian yang sakit atau tertimpa sesuatu pada kepalanya...) hingga akhir ayat. Maka Nabi shallallahu 'alaihi wasallam berkata: \"Laksanakanlah shaum tiga hari atau bershadaqah sebanyak faraq (tiga sha') terhadap enam orang atau berqurban dengan yang mudah buatmu",
       "en": "Narrated Ka`b bin `Umra:Allah's Messenger (ﷺ) stood beside me at Al-Hudaibiya and the lice were falling from my head in great number. He asked me, \"Have your lice troubled you?\" I replied in the affirmative. He ordered me to get my head shaved. Ka`b added, \"This Holy Verse:--'And if any of you is ill, or has ailment in his scalp (2.196), etc. was revealed regarding me. \"The Prophet (ﷺ) then ordered me either to fast three days, or to feed six poor persons with one Faraq (three Sas) (of dates), or to slaughter a sheep, etc. (sacrifice) whatever was available",
       "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Sayf] berkata, telah menceritakan kepada saya [Mujahid] berkata, aku mendengar ['Abdurrahman bin Abu Laila] bahwa [Ka'ab bin 'Ujrah radliallahu 'anhu] berkata: \"Rasulullah shallallahu 'alaihi wasallam menghampiriku di Hudaibiyah ketika kepalaku dipenuhi kutu, Beliau berkata: \"Barangkali kamu terkena serangga (kutu di kepala)?\". Aku jawab: \"Benar, wahai Rasulullah\". Maka Beliau berkata: \"Cukurlah rambutnu\". Atau dia berkata: \"Ayat ini turun untukku\" (QS Al Baqarah ayat 196 yang artinya): (\"....Maka barangsiapa dari kalian yang sakit atau tertimpa sesuatu pada kepalanya...) hingga akhir ayat. Maka Nabi shallallahu 'alaihi wasallam berkata: \"Laksanakanlah shaum tiga hari atau bershadaqah sebanyak faraq (tiga sha') terhadap enam orang atau berqurban dengan yang mudah buatmu"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 196,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/196"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

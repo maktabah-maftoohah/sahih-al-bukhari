@@ -672,7 +672,16 @@
       "ms": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abdurrahman bin Sulaiman bin Al Ghasil] dari ['Abbas bin Sahl bin Sa'd] dia berkata; saya mendengar [Ibnu Zubair] dalam khutbahnya di atas mimbar ketika di Makkah, katanya; \"Wahai sekalian manusia, sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: 'Sekiranya anak Adam diberi satu bukit yang dipenuhi dengan emas, niscaya ia akan menginginkan bukit yang kedua, dan apabila diberi yang kedua, niscaya ia menginginkan bukit yang ketiga, dan tidaklah perut anak Adam dipenuhi melainkan dengan tanah, dan Allah akan menerima taubat siapa saja yang bertaubat",
       "en": "Narrated Sahl bin Sa`d:I heard Ibn Az-Zubair who was on the pulpit at Mecca, delivering a sermon, saying, \"O men! The Prophet used to say, \"If the son of Adam were given a valley full of gold, he would love to have a second one; and if he were given the second one, he would love to have a third, for nothing fills the belly of Adam's son except dust. And Allah forgives he who repents to Him.\" Ubai said, \"We considered this as a saying from the Qur'an till the Sura (beginning with) 'The mutual rivalry for piling up of worldly things diverts you..' (102.1) was revealed",
       "id": "Telah menceritakan kepada kami [Abu Nu'aim] telah menceritakan kepada kami [Abdurrahman bin Sulaiman bin Al Ghasil] dari ['Abbas bin Sahl bin Sa'd] dia berkata; saya mendengar [Ibnu Zubair] dalam khutbahnya di atas mimbar ketika di Makkah, katanya; \"Wahai sekalian manusia, sesungguhnya Nabi shallallahu 'alaihi wasallam bersabda: 'Sekiranya anak Adam diberi satu bukit yang dipenuhi dengan emas, niscaya ia akan menginginkan bukit yang kedua, dan apabila diberi yang kedua, niscaya ia menginginkan bukit yang ketiga, dan tidaklah perut anak Adam dipenuhi melainkan dengan tanah, dan Allah akan menerima taubat siapa saja yang bertaubat"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 102,
+        "ayah": 1,
+        "surah_name": "At-Takatsur",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/102/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -722,7 +731,16 @@
       "ms": "Ubayy said (referring to the hadith above), \"We considered this as a saying from the Qur'an till the Surah (beginning with):\"The mutual rivalry (for piling up of worldly things) diverts you' (102:1) was revealed",
       "en": "Ubayy said (referring to the hadith above), \"We considered this as a saying from the Qur'an till the Surah (beginning with):\"The mutual rivalry (for piling up of worldly things) diverts you' (102:1) was revealed",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 102,
+        "ayah": 1,
+        "surah_name": "At-Takatsur",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/102/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2372,7 +2390,16 @@
       "ms": "Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Abdurrahman] dari [Abu Hurairah] radhilayyahu'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Hari kiamat tak akan terjadi hingga matahari terbit dari bagian barat, jika telah terbit, semua manusia beriman, namun ketika itu (seperti kutipan firman Allah) 'Sudah tak lagi bermanfaat bagi seseorang keimanannya yang sebelumnya tidak beriman atau melakukan kebajikan dengan keimanannya', (QS. Al an'am 165) dan hari kiamat terjadi ketika dua orang telah menyerahkan pakaiannya sehingga keduanya tidak lagi melakukan jual beli dan melipatnya, dan hari kiamat terjadi ketika seseorang telah mengambil susu perahannya dan ia tak jadi menyantapnya, dan hari kiamat terjadi ketika seseorang menuju telaganya dan ia tidak jadi meminumnya, dan hari kiamat terjadi ketika seseorang diantara kalian telah mengangkat suapannya ke mulutnya dan ia tidak jadi menyantapnya",
       "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"The Hour will not be established till the sun rises from the west, and when it rises (from the west) and the people see it, then all of them will believe (in Allah). But that will be the time when 'No good it will do to a soul to believe then. If it believed not before..\"' (6.158) The Hour will be established (so suddenly) that two persons spreading a garment between them will not be able to finish their bargain, nor will they be able to fold it up. The Hour will be established while a man is carrying the milk of his she-camel, but cannot drink it; and the Hour will be established when someone is not able to prepare the tank to water his livestock from it; and the Hour will be established when some of you has raised his food to his mouth but cannot eat it",
       "id": "Telah menceritakan kepada kami [Abul Yaman] telah mengabarkan kepada kami [Syu'aib] telah menceritakan kepada kami [Abu Az Zanad] dari [Abdurrahman] dari [Abu Hurairah] radhilayyahu'anhu, bahwasanya Rasulullah shallallahu 'alaihi wasallam bersabda: \"Hari kiamat tak akan terjadi hingga matahari terbit dari bagian barat, jika telah terbit, semua manusia beriman, namun ketika itu (seperti kutipan firman Allah) 'Sudah tak lagi bermanfaat bagi seseorang keimanannya yang sebelumnya tidak beriman atau melakukan kebajikan dengan keimanannya', (QS. Al an'am 165) dan hari kiamat terjadi ketika dua orang telah menyerahkan pakaiannya sehingga keduanya tidak lagi melakukan jual beli dan melipatnya, dan hari kiamat terjadi ketika seseorang telah mengambil susu perahannya dan ia tak jadi menyantapnya, dan hari kiamat terjadi ketika seseorang menuju telaganya dan ia tidak jadi meminumnya, dan hari kiamat terjadi ketika seseorang diantara kalian telah mengangkat suapannya ke mulutnya dan ia tidak jadi menyantapnya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 6,
+        "ayah": 158,
+        "surah_name": "Al-An'am",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/6/158"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2872,7 +2899,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Mughirah bin Nu'man] dari [Sa'id bin Jubair] dari [Ibnu'Abbas] mengatakan, Nabi shallallahu 'alaihi wasallam pernah berdiri di tengah-tengah kami menyampaikan orasi, lantas bersabda: \"Kalian dikumpulkan dengan keadaan tidak beralas kaki, telanjang dan tidak dikhitan, sambil beliau mengutip firman Allah 'Sebagaimana kami menciptakan awal mula, begitulah kami mengembalikannya' (QS. Anbiya' 104). Manusia pertama-tama yang diberi pakaian adalah Ibrahim 'alaihissalam, dan ia didatangkan dengan beberapa orang umatku, lantas mereka diseret ke sebelah kiri, sehingga aku mengiba-iba; 'Ya rabbi, tolong sahabatku, tolong sahabatku' Namun Allah hanya menjawab; 'engkau tidak tahu, apa yang mereka perbuat setelahnya'. Maka hanya kuutarakan sebagaimana ucapan seorang hamba yang shalih (maksudnya ucapan 'isa), 'Dan aku menjadi saksi mereka ketika aku berada ditengah-tengah mereka' hingga ayat 'sesungguhnya Engkau Maha Perkasa' (QS. Almaidah 118-119). Kata Ibnu 'Abbas, ada berita bahwa mereka murtad di kemudian hari",
       "en": "Narrated Ibn `Abbas:The Prophet (ﷺ) stood up among us and addressed (saying) \"You will be gathered, barefooted, naked, and uncircumcised (as Allah says): 'As We began the first creation, We shall repeat it..' (21.104) And the first human being to be dressed on the Day of Resurrection will be (the Prophet) Abraham Al-Khalil. Then will be brought some men of my followers who will be taken towards the left (i.e., to the Fire), and I will say: 'O Lord! My companions whereupon Allah will say: You do not know what they did after you left them. I will then say as the pious slave, Jesus said, And I was witness over them while I dwelt amongst them..........(up to) ...the All-Wise.' (5.117-118). The narrator added: Then it will be said that those people (relegated from Islam, that is) kept on turning on their heels (deserted Islam)",
       "id": "Telah menceritakan kepada kami [Muhammad bin Basyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Mughirah bin Nu'man] dari [Sa'id bin Jubair] dari [Ibnu'Abbas] mengatakan, Nabi shallallahu 'alaihi wasallam pernah berdiri di tengah-tengah kami menyampaikan orasi, lantas bersabda: \"Kalian dikumpulkan dengan keadaan tidak beralas kaki, telanjang dan tidak dikhitan, sambil beliau mengutip firman Allah 'Sebagaimana kami menciptakan awal mula, begitulah kami mengembalikannya' (QS. Anbiya' 104). Manusia pertama-tama yang diberi pakaian adalah Ibrahim 'alaihissalam, dan ia didatangkan dengan beberapa orang umatku, lantas mereka diseret ke sebelah kiri, sehingga aku mengiba-iba; 'Ya rabbi, tolong sahabatku, tolong sahabatku' Namun Allah hanya menjawab; 'engkau tidak tahu, apa yang mereka perbuat setelahnya'. Maka hanya kuutarakan sebagaimana ucapan seorang hamba yang shalih (maksudnya ucapan 'isa), 'Dan aku menjadi saksi mereka ketika aku berada ditengah-tengah mereka' hingga ayat 'sesungguhnya Engkau Maha Perkasa' (QS. Almaidah 118-119). Kata Ibnu 'Abbas, ada berita bahwa mereka murtad di kemudian hari"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 21,
+        "ayah": 104,
+        "surah_name": "Al-Anbiya'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/21/104"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2972,7 +3008,16 @@
       "ms": "Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah berfirman; 'hai Adam'. 'Baik dan aku penuhi panggilan-MU ya Allah, dan seluruh kebaikan di tangan-Mu, \" Jawab Adam. Allah melanjutkan; 'datangkan utusan-utusan neraka! ' Adam menjawab; 'berapa utusan neraka? ' Tanya Adam. Allah menjawab; 'Setiap seribu orang, datangkan sembilan ratus sembilan puluh sembilan orang.' Dan ketika itulah anak kecil menjadi beruban karenanya, sebagaimana ayat; 'Dan setiap orang yang hamil melahirkan bayinya, dan kau lihat manusia mabuk padahal sejatinya mereka tidak mabuk, hanya karena siksa Alalh sedemikian dahsyatnya' (QS. Alhajj, 2).\" Yang demikian menjadikan mereka gusar, sehingga para sahabat bertanya-tanya; 'Wahai Rasulullah, siapa diantara kami yang termasuk dijebloskan ke neraka itu! ' Nabi menjawab; \"Tenanglah kalian, sebab jika Ya'juj dan ma'juj dimasukkan neraka sebanyak seribu, dari kalian hanya satu.\" Selanjutnya beliau bersabda: \"Demi Dzat yang jiwaku berada di Tangan-Nya, sungguh aku berkeinginan sekiranya kalian menjadi sepertiga penghuni surga.\" Kata Abu Said; lantas kami pun memuji Allah dan bertakbir, kemudian Nabi bersabda: \"Demi dzat yang jiwaku berad di Tangan-Nya, sungguh aku berharap jika kalian menjadi separoh penghuni surga, dan permisalan kalian dibandingkan umat lainnya hanyalah bagaikan sehelai rambut putih di kulit sapi hitam atau bagaikan belang hitam di lengan keledai",
       "en": "Narrated Abu Sa`id:The Prophet (ﷺ) said, \"Allah will say, 'O Adam!. Adam will reply, 'Labbaik and Sa`daik (I respond to Your Calls, I am obedient to Your orders), wal Khair fi Yadaik (and all the good is in Your Hands)!' Then Allah will say (to Adam), Bring out the people of the Fire.' Adam will say, 'What (how many) are the people of the Fire?' Allah will say, 'Out of every thousand (take out) nine hundred and ninety-nine (persons).' At that time children will become hoary-headed and every pregnant female will drop her load (have an abortion) and you will see the people as if they were drunk, yet not drunk; But Allah's punishment will be very severe.\" That news distressed the companions of the Prophet (ﷺ) too much, and they said, \"O Allah's Messenger (ﷺ)! Who amongst us will be that man (the lucky one out of one-thousand who will be saved from the Fire)?\" He said, \"Have the good news that one-thousand will be from Gog and Magog, and the one (to be saved will be) from you.\" The Prophet (ﷺ) added, \"By Him in Whose Hand my soul is, I Hope that you (Muslims) will be one third of the people of Paradise.\" On that, we glorified and praised Allah and said, \"Allahu Akbar.\" The Prophet (ﷺ) then said, \"By Him in Whose Hand my soul is, I hope that you will be one half of the people of Paradise, as your (Muslims) example in comparison to the other people (non-Muslims), is like that of a white hair on the skin of a black ox, or a round hairless spot on the foreleg of a donkey",
       "id": "Telah menceritakan kepada kami [Yusuf bin Musa] telah menceritakan kepada kami [Jarir] dari [Al A'masy] dari [Abu Shalih] dari [Abu Sa'id] mengatakan, Rasulullah shallallahu 'alaihi wasallam bersabda: \"Allah berfirman; 'hai Adam'. 'Baik dan aku penuhi panggilan-MU ya Allah, dan seluruh kebaikan di tangan-Mu, \" Jawab Adam. Allah melanjutkan; 'datangkan utusan-utusan neraka! ' Adam menjawab; 'berapa utusan neraka? ' Tanya Adam. Allah menjawab; 'Setiap seribu orang, datangkan sembilan ratus sembilan puluh sembilan orang.' Dan ketika itulah anak kecil menjadi beruban karenanya, sebagaimana ayat; 'Dan setiap orang yang hamil melahirkan bayinya, dan kau lihat manusia mabuk padahal sejatinya mereka tidak mabuk, hanya karena siksa Alalh sedemikian dahsyatnya' (QS. Alhajj, 2).\" Yang demikian menjadikan mereka gusar, sehingga para sahabat bertanya-tanya; 'Wahai Rasulullah, siapa diantara kami yang termasuk dijebloskan ke neraka itu! ' Nabi menjawab; \"Tenanglah kalian, sebab jika Ya'juj dan ma'juj dimasukkan neraka sebanyak seribu, dari kalian hanya satu.\" Selanjutnya beliau bersabda: \"Demi Dzat yang jiwaku berada di Tangan-Nya, sungguh aku berkeinginan sekiranya kalian menjadi sepertiga penghuni surga.\" Kata Abu Said; lantas kami pun memuji Allah dan bertakbir, kemudian Nabi bersabda: \"Demi dzat yang jiwaku berad di Tangan-Nya, sungguh aku berharap jika kalian menjadi separoh penghuni surga, dan permisalan kalian dibandingkan umat lainnya hanyalah bagaikan sehelai rambut putih di kulit sapi hitam atau bagaikan belang hitam di lengan keledai"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 22,
+        "ayah": 2,
+        "surah_name": "Al-Hajj",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/22/2"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -3122,7 +3167,16 @@
       "ms": "Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Utsman bin Al Aswad] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang hisabnya dituntut (dinampakkan), maka ia disiksa.\" Kata Aisyah, saya bertanya; Bukankah Allah ta'ala berfirman 'Maka ia dihisab dengan hisab yang mudah? (QS. Al Insyiqaq 8), Nabi menjawab; \"ayat itu maksudnya hanyalah 'ardh (hari ketika amal diperlihatkan) \". Telah menceritakan kepadaku ['Amru bin 'Ali] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Utsman bin Al Aswad], aku mendengar [Ibnu Abi Mulaikah] mengatakan; aku mendengar ['Aisyah] radliallahu 'anha mengatakan, aku mendengar Nabi Shallallahu'alaihiwasallam bersabda semisal hadits diatas. Dan hadits ini diperkuat oleh [Ibnu Juraij], [Muhammad bin Sulaim], [Ayyub] dan [Shalih bin rustum] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam",
       "en": "Narrated Ibn Abi Mulaika:`Aisha said, \"The Prophet (ﷺ) said, 'Anybody whose account (record) is questioned will surely be punished.' I said, 'Doesn't Allah say: 'He surely will receive an easy reckoning?' (84.8) The Prophet (ﷺ) replied. 'This means only the presentation of the account.\"' Narrated `Aisha: The Prophet (ﷺ) said (as above)",
       "id": "Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Utsman bin Al Aswad] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang hisabnya dituntut (dinampakkan), maka ia disiksa.\" Kata Aisyah, saya bertanya; Bukankah Allah ta'ala berfirman 'Maka ia dihisab dengan hisab yang mudah? (QS. Al Insyiqaq 8), Nabi menjawab; \"ayat itu maksudnya hanyalah 'ardh (hari ketika amal diperlihatkan) \". Telah menceritakan kepadaku ['Amru bin 'Ali] telah menceritakan kepada kami [Yahya bin Sa'id] dari ['Utsman bin Al Aswad], aku mendengar [Ibnu Abi Mulaikah] mengatakan; aku mendengar ['Aisyah] radliallahu 'anha mengatakan, aku mendengar Nabi Shallallahu'alaihiwasallam bersabda semisal hadits diatas. Dan hadits ini diperkuat oleh [Ibnu Juraij], [Muhammad bin Sulaim], [Ayyub] dan [Shalih bin rustum] dari [Ibnu Abi Mulaikah] dari ['Aisyah] dari Nabi shallallahu 'alaihi wasallam"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 84,
+        "ayah": 8,
+        "surah_name": "Al-Insyiqaq",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/84/8"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

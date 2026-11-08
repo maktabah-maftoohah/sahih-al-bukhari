@@ -122,7 +122,16 @@
       "ms": "Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] ia berkata, Aku mendengar [Jundub] berkata; Rasulullah shallallahu 'alaihi wasallam pernah jatuh sakit hingga beliau tidak bisa bangun selama sehari atau dua hari, maka seorang wanita pun datang kepada beliau dan berkata, \"Wahai Muhammad, tidaklah aku melihat syetanmu itu, kecuali ia telah meninggalkanmu.\" Maka Allah 'azza wajalla menurunkan ayat: \"WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA (Demi waktu Dluha. Dan demi waktu malam ketika tiba. Sesungguhnya Tuhan-mu tidaklah meninggalkanmu). (QS. Adhdhuha)",
       "en": "Narrated Jundub:Once the Prophet (ﷺ) fell ill and did not offer the night prayer (Tahajjud prayer) for a night or two. A woman (the wife of Abu Lahab) came to him and said, \"O Muhammad ! I do not see but that your Satan has left you.\" Then Allah revealed (Surat-Ad-Duha): 'By the fore-noon, and by the night when it darkens (or is still); Your Lord has not forsaken you, nor hated you",
       "id": "Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Al Aswad bin Qais] ia berkata, Aku mendengar [Jundub] berkata; Rasulullah shallallahu 'alaihi wasallam pernah jatuh sakit hingga beliau tidak bisa bangun selama sehari atau dua hari, maka seorang wanita pun datang kepada beliau dan berkata, \"Wahai Muhammad, tidaklah aku melihat syetanmu itu, kecuali ia telah meninggalkanmu.\" Maka Allah 'azza wajalla menurunkan ayat: \"WADLDLUHAA WALLAILI IDZAA SAJAA MAA WADDA'AKA RABBUKA WAMAA QALAA (Demi waktu Dluha. Dan demi waktu malam ketika tiba. Sesungguhnya Tuhan-mu tidaklah meninggalkanmu). (QS. Adhdhuha)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 93,
+        "ayah": 1,
+        "surah_name": "Ad-Duha",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/93/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -297,7 +306,16 @@
       "ms": "Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra`il] dari [Abu Ishaq] dari [Al Baraa`] ia berkata; Ketika turunnya ayat, \"LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah).\" Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Panggilkanlah Zaid bin Tsabit, dan hendaklah ia membawa alat tulis dan tinta serta tulang.\" Kemudian beliau bersabda: \"Tuliskanlah: 'LAA YASTAWIL QAA`IDUUNA...'\" Sementara saat itu, pas di belakang Rasulullah shallallahu 'alaihi wasallam ada Amru bin Ummu Maktum Al A'ma, ia berkata, \"Wahai Rasulullah, apa yang mau Anda perintahkan kepadaku? Aku adalah seorang yang buta tak bisa melihat.\" Maka turunlah ayat: \"LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH GHAIRA ULIDL DLARARA (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah, kecuali bagi yang memiliki udzur yang syari'). (QS. Annisa';)",
       "en": "Narrated Al-Bara:There was revealed: 'Not equal are those believers who sit (at home) and those who strive and fight in the Cause of Allah.' (4.95) The Prophet (ﷺ) said, \"Call Zaid for me and let him bring the board, the inkpot and the scapula bone (or the scapula bone and the ink pot).\"' Then he said, \"Write: 'Not equal are those Believers who sit..\", and at that time `Amr bin Um Maktum, the blind man was sitting behind the Prophet (ﷺ) . He said, \"O Allah's Apostle! What is your order For me (as regards the above Verse) as I am a blind man?\" So, instead of the above Verse, the following Verse was revealed: 'Not equal are those believers who sit (at home) except those who are disabled (by injury or are blind or lame etc.) and those who strive and fight in the cause of Allah",
       "id": "Telah menceritakan kepada kami [Ubaidullah bin Musa] dari [Isra`il] dari [Abu Ishaq] dari [Al Baraa`] ia berkata; Ketika turunnya ayat, \"LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah).\" Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Panggilkanlah Zaid bin Tsabit, dan hendaklah ia membawa alat tulis dan tinta serta tulang.\" Kemudian beliau bersabda: \"Tuliskanlah: 'LAA YASTAWIL QAA`IDUUNA...'\" Sementara saat itu, pas di belakang Rasulullah shallallahu 'alaihi wasallam ada Amru bin Ummu Maktum Al A'ma, ia berkata, \"Wahai Rasulullah, apa yang mau Anda perintahkan kepadaku? Aku adalah seorang yang buta tak bisa melihat.\" Maka turunlah ayat: \"LAA YASTAWIL QAA'IDUUNA MINAL MUKMINIINA WAL MUJAAHIDUUNA FI SABIILILLAH GHAIRA ULIDL DLARARA (Tidaklah sama antara orang-orang yang duduk dari kaum mukminin dengan para Mujahid yang berjuang di jalan Allah, kecuali bagi yang memiliki udzur yang syari'). (QS. Annisa';)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 95,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/95"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -372,7 +390,16 @@
       "ms": "Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia berkata; Dan Telah mengabarkan kepadaku [Yusuf bin Mahik] ia berkata; Suatu ketika, aku berada di tempat Aisyah Ummul Mukminin radliallahu 'anha, tiba-tiba seorang dari Irak menemuinya seraya berkata, \"Kain kafan yang bagaimanakah yang lebih baik?\" Aisyah menjawab, \"Huss kamu, apakah yang menimpamu?\" laki-laki itu berkata, \"Wahai Ummul Mukminin, tunjukkanlah Mushhaf Anda padaku.\" [Aisyah] bertanya, \"Untuk apa?\" Ia menjawab, \"Agar aku dapat menyusunnya. Sebab, Al Qur`an itu dibaca secara tidak tersusun.\" Aisyah berkata, \"Lalu apa yang menghalangimu untuk membaca bagian apa saja darinya. Sesungguhnya yang pertama-tama kali turun darinya adalah surat Al Mufashshal yang di dalamnya disebutkan tentang surga dan neraka. Dan ketika manusia telah condong ke Islam, maka turunlah kemudian ayat-ayat tentang halal dan haram. Sekiranya yang pertama kali turun adalah ayat, 'Janganlah kalian minum khamer.' Niscaya mereka akan mengatakan, 'Sekali-kali kami tidak akan bisa meninggalkan khamer selama-lamanya.' Dan sekiranya juga yang pertamakali turun adalah ayat, \"Janganlah kalian berzina..' niscaya mereka akan berkomentar, 'Kami tidak akan meniggalkan zina selama-lamanya.' Ayat yang diturunkan kepada Rasulullah shallallahu 'alaihi wasallam di Makkah yang pada saat itu aku masih anak-anak adalah: 'BAL AS SAA'ATU MAU'IDUHUM WAS SAA'ATU ADHAA WA AMARR.(QS. ALqamar 46).' Dan tidaklah surat Al Baqarah dan An Nisa` kecuali aku berada di sisi beliau.\" Akhirnya, Aisyah mengeluarkan Mushhaf dan mendiktekan kepada orang Irak itu beberapa surat",
       "en": "Narrated Yusuf bin Mahk:While I was with Aisha, the mother of the Believers, a person from Iraq came and asked, \"What type of shroud is the best?\" `Aisha said, \"May Allah be merciful to you! What does it matter?\" He said, \"O mother of the Believers! Show me (the copy of) your Qur'an,\" She said, \"Why?\" He said, \"In order to compile and arrange the Qur'an according to it, for people recite it with its Suras not in proper order.\" `Aisha said, \"What does it matter which part of it you read first? (Be informed) that the first thing that was revealed thereof was a Sura from Al-Mufassal, and in it was mentioned Paradise and the Fire. When the people embraced Islam, the Verses regarding legal and illegal things were revealed. If the first thing to be revealed was: 'Do not drink alcoholic drinks.' people would have said, 'We will never leave alcoholic drinks,' and if there had been revealed, 'Do not commit illegal sexual intercourse, 'they would have said, 'We will never give up illegal sexual intercourse.' While I was a young girl of playing age, the following Verse was revealed in Mecca to Muhammad: 'Nay! But the Hour is their appointed time (for their full recompense), and the Hour will be more grievous and more bitter.' (54.46) Sura Al-Baqara (The Cow) and Surat An-Nisa (The Women) were revealed while I was with him.\" Then `Aisha took out the copy of the Qur'an for the man and dictated to him the Verses of the Suras (in their proper order)",
       "id": "Telah menceritakan kepada kami [Ibrahim bin Musa] Telah mengabarkan kepada kami [Hisyam bin Yusuf] bahwa [Ibnu Juraij] telah mengabarkan kepada mereka, ia berkata; Dan Telah mengabarkan kepadaku [Yusuf bin Mahik] ia berkata; Suatu ketika, aku berada di tempat Aisyah Ummul Mukminin radliallahu 'anha, tiba-tiba seorang dari Irak menemuinya seraya berkata, \"Kain kafan yang bagaimanakah yang lebih baik?\" Aisyah menjawab, \"Huss kamu, apakah yang menimpamu?\" laki-laki itu berkata, \"Wahai Ummul Mukminin, tunjukkanlah Mushhaf Anda padaku.\" [Aisyah] bertanya, \"Untuk apa?\" Ia menjawab, \"Agar aku dapat menyusunnya. Sebab, Al Qur`an itu dibaca secara tidak tersusun.\" Aisyah berkata, \"Lalu apa yang menghalangimu untuk membaca bagian apa saja darinya. Sesungguhnya yang pertama-tama kali turun darinya adalah surat Al Mufashshal yang di dalamnya disebutkan tentang surga dan neraka. Dan ketika manusia telah condong ke Islam, maka turunlah kemudian ayat-ayat tentang halal dan haram. Sekiranya yang pertama kali turun adalah ayat, 'Janganlah kalian minum khamer.' Niscaya mereka akan mengatakan, 'Sekali-kali kami tidak akan bisa meninggalkan khamer selama-lamanya.' Dan sekiranya juga yang pertamakali turun adalah ayat, \"Janganlah kalian berzina..' niscaya mereka akan berkomentar, 'Kami tidak akan meniggalkan zina selama-lamanya.' Ayat yang diturunkan kepada Rasulullah shallallahu 'alaihi wasallam di Makkah yang pada saat itu aku masih anak-anak adalah: 'BAL AS SAA'ATU MAU'IDUHUM WAS SAA'ATU ADHAA WA AMARR.(QS. ALqamar 46).' Dan tidaklah surat Al Baqarah dan An Nisa` kecuali aku berada di sisi beliau.\" Akhirnya, Aisyah mengeluarkan Mushhaf dan mendiktekan kepada orang Irak itu beberapa surat"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 54,
+        "ayah": 46,
+        "surah_name": "Al-Qamar",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/54/46"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -672,7 +699,16 @@
       "ms": "Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, [Umar] berkata, \"Orang yang paling baik bacaannya di antara kita adalah Ubbay, dan kita akan meninggalkan Qira`ah Ubay.\" Maka [Ubay] pun berkata, \"Aku telah mengambilnya langsung dari bibir Rasulullah shallallahu 'alaihi wasallam, karena itu aku tidak akan meninggalkannya lantaran karena suatu masalah. Allah Ta'ala berfirman: 'MAA NANSAKH MIN `AAYATIN AW NUNSIKHA NA`TI BIKHAIR MINHAA AW MITSLIHAA (Tidaklah kami menghapus suatu ayat pun, atau ayat itu dihapus, kecuali kami akan menggantinya dengan yang lebih baik darinya atau semisalnya). (QS. Albaqarah)",
       "en": "Narrated Ibn `Abbas:`Umar said, Ubai was the best of us in the recitation (of the Qur'an) yet we leave some of what he recites.' Ubai says, 'PI have taken it from the mouth of Allah's Messenger (ﷺ) and will not leave for anything whatever.\" But Allah said \"None of Our Revelations do We abrogate or cause to be forgotten but We substitute something better or similar",
       "id": "Telah menceritakan kepada kami [Shadaqah bin Al Fadll] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Habib bin Abu Tsabit] dari [Sa'id bin Jubair] dari [Ibnu Abbas] ia berkata, [Umar] berkata, \"Orang yang paling baik bacaannya di antara kita adalah Ubbay, dan kita akan meninggalkan Qira`ah Ubay.\" Maka [Ubay] pun berkata, \"Aku telah mengambilnya langsung dari bibir Rasulullah shallallahu 'alaihi wasallam, karena itu aku tidak akan meninggalkannya lantaran karena suatu masalah. Allah Ta'ala berfirman: 'MAA NANSAKH MIN `AAYATIN AW NUNSIKHA NA`TI BIKHAIR MINHAA AW MITSLIHAA (Tidaklah kami menghapus suatu ayat pun, atau ayat itu dihapus, kecuali kami akan menggantinya dengan yang lebih baik darinya atau semisalnya). (QS. Albaqarah)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 1,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -697,7 +733,16 @@
       "ms": "Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Yahya bin Sa'id] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepadaku [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Sa'id Al Mu'alla] ia berkata; Suatu ketika aku sedang shalat, tiba-tiba Rasulullah shallallahu 'alaihi wasallam memanggilku namun aku tidak menjawab panggilannya. Seusai shalat, aku berkata kepada beliau, \"Wahai Rasulullah, sesungguhnya tadi aku sedang shalat.\" Beliau bersabda: \"Bukankah Allah telah berfirman: 'Penuhilah panggilan Allah dan panggilan Rasul-Nya bila ia mengajak kalian..'\" kemudian beliau bersabda: \"Maukah kamu aku ajari satu surat yang paling agung yang terdapat dalam Al Qur`an sebelum kamu keluar dari Masjid?\" Lalu beliau memegang tanganku, dan ketika kami hendak keluar, aku berkata, \"Wahai Rasulullah, sesungguhnya Anda telah berkata, 'Sungguh, aku akan mengajarkan padamu suatu surat yang paling agung dari Al Qur`an.'\" Beliau pun bersabda: \"Yaitu: 'AL HAMDULILLAHI RABBIL 'AALAMIIN..' ia adalah As Sab'u Al Matsaanii dan Al Qur`an yang agung yang telah diberikan kepadaku",
       "en": "Narrated Abu Sa`id Al-Mu'alla:While I was praying, the Prophet (ﷺ) called me but I did not respond to his call. Later I said, \"O Allah's Apostle! I was praying.\" He said, \"Didn't Allah say: 'O you who believe! Give your response to Allah (by obeying Him) and to His Apostle when he calls you'?\" (8.24) He then said, \"Shall I not teach you the most superior Surah in the Qur'an?\" He said, '(It is), 'Praise be to Allah, the Lord of the worlds. ' (i.e., Surat Al-Fatiha) which consists of seven repeatedly recited Verses and the Magnificent Qur'an which was given to me",
       "id": "Telah menceritakan kepada kami [Ali bin Abdullah] Telah menceritakan kepada kami [Yahya bin Sa'id] Telah menceritakan kepada kami [Syu'bah] Telah menceritakan kepadaku [Khubaib bin Abdurrahman] dari [Hafsh bin Ashim] dari [Abu Sa'id Al Mu'alla] ia berkata; Suatu ketika aku sedang shalat, tiba-tiba Rasulullah shallallahu 'alaihi wasallam memanggilku namun aku tidak menjawab panggilannya. Seusai shalat, aku berkata kepada beliau, \"Wahai Rasulullah, sesungguhnya tadi aku sedang shalat.\" Beliau bersabda: \"Bukankah Allah telah berfirman: 'Penuhilah panggilan Allah dan panggilan Rasul-Nya bila ia mengajak kalian..'\" kemudian beliau bersabda: \"Maukah kamu aku ajari satu surat yang paling agung yang terdapat dalam Al Qur`an sebelum kamu keluar dari Masjid?\" Lalu beliau memegang tanganku, dan ketika kami hendak keluar, aku berkata, \"Wahai Rasulullah, sesungguhnya Anda telah berkata, 'Sungguh, aku akan mengajarkan padamu suatu surat yang paling agung dari Al Qur`an.'\" Beliau pun bersabda: \"Yaitu: 'AL HAMDULILLAHI RABBIL 'AALAMIIN..' ia adalah As Sab'u Al Matsaanii dan Al Qur`an yang agung yang telah diberikan kepadaku"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 8,
+        "ayah": 24,
+        "surah_name": "Al-Anfal",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/8/24"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -797,7 +842,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Abdurrahman] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca dua ayat..\" Dan Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Abu Mas'ud] radliallahu 'anhu ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca dua ayat terakhir dari surat Al Baqarah pada suatu malam, niscaya kedua ayat itu akan mencukupinya.\" Utsmana bin Al Haitsam berkata; Telah menceritakan kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam menugaskanku untuk menjaga harta zakat. Lalu pada suatu hari ada seseorang yang menyusup hendak mengambil makanan, maka aku pun menyergapnya seraya berkata, \"Aku benar-benar akan menyerahkanmu kepada Rasulullah shallallahu 'alaihi wasallam..\" lalu ia bercerita dan berkata, \"Jika kamu hendak beranjak ke tempat tidur maka bacalah ayat kursi, niscaya Allah akan senantiasa menjagamu dan syetan tidak akan mendekatimu hingga pagi.\" Maka Nabi shallallahu 'alaihi wasallam pun bersabda: \"Ia telah berkata benar padamu, padahal ia adalah pendusta. Si penyusup tadi sebenarnya adalah syetan",
       "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) ordered me to guard the Zakat revenue of Ramadan. Then somebody came to me and started stealing from the foodstuff. I caught him and said, \"I will take you to Allah's Messenger (ﷺ)!\" Then Abu Huraira described the whole narration and said: That person said (to me), \"(Please don't take me to Allah's Messenger (ﷺ) and I will tell you a few words by which Allah will benefit you.) When you go to your bed, recite Ayat-al-Kursi, (2.255) for then there will be a guard from Allah who will protect you all night long, and Satan will not be able to come near you till dawn.\" (When the Prophet (ﷺ) heard the story) he said (to me), \"He (who came to you at night) told you the truth although he is a liar; and it was Satan",
       "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] Telah mengabarkan kepada kami [Syu'bah] dari [Sulaiman] dari [Ibrahim] dari [Abdurrahman] dari [Abu Mas'ud] dari Nabi shallallahu 'alaihi wasallam, beliau bersabda: \"Barangsiapa yang membaca dua ayat..\" Dan Telah menceritakan kepada kami [Abu Nu'aim] Telah menceritakan kepada kami [Sufyan] dari [Manshur] dari [Ibrahim] dari [Abdurrahman bin Yazid] dari [Abu Mas'ud] radliallahu 'anhu ia berkata; Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa yang membaca dua ayat terakhir dari surat Al Baqarah pada suatu malam, niscaya kedua ayat itu akan mencukupinya.\" Utsmana bin Al Haitsam berkata; Telah menceritakan kepada kami 'Auf dari Muhammad bin Sirin dari Abu Hurairah radliallahu 'anhu, ia berkata; Rasulullah shallallahu 'alaihi wasallam menugaskanku untuk menjaga harta zakat. Lalu pada suatu hari ada seseorang yang menyusup hendak mengambil makanan, maka aku pun menyergapnya seraya berkata, \"Aku benar-benar akan menyerahkanmu kepada Rasulullah shallallahu 'alaihi wasallam..\" lalu ia bercerita dan berkata, \"Jika kamu hendak beranjak ke tempat tidur maka bacalah ayat kursi, niscaya Allah akan senantiasa menjagamu dan syetan tidak akan mendekatimu hingga pagi.\" Maka Nabi shallallahu 'alaihi wasallam pun bersabda: \"Ia telah berkata benar padamu, padahal ia adalah pendusta. Si penyusup tadi sebenarnya adalah syetan"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 255,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/255"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -847,7 +901,16 @@
       "ms": "Telah menceritakan kepada kami [Isma'il] ia berkata, Telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari [bapaknya] bahwasanya; Rasulullah shallallahu 'alaihi wasallam tengah berjalan dalam suatu safar yang dilakukannya. Lalu pada suatu malam, Umar bin Al Khaththab berjalan bersama beliau, lalu Umar bertanya tentang sesuatu, namun Rasulullah shallallahu 'alaihi wasallam tidak menjawabnya. Kemudian ia bertanya lagi, dan belum juga menjawabnya. Lalu bertanya lagi, tetapi tidak menjawabnya. Maka [Umar] pun berkata, \"Alangkah merugilah kamu, kamu bertanya kepada Rasulullah shallallahu 'alaihi wasallam, namun semua itu tidak dihiraukannya.\" Kemudian Umar berkata; \"Maka aku pun memacu Untau hingga berjalan di hadapan orang-orang, dan aku khawatir ayat Al Qur`an akan turun berkenaan denganku. Aku tak peduli lagi, bilamana aku mendengar teriakan suara yang memanggilku.\" Umar melanjutkan, \"Sungguh, aku khawatir ayat Al Qur`an akan turun berkenaan denganku. Karena itu, aku segera mendatangi Rasulullah shallallahu 'alaihi wasallam lalu mengucapkan salam atasnya. Beliau bersabda: 'Sesungguhnya, semalam telah turun satu surat padaku, dan surat itu lebih aku sukai, daripada terbitnya matahari.' Dan beliau pun membacakannya pada kami: 'INNAA FATAHNAA LAKA FATHAN MUBIINAA..'\" (QS. Alfath)",
       "en": "Narrated Aslam:Allah's Messenger (ﷺ) was traveling on one of his journeys, and `Umar bin Al-Khattab was traveling along with him at night. `Umar asked him about something, but Allah's Messenger (ﷺ) did not answer him. He asked again, but he did not answer. He asked for the third time, but he did not answer. On that, `Umar said to himself, \"May your mother lose you! You have asked Allah's Messenger (ﷺ) three times, but he did not answer at all!\" `Umar said, \"So I made my camel go fast till I was ahead of the people, and I was afraid that something might be revealed about me. After a little while I heard a call maker calling me, I said, 'I was afraid that some Qur'anic Verse might be revealed about me.' So I went to Allah's Apostle and greeted him. He said, 'Tonight there has been revealed to me a Surah which is dearer to me than that on which the sun shines (i.e. the world).' Then he recited: 'Verily! We have given you (O Muhammad), a manifest victory.' \" (Surat al-Fath) No",
       "id": "Telah menceritakan kepada kami [Isma'il] ia berkata, Telah menceritakan kepadaku [Malik] dari [Zaid bin Aslam] dari [bapaknya] bahwasanya; Rasulullah shallallahu 'alaihi wasallam tengah berjalan dalam suatu safar yang dilakukannya. Lalu pada suatu malam, Umar bin Al Khaththab berjalan bersama beliau, lalu Umar bertanya tentang sesuatu, namun Rasulullah shallallahu 'alaihi wasallam tidak menjawabnya. Kemudian ia bertanya lagi, dan belum juga menjawabnya. Lalu bertanya lagi, tetapi tidak menjawabnya. Maka [Umar] pun berkata, \"Alangkah merugilah kamu, kamu bertanya kepada Rasulullah shallallahu 'alaihi wasallam, namun semua itu tidak dihiraukannya.\" Kemudian Umar berkata; \"Maka aku pun memacu Untau hingga berjalan di hadapan orang-orang, dan aku khawatir ayat Al Qur`an akan turun berkenaan denganku. Aku tak peduli lagi, bilamana aku mendengar teriakan suara yang memanggilku.\" Umar melanjutkan, \"Sungguh, aku khawatir ayat Al Qur`an akan turun berkenaan denganku. Karena itu, aku segera mendatangi Rasulullah shallallahu 'alaihi wasallam lalu mengucapkan salam atasnya. Beliau bersabda: 'Sesungguhnya, semalam telah turun satu surat padaku, dan surat itu lebih aku sukai, daripada terbitnya matahari.' Dan beliau pun membacakannya pada kami: 'INNAA FATAHNAA LAKA FATHAN MUBIINAA..'\" (QS. Alfath)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 48,
+        "ayah": 1,
+        "surah_name": "Al-Fath",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/48/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -897,7 +960,16 @@
       "ms": "Narrated Abu Said Al-Khudri:My brother, Qatada bin An-Nau'man said, \"A man performed the night prayer late at night in the lifetime of the Prophet (ﷺ) and he read: 'Say: He is Allah, (the) One,' (112.1) and read nothing besides that. The next morning a man went to the Prophet (ﷺ) ,~ and told him about that . (The Prophet (ﷺ) replied the same as (in Hadith 532) above",
       "en": "Narrated Abu Said Al-Khudri:My brother, Qatada bin An-Nau'man said, \"A man performed the night prayer late at night in the lifetime of the Prophet (ﷺ) and he read: 'Say: He is Allah, (the) One,' (112.1) and read nothing besides that. The next morning a man went to the Prophet (ﷺ) ,~ and told him about that . (The Prophet (ﷺ) replied the same as (in Hadith 532) above",
       "id": ""
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 112,
+        "ayah": 1,
+        "surah_name": "Al-Ikhlas",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/112/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1697,7 +1769,37 @@
       "ms": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Musa bin Abu Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, yakni terkait dengan firman-Nya, \"LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI.\" Ibnu Abbas berkata, \"Apabila Jibril turun kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa wahyu, maka biasanya beliau mengerakkan dan lisan dan kedua bibirnya, serta agaknya beliau merasakan sesuatu yang berat. Maka Allah menurunkan ayat yang di dalamnya terdapat ungkapan, \"LAA UQSIMU BIHAADZA BIYAUMIL QIYAAMAH.., LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI, INNA 'ALAINA JAM'AHU..\" maksudnya adalah, bahwa Kamilah yang akan mengumpulkannya di dalam dadamu.\"FA`IDZAA QARA`NAAHU FATTABI' QUR`AANAH..\" Yakni, apabila kami menurunkannya maka dengarkanlah.\"TSUMMA 'ALAINAA BAYAANAH..\" Yakni, Kamilah yang akan menjelaskannya melalui perantara lisanmu. Biasanya, apabila beliau didatangi oleh Jibril, maka beliau menunduk, dan setelah Jibril pergi, beliau membacanya sebagaimana yang diperintahkan Allah",
       "en": "Narrated Ibn `Abbas:Regarding His (Allah's) Statement:-- 'Move not your tongue concerning (the Qur'an) to make haste therewith.' (75.16) And whenever Gabriel descended to Allah's Messenger (ﷺ) with the Divine Inspiration, Allah's Messenger (ﷺ) used to move his tongue and lips, and that used to be hard for him, and one could easily recognize that he was being inspired Divinely. So Allah revealed the Verse which occurs in the Surah starting with \"I do swear by the Day of Resurrection.' (75.1) i.e. 'Move not your tongue concerning (the Qur'an) to make haste then with. It is for Us to collect it (in your mind) (O Muhammad) an give you the ability to recite it 'by heart.' (75.16-17) which means: It is for us to collect it (in your mind) and give you the ability to recite it by heart. And when We have recited it to you (O Muhammad) through Gabriel then follow you its recital. (75.18) means: 'When We reveal it (the Qur'an) to you, Listen to it.' for then: It is for Us to explain it and make it clear to you' (75.19) i.e. It is up to Us to explain it through your tongue. So, when Gabriel came to him, Allah's Messenger (ﷺ) would listen to him attentively, and as soon as Gabriel left, he would recite the Revelations, as Allah had promised him",
       "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] Telah menceritakan kepada kami [Jarir] dari [Musa bin Abu Aisyah] dari [Sa'id bin Jubair] dari [Ibnu Abbas] radliallahu 'anhuma, yakni terkait dengan firman-Nya, \"LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI.\" Ibnu Abbas berkata, \"Apabila Jibril turun kepada Rasulullah shallallahu 'alaihi wasallam dengan membawa wahyu, maka biasanya beliau mengerakkan dan lisan dan kedua bibirnya, serta agaknya beliau merasakan sesuatu yang berat. Maka Allah menurunkan ayat yang di dalamnya terdapat ungkapan, \"LAA UQSIMU BIHAADZA BIYAUMIL QIYAAMAH.., LAA TUHARRIK BIHI LISAANAKA LITA'JALA BIHI, INNA 'ALAINA JAM'AHU..\" maksudnya adalah, bahwa Kamilah yang akan mengumpulkannya di dalam dadamu.\"FA`IDZAA QARA`NAAHU FATTABI' QUR`AANAH..\" Yakni, apabila kami menurunkannya maka dengarkanlah.\"TSUMMA 'ALAINAA BAYAANAH..\" Yakni, Kamilah yang akan menjelaskannya melalui perantara lisanmu. Biasanya, apabila beliau didatangi oleh Jibril, maka beliau menunduk, dan setelah Jibril pergi, beliau membacanya sebagaimana yang diperintahkan Allah"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 75,
+        "ayah": 16,
+        "surah_name": "Al-Qiyamah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/75/16"
+      },
+      {
+        "type": "quran",
+        "surah": 75,
+        "ayah": 1,
+        "surah_name": "Al-Qiyamah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/75/1"
+      },
+      {
+        "type": "quran",
+        "surah": 75,
+        "ayah": 18,
+        "surah_name": "Al-Qiyamah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/75/18"
+      },
+      {
+        "type": "quran",
+        "surah": 75,
+        "ayah": 19,
+        "surah_name": "Al-Qiyamah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/75/19"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1847,7 +1949,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah bin Mas'ud] ia berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda kepadaku: \"Bacakanlah Al Qur`an untukku.\" Maka aku pun berkata, \"Wahai Rasulullah, apakah aku akan membacanya untuk Anda, padahal kepada Andalah alquran diturunkan?\" beliau menjawab: \"Ya.\" Lalu aku pun membacakan surat An Nisa, hingga aku sampai pada ayat: \"Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka.\" Maka beliau pun bersabda padaku: \"Cukuplah.\" Lalu aku menoleh ke arah beliau dan ternyata kedua matanya meneteskan air",
       "en": "Narrated `Abdullah bin Mas`ud:The Prophet (ﷺ) said to me, \"Recite (the Qur'an) to me.\" I said, \"O Allah's Messenger (ﷺ) Shall I recite (the Qur'an) to you while it has been revealed to you?\" He said, \"Yes.\" So I recited Surat-An-Nisa' (The Women), but when I recited the Verse: 'How (will it be) then when We bring from each nation a witness and We bring you (O Muhammad) as a witness against these people.' (4.41) He said, \"Enough for the present,\" I looked at him and behold! His eyes were overflowing with tears",
       "id": "Telah menceritakan kepada kami [Muhammad bin Yusuf] Telah menceritakan kepada kami [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah bin Mas'ud] ia berkata; Nabi shallallahu 'alaihi wasallam pernah bersabda kepadaku: \"Bacakanlah Al Qur`an untukku.\" Maka aku pun berkata, \"Wahai Rasulullah, apakah aku akan membacanya untuk Anda, padahal kepada Andalah alquran diturunkan?\" beliau menjawab: \"Ya.\" Lalu aku pun membacakan surat An Nisa, hingga aku sampai pada ayat: \"Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka.\" Maka beliau pun bersabda padaku: \"Cukuplah.\" Lalu aku menoleh ke arah beliau dan ternyata kedua matanya meneteskan air"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 41,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/41"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1997,7 +2108,16 @@
       "ms": "Telah menceritakan kepada kami [Shadaqah] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Sulaiman] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Yahya] berkata, sebagian hadits dari [Amru bin Murrah] - ia berkata; Nabi shallallahu 'alaihi wasallam bersabda padaku.. Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Al A'masy] berkata; dan sebagian hadits- Telah menceritakan kepadaku [Amru bin Murrah] dari [Ibrahim] dari [bapaknya] dari [Abu Dluhaa] dari [Abdulalh] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacakanlah Al Qur`an padaku.\" Aku pun berkata, \"Aku membacakannya untuk Anda, padahal kepada Andalah ia diturunkan?\" beliau bersabda: \"Sesungguhnya aku suka mendengarnya dari orang lain.\" Akhirnya aku pun membacakan surat An-Nisa` dan ketika sampai pada ayat: \"Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka.\" Maka beliau pun bersabda padaku: \"Cukuplah.\" Lalu aku pun melihat kedua mata beliau meneteskan air",
       "en": "Narrated `Abdullah (bin Mas`ud):Allah's Messenger (ﷺ) said (to me), \"Recite the Qur'an to me.\" I said, \"Shall I recite (it) to you while it has been revealed to you?\" He said, \"I like to hear it from another person.\" So I recited Surat An-Nisa (The Women) till I reached the Verse: 'How (will it be) then when We bring from each nation a witness, and We bring you (O Muhammad) as a witness against these people.' (4.41) Then he said to me, \"Stop!\" Thereupon I saw his eyes overflowing with tears",
       "id": "Telah menceritakan kepada kami [Shadaqah] Telah mengabarkan kepada kami [Yahya] dari [Sufyan] dari [Sulaiman] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Yahya] berkata, sebagian hadits dari [Amru bin Murrah] - ia berkata; Nabi shallallahu 'alaihi wasallam bersabda padaku.. Telah menceritakan kepada kami [Musaddad] dari [Yahya] dari [Sufyan] dari [Al A'masy] dari [Ibrahim] dari [Abidah] dari [Abdullah] - [Al A'masy] berkata; dan sebagian hadits- Telah menceritakan kepadaku [Amru bin Murrah] dari [Ibrahim] dari [bapaknya] dari [Abu Dluhaa] dari [Abdulalh] ia berkata; Rasulullah shallallahu 'alaihi wasallam bersabda: \"Bacakanlah Al Qur`an padaku.\" Aku pun berkata, \"Aku membacakannya untuk Anda, padahal kepada Andalah ia diturunkan?\" beliau bersabda: \"Sesungguhnya aku suka mendengarnya dari orang lain.\" Akhirnya aku pun membacakan surat An-Nisa` dan ketika sampai pada ayat: \"Dan bagaimanakah sekiranya Kami mendatangkan manusia dari seluruh umat dengan seorang saksi, lalu kami mendatangkanmu sebagai saksi atas mereka.\" Maka beliau pun bersabda padaku: \"Cukuplah.\" Lalu aku pun melihat kedua mata beliau meneteskan air"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 41,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/41"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

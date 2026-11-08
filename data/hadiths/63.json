@@ -572,7 +572,16 @@
       "ms": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdullah bin Daud] dari [Fudlail bin Ghazwan] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam lalu beliau datangi istri-istri beliau. Para istri beliau berkata; \"Kami tidak punya apa-apa selain air\". Maka kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada orang banyak: \"Siapakah yang mau mengajak atau menjamu orang ini?\". Maka seorang laki-laki dari Anshar berkata; \"Aku\". Sahabat Anshar itu pulang bersama laki-laki tadi menemui istrinya lalu berkata; \"Muliakanlah tamu Rasulullah shallallahu 'alaihi wasallam ini\". Istrinya berkata; \"Kita tidak memiliki apa-apa kecuali sepotong roti untuk anakku\". Sahabat Anshar itu berkata; Suguhkanlah makanan kamu itu lalu matikanlah lampu dan tidurkanlah anakmu\". Ketika mereka hendak menikmati makan malam, maka istrinya menyuguhkan makanan itu lalu mematikan lampu dan menidurkan anaknya kemudian dia berdiri seakan hendak memperbaiki lampunya, lalu dimatikannya kembali. Suami- istri hanya menggerak-gerakkan mulutnya (seperti mengunyah sesuatu) seolah keduanya ikut menikmati hidangan. Kemudian keduanya tidur dalam keadaan lapar karena tidak makan malam. Ketika pagi harinya, pasangan suami istri itu menemui Rasulullah shallallahu 'alaihi wasallam. Maka beliau berkata: \"Malam ini Allah tertawa atau terkagum-kagum karena perbuatan kalian berdua\". Maka kemudian Allah menurunkan firman-Nya dalam QS al-Hasyr ayat 9 yang artinya: (\"Dan mereka lebih mengutamakan orang lain (Muhajirin) dari pada diri mereka sendiri sekalipun mereka memerlukan apa yang mereka berikan itu. Dan siapa yang dipelihara dari kekikiran dirinya, mereka itulah orang-orang yang beruntung",
       "en": "Narrated Abu Huraira:A man came to the Prophet. The Prophet (ﷺ) sent a messenger to his wives (to bring something for that man to eat) but they said that they had nothing except water. Then Allah's Messenger (ﷺ) said, \"Who will take this (person) or entertain him as a guest?\" An Ansar man said, \"I.\" So he took him to his wife and said to her, \"Entertain generously the guest of Allah's Messenger (ﷺ) \" She said, \"We have got nothing except the meals of my children.\" He said, \"Prepare your meal, light your lamp and let your children sleep if they ask for supper.\" So she prepared her meal, lighted her lamp and made her children sleep, and then stood up pretending to mend her lamp, but she put it off. Then both of them pretended to be eating, but they really went to bed hungry. In the morning the Ansari went to Allah's Messenger (ﷺ) who said, \"Tonight Allah laughed or wondered at your action.\" Then Allah revealed: \"But give them (emigrants) preference over themselves even though they were in need of that And whosoever is saved from the covetousness Such are they who will be successful",
       "id": "Telah bercerita kepada kami [Musaddad] telah bercerita kepada kami ['Abdullah bin Daud] dari [Fudlail bin Ghazwan] dari [Abu Hazim] dari [Abu Hurairah radliallahu 'anhu] bahwa ada seorang laki-laki datang kepada Nabi shallallahu 'alaihi wasallam lalu beliau datangi istri-istri beliau. Para istri beliau berkata; \"Kami tidak punya apa-apa selain air\". Maka kemudian Rasulullah shallallahu 'alaihi wasallam berkata kepada orang banyak: \"Siapakah yang mau mengajak atau menjamu orang ini?\". Maka seorang laki-laki dari Anshar berkata; \"Aku\". Sahabat Anshar itu pulang bersama laki-laki tadi menemui istrinya lalu berkata; \"Muliakanlah tamu Rasulullah shallallahu 'alaihi wasallam ini\". Istrinya berkata; \"Kita tidak memiliki apa-apa kecuali sepotong roti untuk anakku\". Sahabat Anshar itu berkata; Suguhkanlah makanan kamu itu lalu matikanlah lampu dan tidurkanlah anakmu\". Ketika mereka hendak menikmati makan malam, maka istrinya menyuguhkan makanan itu lalu mematikan lampu dan menidurkan anaknya kemudian dia berdiri seakan hendak memperbaiki lampunya, lalu dimatikannya kembali. Suami- istri hanya menggerak-gerakkan mulutnya (seperti mengunyah sesuatu) seolah keduanya ikut menikmati hidangan. Kemudian keduanya tidur dalam keadaan lapar karena tidak makan malam. Ketika pagi harinya, pasangan suami istri itu menemui Rasulullah shallallahu 'alaihi wasallam. Maka beliau berkata: \"Malam ini Allah tertawa atau terkagum-kagum karena perbuatan kalian berdua\". Maka kemudian Allah menurunkan firman-Nya dalam QS al-Hasyr ayat 9 yang artinya: (\"Dan mereka lebih mengutamakan orang lain (Muhajirin) dari pada diri mereka sendiri sekalipun mereka memerlukan apa yang mereka berikan itu. Dan siapa yang dipelihara dari kekikiran dirinya, mereka itulah orang-orang yang beruntung"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 59,
+        "ayah": 9,
+        "surah_name": "Al-Hasyr",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/59/9"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1997,7 +2006,30 @@
       "ms": "Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] telah menceritakan kepadaku [Sa'id bin Jubair] -atau dia berkata, telah menceritakan kepadaku [Al Hakam] dari [Sa'id bin Jubair] berkata, - 'Abdurrahman bin Abza menyuruhku, katanya; \"Tanyalah kepada Ibnu 'Abbas tentang dua ayat ini dan apa maksudnya, yaitu yang pertama firman Allah dalam QS al Isra` ayat 33; (\"Dan janganlah kalian membunuh jiwa yang diharamkan Allah kecuali dengan haq (alasan yang benar) \" dan yang kedua firman Allah dalam QS an Nisaa' ayat 93: (\"Dan barangsiapa yang membunuh orang beriman dengan sengaja...\"). Maka aku bertanya kepada [Ibnu 'Abbas], maka dia menjelaskan; Ketika turun firman Allah yang serupa ini pada surah al Furqan, orang-orang musyrik penduduk Makkah berkata; \"Sungguh kita telah membunuh jiwa yang diharamkan Allah dan kita juga menyembah selain Allah dan kita telah banyak berbuat maksiat, maka Allah menurunkan firman-Nya yang artinya: \"...kecuali siapa yang bertaubat dan beriman...\" (QS al Furqan ayat 70). Nah, ayat-ayat ini turun untuk mereka. Adapun ayat yang ada dalam surah an Nisaa' adalah bila seseorang telah mengenal Islam dan syari'atnya, kemudian dia membunuh seseorang dengan sengaja maka balasan baginya adalah neraka jahannam\". Kemudian keterangan ini aku sampaikan kepada Mujahidmaka dia berkata; \"Kecuali siapa yang menyesali perbuartannya",
       "en": "Narrated Sa`id bin Jubair:`AbdurRahman bin Abza said, \"Ask Ibn `Abbas about these two Qur'anic Verses: 'Nor kill such life as Allah has made sacred, Except for just cause.' (25.168) \"And whoever kills a believer intentionally, his recompense is Hell. (4.93) So I asked Ibn `Abbas who said, \"When the Verse that is in Sura-al-Furqan was revealed, the pagans of Mecca said, 'But we have slain such life as Allah has made sacred, and we have invoked other gods along with Allah, and we have also committed fornication.' So Allah revealed:-- 'Except those who repent, believe, and do good-- (25.70) So this Verse was concerned with those people. As for the Verse in Surat-an-Nisa (4-93), it means that if a man, after understanding Islam and its laws and obligations, murders somebody, then his punishment is to dwell in the (Hell) Fire forever.\" Then I mentioned this to Mujahid who said, \"Except the one who regrets (one's crime)",
       "id": "Telah menceritakan kepada kami ['Utsman bin Abu Syaibah] telah menceritakan kepada kami [Jarir] dari [Manshur] telah menceritakan kepadaku [Sa'id bin Jubair] -atau dia berkata, telah menceritakan kepadaku [Al Hakam] dari [Sa'id bin Jubair] berkata, - 'Abdurrahman bin Abza menyuruhku, katanya; \"Tanyalah kepada Ibnu 'Abbas tentang dua ayat ini dan apa maksudnya, yaitu yang pertama firman Allah dalam QS al Isra` ayat 33; (\"Dan janganlah kalian membunuh jiwa yang diharamkan Allah kecuali dengan haq (alasan yang benar) \" dan yang kedua firman Allah dalam QS an Nisaa' ayat 93: (\"Dan barangsiapa yang membunuh orang beriman dengan sengaja...\"). Maka aku bertanya kepada [Ibnu 'Abbas], maka dia menjelaskan; Ketika turun firman Allah yang serupa ini pada surah al Furqan, orang-orang musyrik penduduk Makkah berkata; \"Sungguh kita telah membunuh jiwa yang diharamkan Allah dan kita juga menyembah selain Allah dan kita telah banyak berbuat maksiat, maka Allah menurunkan firman-Nya yang artinya: \"...kecuali siapa yang bertaubat dan beriman...\" (QS al Furqan ayat 70). Nah, ayat-ayat ini turun untuk mereka. Adapun ayat yang ada dalam surah an Nisaa' adalah bila seseorang telah mengenal Islam dan syari'atnya, kemudian dia membunuh seseorang dengan sengaja maka balasan baginya adalah neraka jahannam\". Kemudian keterangan ini aku sampaikan kepada Mujahidmaka dia berkata; \"Kecuali siapa yang menyesali perbuartannya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 25,
+        "ayah": 68,
+        "surah_name": "Al-Furqan",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/25/68"
+      },
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 93,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/93"
+      },
+      {
+        "type": "quran",
+        "surah": 25,
+        "ayah": 70,
+        "surah_name": "Al-Furqan",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/25/70"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2022,7 +2054,16 @@
       "ms": "Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepadaku [Al Awza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Muhammad bin Ibrahim at Taymi] berkata, telah menceritakan kepadaku ['Urwah bin Az Zubair] berkata; Aku berkata kepada [Ibnu 'Amru bin Al 'Ash]; beritahukan kepadaku perlakuan yang paling keras yang dilakukan kaum Musyrikin terhadap Nabi shallallahu 'alaihi wasallam. Dia berkata; Ketika Nabi shallallahu 'alaihi wasallam sedang shalat di Hijir Ka'bah, tiba-tiba datang 'Uqbah bin Mu'aith lalu dia melilitkan kainnya di leher beliau dan mencekik beliau (dengan kain itu) dengan keras sekali. Kemudian datang Abu Bakar dan menarik bahu 'Uqbah lalu mendorongnya menjauhkan dari Nabi shallallahu 'alaihi wasallam, kemudian Abu Bakar berkata; \"Apakah kalian hendak membunuh orang yang mengatakan Rabbku Allah....\" (QS. Ghafir ayat 28). Hadits ini di perkuat juga oleh [Ibnu Ishaq], telah menceritakan kepadaku [Yahya bin 'Urwah] dari ['Urwah]; \"Aku berkata kepada [Abdullah bin 'Amru]. Dan berkata ['Abdah] dari [Hisyam] dari [bapaknya]; \"Dikatakan kepada ['Amru bin Al 'Ash]. Dan [Muhammad bin 'Amru] berkata dari [Abu Salamah] telah menceritakan kepadaku ['Amru bin Al 'Ash]",
       "en": "Narrated `Urwa bin Az-Zubair:I asked Ibn `Amr bin Al-As, \"Tell me of the worst thing which the pagans did to the Prophet.\" He said, \"While the Prophet (ﷺ) was praying in the Hijr of the Ka`ba; `Uqba bin Abi Mu'ait came and put his garment around the Prophet's neck and throttled him violently. Abu Bakr came and caught him by his shoulder and pushed him away from the Prophet (ﷺ) and said, \"Do you want to kill a man just because he says, 'My Lord is Allah?",
       "id": "Telah menceritakan kepada kami ['Ayyasy bin Al Walid] telah menceritakan kepada kami [Al Walid bin Muslim] telah menceritakan kepadaku [Al Awza'i] telah menceritakan kepadaku [Yahya bin Abu Katsir] dari [Muhammad bin Ibrahim at Taymi] berkata, telah menceritakan kepadaku ['Urwah bin Az Zubair] berkata; Aku berkata kepada [Ibnu 'Amru bin Al 'Ash]; beritahukan kepadaku perlakuan yang paling keras yang dilakukan kaum Musyrikin terhadap Nabi shallallahu 'alaihi wasallam. Dia berkata; Ketika Nabi shallallahu 'alaihi wasallam sedang shalat di Hijir Ka'bah, tiba-tiba datang 'Uqbah bin Mu'aith lalu dia melilitkan kainnya di leher beliau dan mencekik beliau (dengan kain itu) dengan keras sekali. Kemudian datang Abu Bakar dan menarik bahu 'Uqbah lalu mendorongnya menjauhkan dari Nabi shallallahu 'alaihi wasallam, kemudian Abu Bakar berkata; \"Apakah kalian hendak membunuh orang yang mengatakan Rabbku Allah....\" (QS. Ghafir ayat 28). Hadits ini di perkuat juga oleh [Ibnu Ishaq], telah menceritakan kepadaku [Yahya bin 'Urwah] dari ['Urwah]; \"Aku berkata kepada [Abdullah bin 'Amru]. Dan berkata ['Abdah] dari [Hisyam] dari [bapaknya]; \"Dikatakan kepada ['Amru bin Al 'Ash]. Dan [Muhammad bin 'Amru] berkata dari [Abu Salamah] telah menceritakan kepadaku ['Amru bin Al 'Ash]"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 40,
+        "ayah": 28,
+        "surah_name": "Ghafir",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/40/28"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2722,7 +2763,16 @@
       "ms": "Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Al Musayyab] dari [bapaknya] bahwa ketika menjelang wafatnya Abu Thalib, Nabi shallallahu 'alaihi wasallam masuk menemuinya sementara di sampingnya ada Abu Jahal. Beliau berkata: \"Wahai pamanku, katakanlah laa ilaaha illallah. Suatu kalimat yang akan aku pergunakan untuk menyelamatkan engkau di sisi Allah\". Maka berkata Abu Jahal dan Abdullah bin Abu Umayyah; \"Wahai Abu Thalib, apakah kamu akan meninggalkan agama 'Abdul Muthallib?\". Keduanya terus saja mengajak Abu Thalib berbicara hingga kalimat terakhir yang diucapkannya kepada mereka adalah dia tetap mengikuti agama 'Abdul Muthallib. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Aku akan tetap memintakan ampun untukmu selama aku tidak dilarang\". Maka turunlah firman Allah Ta'ala dalam QS AT-Taubah ayat 113 yang artinya: (\"Tidak patut bagi Nabi dan orang-orang beriman untuk memohonkan ampun bagi orang-orangmusyrik sekalipun mereka itu adalah kerabat-kerabat mereka setelah jelas bagi mereka (kaum mu'minin) bahwa mereka adalah penghuni neraka jahim..\"). Dan turun pula firman Allah Ta'ala dalam QS al Qashsash ayat 56 yang artinya: (\"Sesungguhnya engkau (wahai Muhammad) tidak akan dapat memberi petunjuk kepada orang yang engkau cintai",
       "en": "Narrated Al-Musaiyab:When Abu Talib was in his death bed, the Prophet (ﷺ) went to him while Abu Jahl was sitting beside him. The Prophet (ﷺ) said, \"O my uncle! Say: None has the right to be worshipped except Allah, an expression I will defend your case with, before Allah.\" Abu Jahl and `Abdullah bin Umaiya said, \"O Abu Talib! Will you leave the religion of `Abdul Muttalib?\" So they kept on saying this to him so that the last statement he said to them (before he died) was: \"I am on the religion of `Abdul Muttalib.\" Then the Prophet said, \" I will keep on asking for Allah's Forgiveness for you unless I am forbidden to do so.\" Then the following Verse was revealed:-- \"It is not fitting for the Prophet (ﷺ) and the believers to ask Allah's Forgiveness for the pagans, even if they were their near relatives, after it has become clear to them that they are the dwellers of the (Hell) Fire.\" (9.113) The other Verse was also revealed:-- \"(O Prophet!) Verily, you guide not whom you like, but Allah guides whom He will",
       "id": "Telah menceritakan kepada kami [Mahmud] telah menceritakan kepada kami ['Abdurrazzaq] telah mengabarkan kepada kami [Ma'mar] dari [Az Zuhri] dari [Ibnu Al Musayyab] dari [bapaknya] bahwa ketika menjelang wafatnya Abu Thalib, Nabi shallallahu 'alaihi wasallam masuk menemuinya sementara di sampingnya ada Abu Jahal. Beliau berkata: \"Wahai pamanku, katakanlah laa ilaaha illallah. Suatu kalimat yang akan aku pergunakan untuk menyelamatkan engkau di sisi Allah\". Maka berkata Abu Jahal dan Abdullah bin Abu Umayyah; \"Wahai Abu Thalib, apakah kamu akan meninggalkan agama 'Abdul Muthallib?\". Keduanya terus saja mengajak Abu Thalib berbicara hingga kalimat terakhir yang diucapkannya kepada mereka adalah dia tetap mengikuti agama 'Abdul Muthallib. Maka Nabi shallallahu 'alaihi wasallam bersabda: \"Aku akan tetap memintakan ampun untukmu selama aku tidak dilarang\". Maka turunlah firman Allah Ta'ala dalam QS AT-Taubah ayat 113 yang artinya: (\"Tidak patut bagi Nabi dan orang-orang beriman untuk memohonkan ampun bagi orang-orangmusyrik sekalipun mereka itu adalah kerabat-kerabat mereka setelah jelas bagi mereka (kaum mu'minin) bahwa mereka adalah penghuni neraka jahim..\"). Dan turun pula firman Allah Ta'ala dalam QS al Qashsash ayat 56 yang artinya: (\"Sesungguhnya engkau (wahai Muhammad) tidak akan dapat memberi petunjuk kepada orang yang engkau cintai"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 9,
+        "ayah": 113,
+        "surah_name": "At-Tawbah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/9/113"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -2822,7 +2872,16 @@
       "ms": "Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dari ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma tentang firman Allah Ta'ala QS al Isra' ayat 60: (\"Dan tidaklah kami jdikan mimpi yang Kami perlihatkann kepadamu melainkan sebagai ujian bagi manusia\"). Ibnu 'Abbas radliallahu 'anhuma berkata; \"Itu adalah penglihatan mata telanjang yang diperlihatkan kepada Rasulullah shallallahu 'alaihi wasallam pada malam beliau di Isra' menuju Baitul Maqdis\". Dan Ibnu 'Abbas radliallahu 'anhuma juga berkata; bahwa lanjutan ayat yang artinya: (\"dan begitu pula pohon yang terkutuk di dalam al Qur'an.\".) maksudnya adalah pohon zaqqum (di neraka)",
       "en": "Narrated Ibn `Abbas:Regarding the Statement of Allah\" \"And We granted the vision (Ascension to the heavens) which We made you see (as an actual eye witness) was only made as a trial for the people.\" (17.60) Ibn `Abbas added: The sights which Allah's Messenger (ﷺ) was shown on the Night Journey when he was taken to Bait-ulMaqdis (i.e. Jerusalem) were actual sights, (not dreams). And the Cursed Tree (mentioned) in the Qur'an is the tree of Zaqqum (itself)",
       "id": "Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami ['Amru] dari ['Ikrimah] dari [Ibnu 'Abbas] radliallahu 'anhuma tentang firman Allah Ta'ala QS al Isra' ayat 60: (\"Dan tidaklah kami jdikan mimpi yang Kami perlihatkann kepadamu melainkan sebagai ujian bagi manusia\"). Ibnu 'Abbas radliallahu 'anhuma berkata; \"Itu adalah penglihatan mata telanjang yang diperlihatkan kepada Rasulullah shallallahu 'alaihi wasallam pada malam beliau di Isra' menuju Baitul Maqdis\". Dan Ibnu 'Abbas radliallahu 'anhuma juga berkata; bahwa lanjutan ayat yang artinya: (\"dan begitu pula pohon yang terkutuk di dalam al Qur'an.\".) maksudnya adalah pohon zaqqum (di neraka)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 17,
+        "ayah": 60,
+        "surah_name": "Al-Isra'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/17/60"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -3747,7 +3806,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata; aku mendengar [Al Bara' bin 'Azib] radliallahu 'anhu berkata; \"Orang yang pertama datang kepada kami (dari kaum Muhajirin) adalah Mush'ab bin 'Umair dan Ibnu Ummi Maktum. Keduanya membacakan al-Qur'an kepada orang-orang. Kemudian Bilal, Sa'ad dan 'Ammar bin Yasir. Setelah itu datang pula 'Umar bin Al Khaththab dalam rombongan berjumlah sepuluh orang dari shahabat Nabi shallallahu 'alaihi wasallam. Setelah itu datang Nabi shallallahu 'alaihi wasallam. Aku tidak pernah melihat penduduk Madinah bergembira sebagaimana gembiranya mereka dengan kedatangan Rasulullah shallallahu 'alaihi wasallam, hingga para budak wanita berseru; \"Rasulullah shallallahu 'alaihi wasallam telah datang.\" Dan tidaklah beliau tiba melainkan aku telah membaca (menghafal) \"Sabbihismaa Robbikal a'laa, \" yang termasuk dalam surat-surah Al Mufashshal (surat-surat pendek)",
       "en": "Narrated Al-Bara bin Azib:The first people who came to us (in Medina) were Mus`ab bin `Umair and Ibn Um Maktum who were teaching Qur'an to the people. Then there came Bilal, Sa`d and `Ammar bin Yasir. After that `Umar bin Al-Khattab came along with twenty other companions of the Prophet. Later on the Prophet (ﷺ) himself came (to Medina) and I had never seen the people of Medina so joyful as they were on the arrival of Allah's Apostle, for even the slave girls were saying, \"Allah's Messenger (ﷺ) has arrived!\" And before his arrival I had read the Sura starting with:-- \"Glorify the Name of your Lord, the Most High\" (87.1) together with other Suras of Al-Mufassal",
       "id": "Telah menceritakan kepada kami [Muhammad bin Basysyar] telah menceritakan kepada kami [Ghundar] telah menceritakan kepada kami [Syu'bah] dari [Abu Ishaq] ia berkata; aku mendengar [Al Bara' bin 'Azib] radliallahu 'anhu berkata; \"Orang yang pertama datang kepada kami (dari kaum Muhajirin) adalah Mush'ab bin 'Umair dan Ibnu Ummi Maktum. Keduanya membacakan al-Qur'an kepada orang-orang. Kemudian Bilal, Sa'ad dan 'Ammar bin Yasir. Setelah itu datang pula 'Umar bin Al Khaththab dalam rombongan berjumlah sepuluh orang dari shahabat Nabi shallallahu 'alaihi wasallam. Setelah itu datang Nabi shallallahu 'alaihi wasallam. Aku tidak pernah melihat penduduk Madinah bergembira sebagaimana gembiranya mereka dengan kedatangan Rasulullah shallallahu 'alaihi wasallam, hingga para budak wanita berseru; \"Rasulullah shallallahu 'alaihi wasallam telah datang.\" Dan tidaklah beliau tiba melainkan aku telah membaca (menghafal) \"Sabbihismaa Robbikal a'laa, \" yang termasuk dalam surat-surah Al Mufashshal (surat-surat pendek)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 87,
+        "ayah": 1,
+        "surah_name": "Al-A'la",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/87/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

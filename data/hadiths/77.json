@@ -347,7 +347,23 @@
       "ms": "Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] dia berkata; telah mengabarkan kepadaku [Nafi'] dari ['Abdullah] dia berkata; Setelah Abdullah bin Ubay meninggal dunia, anaknya datang menemui Nabi shallallahu 'alaihi wasallam, dan berkata; 'Wahai Rasulullah, berikanlah baju engkau kepadaku hingga aku mengkafaninya dengan baju itu, shalatkanlah ia dan mintalah ampunan untuknya!\" lalu beliau memberikan baju beliau kepadanya. Kemudian beliau bersabda: \"Jika kalian telah selesai, beritahulah aku.\" Ketika telah selesai, maka anaknya Abdullah bin Ubay memberitahukan kepada beliau, lalu beliau datang untuk menshalatinya. Maka Umar menariknya seraya berkata; 'Tidakkah Allah telah melarang engkau untuk menshalatkan orang-orang munafik'. Namun beliau membaca ayat: \"Mintakanlah ampun untuk mereka atau kamu tidak memintakan ampun untuk mereka, sama saja jika kamu memintakan ampun untuk mereka sebanyak tujuh puluh kali maka Allah tidak akan mengampuni mereka.\" Lalu turunlah ayat, Dan janganlah kamu sekali-kali menshalatkan (jenazah) seorang yang mati diantara mereka, dan janganlah kamu berdiri (mendoakan) di kuburnya'. Akhirnya beliaupun tidak lagi menshalatkan mereka",
       "en": "Narrated `Abdullah bin `Umar:When `Abdullah bin Ubdi (bin Salul) died, his son came to Allah's Messenger (ﷺ) and said ' O Allah's Apostle, give me your shirt so that I may shroud my fathers body in it. And please offer a funeral prayer for him and invoke Allah for his forgiveness.\" The Prophet (ﷺ) gave him his shirt and said to him 'Inform us when you finish (and the funeral procession is ready) call us. When he had finished he told the Prophet (ﷺ) and the Prophet (ﷺ) proceeded to order his funeral prayers but `Umar stopped him and said, \"Didn't Allah forbid you to offer the funeral prayer for the hypocrites when He said: \"Whether you (O Muhammad) ask forgiveness for them or ask not forgiveness for them: (and even) if you ask forgiveness for them seventy times. Allah will not forgive them.\" (9.80) Then there was revealed: \"And never (O Muhammad) pray for any of them that dies, nor stand at his grave.\" (9.34) Thenceforth the Prophet (ﷺ) did not offer funeral prayers for the hypocrites",
       "id": "Telah menceritakan kepada kami [Shadaqah] telah mengabarkan kepada kami [Yahya bin Sa'id] dari ['Ubaidullah] dia berkata; telah mengabarkan kepadaku [Nafi'] dari ['Abdullah] dia berkata; Setelah Abdullah bin Ubay meninggal dunia, anaknya datang menemui Nabi shallallahu 'alaihi wasallam, dan berkata; 'Wahai Rasulullah, berikanlah baju engkau kepadaku hingga aku mengkafaninya dengan baju itu, shalatkanlah ia dan mintalah ampunan untuknya!\" lalu beliau memberikan baju beliau kepadanya. Kemudian beliau bersabda: \"Jika kalian telah selesai, beritahulah aku.\" Ketika telah selesai, maka anaknya Abdullah bin Ubay memberitahukan kepada beliau, lalu beliau datang untuk menshalatinya. Maka Umar menariknya seraya berkata; 'Tidakkah Allah telah melarang engkau untuk menshalatkan orang-orang munafik'. Namun beliau membaca ayat: \"Mintakanlah ampun untuk mereka atau kamu tidak memintakan ampun untuk mereka, sama saja jika kamu memintakan ampun untuk mereka sebanyak tujuh puluh kali maka Allah tidak akan mengampuni mereka.\" Lalu turunlah ayat, Dan janganlah kamu sekali-kali menshalatkan (jenazah) seorang yang mati diantara mereka, dan janganlah kamu berdiri (mendoakan) di kuburnya'. Akhirnya beliaupun tidak lagi menshalatkan mereka"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 9,
+        "ayah": 80,
+        "surah_name": "At-Tawbah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/9/80"
+      },
+      {
+        "type": "quran",
+        "surah": 9,
+        "ayah": 34,
+        "surah_name": "At-Tawbah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/9/34"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

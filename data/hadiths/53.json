@@ -47,7 +47,16 @@
       "ms": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [bapakku] bahwa [Anas radliallahu 'anhu] berkata: \"Dikatakan kepada Nabi shallallahu 'alaihi wasallam \"Sebaiknya Baginda menemui 'Abdullah bin Ubay.\" Maka Nabi shallallahu 'alaihi wasallam menemuinya dengan menunggang keledai sedangkan Kaum Muslimin berangkat bersama Beliau dengan berjalan kaki melintasi tanah yang tandus. Ketika Nabi shallallahu 'alaihi wasallam menemuinya, ia berkata: \"Menjauhlah dariku, demi Allah, bau keledaimu menggangguku\". Maka berkatalah seseorang dari kaum Anshar diantara mereka: \"Demi Allah, sungguh keledai Rasulullah shallallahu 'alaihi wasallam lebih baik daripada kamu\". Maka seseorang dari kaumnya marah demi membela 'Abdullah bin Ubay dan ia mencelanya sehingga marahlah setiap orang dari masing-masing kelompok. Saat itu kedua kelompok saling memukul dengan pelepah kurma, tangan, dan sandal. Kemudian sampai kepada kami bahwa telah turun ayat QS. Al Hujurat: 10 yang artinya (\"jika dua kelompok dari kaum muslimin berperang maka damaikanlah keduanya)",
       "en": "Narrated Anas:It was said to the Prophet (ﷺ) \"Would that you see `Abdullah bin Ubai.\" So, the Prophet (ﷺ) went to him, riding a donkey, and the Muslims accompanied him, walking on salty barren land. When the Prophet (ﷺ) reached `Abdullah bin Ubai, the latter said, \"Keep away from me! By Allah, the bad smell of your donkey has harmed me.\" On that an Ansari man said (to `Abdullah), \"By Allah! The smell of the donkey of Allah's Messenger (ﷺ) is better than your smell.\" On that a man from `Abdullah's tribe got angry for `Abdullah's sake, and the two men abused each other which caused the friends of the two men to get angry, and the two groups started fighting with sticks, shoes and hands. We were informed that the following Divine Verse was revealed (in this concern):-- \"And if two groups of Believers fall to fighting then, make peace between them",
       "id": "Telah menceritakan kepada kami [Musaddad] telah menceritakan kepada kami [Mu'tamir] berkata, aku mendengar [bapakku] bahwa [Anas radliallahu 'anhu] berkata: \"Dikatakan kepada Nabi shallallahu 'alaihi wasallam \"Sebaiknya Baginda menemui 'Abdullah bin Ubay.\" Maka Nabi shallallahu 'alaihi wasallam menemuinya dengan menunggang keledai sedangkan Kaum Muslimin berangkat bersama Beliau dengan berjalan kaki melintasi tanah yang tandus. Ketika Nabi shallallahu 'alaihi wasallam menemuinya, ia berkata: \"Menjauhlah dariku, demi Allah, bau keledaimu menggangguku\". Maka berkatalah seseorang dari kaum Anshar diantara mereka: \"Demi Allah, sungguh keledai Rasulullah shallallahu 'alaihi wasallam lebih baik daripada kamu\". Maka seseorang dari kaumnya marah demi membela 'Abdullah bin Ubay dan ia mencelanya sehingga marahlah setiap orang dari masing-masing kelompok. Saat itu kedua kelompok saling memukul dengan pelepah kurma, tangan, dan sandal. Kemudian sampai kepada kami bahwa telah turun ayat QS. Al Hujurat: 10 yang artinya (\"jika dua kelompok dari kaum muslimin berperang maka damaikanlah keduanya)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 49,
+        "ayah": 10,
+        "surah_name": "Al-Hujurat",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/49/10"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -122,7 +131,16 @@
       "ms": "Telah menceritakan kepada kami [Qutaibah bin Sa'ad] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ayat yang berbunyi: QS An-Nisaa: 128): (\"Apabila seorang isteri takut suaminya akan berbuat nusyuz (tidak mau menggaulinya) atau berlaku kasar terhadapnya\"), dia ('Aisyah radliallahu 'anha) berkata: \"Itu adalah seorang suami yang melihat pada isterinya apa-apa yang tidak menyenangkannya berupa pelanggaran dosa besar atau lainnya lalu dia berniat menceraikan isterinya lalu isterinya itu berkata: \"Pertahankanlah aku dan bersumpahlah kepadaku terserah apa saja yang kamu kehendaki\". 'Aisyah radliallahu 'anha berkata: \"Maka tidak berdosa bila keduanya saling ridho",
       "en": "Narrated Aisha:The following Verse: If a woman fears cruelty or desertion on her husband's part (i.e. the husband notices something unpleasant about his wife, such as old age or the like, and wants to divorce her, but she asks him to keep her and provide for her as he wishes). (4.128) \"There is no blame on them if they reconcile on such basis",
       "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'ad] telah menceritakan kepada kami [Sufyan] dari [Hisyam bin 'Urwah] dari [bapaknya] dari ['Aisyah radliallahu 'anha] bahwa ayat yang berbunyi: QS An-Nisaa: 128): (\"Apabila seorang isteri takut suaminya akan berbuat nusyuz (tidak mau menggaulinya) atau berlaku kasar terhadapnya\"), dia ('Aisyah radliallahu 'anha) berkata: \"Itu adalah seorang suami yang melihat pada isterinya apa-apa yang tidak menyenangkannya berupa pelanggaran dosa besar atau lainnya lalu dia berniat menceraikan isterinya lalu isterinya itu berkata: \"Pertahankanlah aku dan bersumpahlah kepadaku terserah apa saja yang kamu kehendaki\". 'Aisyah radliallahu 'anha berkata: \"Maka tidak berdosa bila keduanya saling ridho"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 128,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/128"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

@@ -197,7 +197,16 @@
       "ms": "Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Mu'adz bin Fadhalah] keduanya berkata, telah mengabarkan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata; \"Aku melihat [Abu Hurairah radliallahu 'anhu] membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Wahai Abu Hurairah mengapa anda melakukan sujud?\" Maka dia menjawab: \"Seandainya aku tidak melihat Nabi shallallahu 'alaihi wasallam sujud, tentu aku tidak akan sujud",
       "en": "Narrated Abu Salama:I saw Abu Huraira reciting Idha-Sama' un-Shaqqat and he prostrated during its recitation. I asked Abu Huraira, \"Didn't I see you prostrating?\" Abu Huraira said, \"Had I not seen the Prophet (ﷺ) prostrating, I would not have prostrated",
       "id": "Telah menceritakan kepada kami [Muslim bin Ibrahim] dan [Mu'adz bin Fadhalah] keduanya berkata, telah mengabarkan kepada kami [Hisyam] dari [Yahya] dari [Abu Salamah] berkata; \"Aku melihat [Abu Hurairah radliallahu 'anhu] membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Wahai Abu Hurairah mengapa anda melakukan sujud?\" Maka dia menjawab: \"Seandainya aku tidak melihat Nabi shallallahu 'alaihi wasallam sujud, tentu aku tidak akan sujud"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 84,
+        "ayah": 1,
+        "surah_name": "Al-Insyiqaq",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/84/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -297,7 +306,16 @@
       "ms": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] berkata; aku mendengar [bapakku] berkata, telah menceritakan kepada saya [Bakar] dari [Abu Rafi'] berkata: \"Aku pernah shalat 'Atmah ('Isya di penghujung malam) bersama [Abu Hurairah radliallahu 'anhu]. Dia membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Mengapa anda melakukan ini?\" Maka dia menjawab: \"Aku pernah sujud di belakang Abul Qasim shallallahu 'alaihi wasallam. Dan senantiasa aku melakukan sujud ketika membacanya sampai akhir hayatku",
       "en": "Narrated Abu Rafi`:I offered the `Isha' prayer behind Abu Huraira and he recited Idhas-Sama' Un-Shaqqat, and prostrated. I said, \"What is this?\" Abu Huraira said, \"I prostrated behind Abul-Qasim and I will do the same till I meet him",
       "id": "Telah menceritakan kepada kami [Musaddad] berkata, telah menceritakan kepada kami [Mu'tamir] berkata; aku mendengar [bapakku] berkata, telah menceritakan kepada saya [Bakar] dari [Abu Rafi'] berkata: \"Aku pernah shalat 'Atmah ('Isya di penghujung malam) bersama [Abu Hurairah radliallahu 'anhu]. Dia membaca idzas samaa-unsyaqqat (QS Al Insyiqaq) lalu dia sujud tilawah. Kemudian aku bertanya kepadanya: \"Mengapa anda melakukan ini?\" Maka dia menjawab: \"Aku pernah sujud di belakang Abul Qasim shallallahu 'alaihi wasallam. Dan senantiasa aku melakukan sujud ketika membacanya sampai akhir hayatku"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 84,
+        "ayah": 1,
+        "surah_name": "Al-Insyiqaq",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/84/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

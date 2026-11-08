@@ -522,7 +522,16 @@
       "ms": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Mujahid] dari [Ibnu 'Abbas] radliallahu 'anhuma mengatakan; 'Di kalangan bani israil hanya berlaku hukum qisas dan tidak ada hukum tebusan (diyat), sehingga Allah menurunkan ayat ini 'Diwajibkan atas kalian qisas dalam pembunuhan (QS. ALbaqarah 178) Hingga ayat ini; kecuali jika ia mendapat pemaafan dari saudara (QS. Albaqarah 178), kata Ibn Abbas; istilah maaf maksudnya menerima diyat secara tulus. Dan Ibnu Abbas berkata perihal kutipan ayat; 'fattibaa'un bil ma'ruuf (Maka hendaklah ia mengikutinya dengan baik), ' maksudnya hendaklah betu-betul meminta maaf dan melakukannya dengan sebaik-baiknya",
       "en": "Narrated Ibn `Abbas:For the children of Israel the punishment for crime was Al-Qisas only (i.e., the law of equality in punishment) and the payment of Blood money was not permitted as an alternate. But Allah said to this nation (Muslims): 'O you who believe! Qisas is prescribed for you in case of murder, .....(up to) ...end of the Verse. (2.178) Ibn `Abbas added: Remission (forgiveness) in this Verse, means to accept the Blood-money in an intentional murder. Ibn `Abbas added: The Verse: 'Then the relatives should demand Blood-money in a reasonable manner.' (2.178) means that the demand should be reasonable and it is to be compensated with handsome gratitude",
       "id": "Telah menceritakan kepada kami [Qutaibah bin Sa'id] telah menceritakan kepada kami [Sufyan] dari ['Amru] dari [Mujahid] dari [Ibnu 'Abbas] radliallahu 'anhuma mengatakan; 'Di kalangan bani israil hanya berlaku hukum qisas dan tidak ada hukum tebusan (diyat), sehingga Allah menurunkan ayat ini 'Diwajibkan atas kalian qisas dalam pembunuhan (QS. ALbaqarah 178) Hingga ayat ini; kecuali jika ia mendapat pemaafan dari saudara (QS. Albaqarah 178), kata Ibn Abbas; istilah maaf maksudnya menerima diyat secara tulus. Dan Ibnu Abbas berkata perihal kutipan ayat; 'fattibaa'un bil ma'ruuf (Maka hendaklah ia mengikutinya dengan baik), ' maksudnya hendaklah betu-betul meminta maaf dan melakukannya dengan sebaik-baiknya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 178,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/178"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

@@ -330,14 +330,47 @@ class BukhariReader {
     }
   }
 
+  formatTranslation(trans, crossRefs = []) {
+    if (!trans) return '';
+    let formatted = trans;
+
+    const quranRefs = crossRefs.filter(cr => cr.type === 'quran');
+    if (quranRefs.length > 0) {
+      quranRefs.forEach(cr => {
+        const url = cr.url || `https://maktabah-maftoohah.github.io/al-quran/${cr.surah}/${cr.ayah}`;
+        const label = cr.surah_name ? `Surah ${cr.surah_name} (${cr.surah}:${cr.ayah})` : `Surah ${cr.surah}:${cr.ayah}`;
+
+        // 1. English patterns: (V. s:a), (s:a), (s.a)
+        const enPattern = new RegExp(`\\((?:V\\.?\\s*)?${cr.surah}[:.]${cr.ayah}\\)`, 'gi');
+        formatted = formatted.replace(enPattern, (match) => {
+          return `<a href="${url}" class="quran-inline-link" target="_blank" rel="noopener" title="${this.currentLang === 'ms' ? `Buka ${label} dalam Al-Quran Digital` : `Open ${label} in Digital Quran`}">${match} ↗</a>`;
+        });
+
+        // 2. Malay/Indonesian patterns: (QS. Name: Ayah) or (As. Name: Ayah)
+        if (cr.surah_name) {
+          const escapedName = cr.surah_name.replace(/[.*+?^${}()|[\]\\]/g, '\\$&').replace(/[-']/g, '[\\s\\-\']?');
+          const msPattern = new RegExp(`\\((?:QS\\.?|Qs\\.?|Surat|Surah|As\\.)\\s*${escapedName}\\s*(?:[:.,]|ayat)?\\s*${cr.ayah}\\)`, 'gi');
+          formatted = formatted.replace(msPattern, (match) => {
+            return `<a href="${url}" class="quran-inline-link" target="_blank" rel="noopener" title="${this.currentLang === 'ms' ? `Buka ${label} dalam Al-Quran Digital` : `Open ${label} in Digital Quran`}">${match} ↗</a>`;
+          });
+        }
+      });
+    }
+
+    return formatted;
+  }
+
   renderHadithCard(hadith) {
-    const trans = hadith.translations?.[this.currentLang] || hadith.translations?.ms || '';
+    const rawTrans = hadith.translations?.[this.currentLang] || hadith.translations?.ms || '';
+    const formattedTrans = this.formatTranslation(rawTrans, hadith.cross_references || []);
     const grade = hadith.gradings?.[0]?.grade || 'Sahih';
     const gradeAr = hadith.gradings?.[0]?.grade_ar || 'صحيح';
 
     const crossRefsHtml = (hadith.cross_references || []).map(cr => {
       if (cr.type === 'quran') {
-        return `<a href="../al-quran/#ayah/${cr.surah}/${cr.ayah}" class="badge badge-crossref" target="_blank" rel="noopener" title="${this.currentLang === 'ms' ? `Buka Surah ${cr.surah}:${cr.ayah} dalam Al-Quran Digital` : `Open Surah ${cr.surah}:${cr.ayah} in Digital Quran`}">📖 Surah ${cr.surah}:${cr.ayah} ↗</a>`;
+        const quranUrl = cr.url || `https://maktabah-maftoohah.github.io/al-quran/${cr.surah}/${cr.ayah}`;
+        const label = cr.surah_name ? `Surah ${cr.surah_name} (${cr.surah}:${cr.ayah})` : `Surah ${cr.surah}:${cr.ayah}`;
+        return `<a href="${quranUrl}" class="badge badge-crossref" target="_blank" rel="noopener" title="${this.currentLang === 'ms' ? `Buka ${label} dalam Al-Quran Digital` : `Open ${label} in Digital Quran`}">📖 ${label} ↗</a>`;
       }
       return '';
     }).join('');
@@ -367,7 +400,7 @@ class BukhariReader {
         </div>
 
         <div class="hadith-translation">
-          ${trans}
+          ${formattedTrans}
         </div>
 
         <div class="hadith-footer">

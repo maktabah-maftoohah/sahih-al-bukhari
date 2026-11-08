@@ -72,7 +72,16 @@
       "ms": "Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepada kami [Abu Usamah] dari [Idris] dari [Tholhah bin Musharrif] dari [Said bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma]: Firman Allah yang berbunyi (Dan bagi harta peninggalan kami jadikan para pewaris), dia berkata; artinya: itulah warisan. Dan ayat (Dan orang-orang yang kamu telah bersumpah setia dengan mereka) ia berkata: ketika orang-orang muhajirin sampai di Madinah, seorang Muhajir mewarisi orang Anshar yang tidak memiliki hubungan kekeluargaan karena persaudaraan yang dipersaudarakan oleh Nabi shallallahu 'alaihi wasallam diantara mereka. Ketika ayat ini turun maka ayat ini menghapus ketentuan tersebut. Dan ayat tidak dipraktekkan lagi kecuali saling tolong menolong (antara Muhajirin - Anshar), pemberian dan nasehat sedangkan warisan telah dihapus dan diberi wasiat",
       "en": "Narrated Sa`id bin Jubair:Ibn `Abbas said, \"In the verse: To every one We have appointed ' (Muwaliya Muwaliya means one's) heirs (4.33).' (And regarding the verse) 'And those with whom your right hands have made a pledge.' Ibn `Abbas said, \"When the emigrants came to the Prophet (ﷺ) in Medina, the emigrant would inherit the Ansari while the latter's relatives would not inherit him because of the bond of brotherhood which the Prophet established between them (i.e. the emigrants and the Ansar). When the verse: 'And to everyone We have appointed heirs' (4.33) was revealed, it canceled (the bond (the pledge) of brotherhood regarding inheritance).\" Then he said, \"The verse: To those also to whom your right hands have pledged, remained valid regarding cooperation and mutual advice, while the matter of inheritance was excluded and it became permissible to assign something in one's testament to the person who had the right of inheriting before",
       "id": "Telah menceritakan kepada kami [Ash-Shaltu bin Muhammad] telah menceritakan kepada kami [Abu Usamah] dari [Idris] dari [Tholhah bin Musharrif] dari [Said bin Jubair] dari [Ibnu 'Abbas radliallahu 'anhuma]: Firman Allah yang berbunyi (Dan bagi harta peninggalan kami jadikan para pewaris), dia berkata; artinya: itulah warisan. Dan ayat (Dan orang-orang yang kamu telah bersumpah setia dengan mereka) ia berkata: ketika orang-orang muhajirin sampai di Madinah, seorang Muhajir mewarisi orang Anshar yang tidak memiliki hubungan kekeluargaan karena persaudaraan yang dipersaudarakan oleh Nabi shallallahu 'alaihi wasallam diantara mereka. Ketika ayat ini turun maka ayat ini menghapus ketentuan tersebut. Dan ayat tidak dipraktekkan lagi kecuali saling tolong menolong (antara Muhajirin - Anshar), pemberian dan nasehat sedangkan warisan telah dihapus dan diberi wasiat"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 4,
+        "ayah": 33,
+        "surah_name": "An-Nisa'",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/4/33"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

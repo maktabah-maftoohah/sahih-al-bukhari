@@ -206,6 +206,32 @@ body {
   color: #fff;
 }
 
+.quran-inline-link {
+  color: var(--primary);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+  transition: color 0.15s ease, background-color 0.15s ease;
+  padding: 0.1rem 0.25rem;
+  border-radius: 4px;
+}
+
+.quran-inline-link:hover {
+  color: #047857;
+  background-color: rgba(16, 185, 129, 0.12);
+  text-decoration: none;
+}
+
+[data-theme="dark"] .quran-inline-link {
+  color: #34d399;
+}
+
+[data-theme="dark"] .quran-inline-link:hover {
+  color: #6ee7b7;
+  background-color: rgba(52, 211, 153, 0.18);
+}
+
 .hadith-list {
   display: flex;
   flex-direction: column;

@@ -147,7 +147,16 @@
       "ms": "Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Jundab bin 'Abdullah radliallahu 'anhu] berkata; \"Malaikat Jibril Alaihissalam sekian lama tidak datang menyampaikan wahyu kepada Nabi shallallahu 'alaihi wasallam hingga kemudian ada seorang wanita Quraisy berkata; \"Syetannya telah meninggalkannya\". Maka turunlah surah Adh-Dhuha: \"Wadh dhuhaa wal laili idza sajaa. Maa wadda'aka rabbuka wa qalaa\" (Demi waktu dhuha (matahari sepenggalahan naik) dan demi malam apabila telah sunyi (gelap). Rabbmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu\") (QS. Adhdhuha)",
       "en": "Narrated Jundab bin `Abdullah:Gabriel did not come to the Prophet (for some time) and so one of the Quraish women said, \"His Satan has deserted him.\" So came the Divine Revelation: \"By the forenoon And by the night When it is still! Your Lord (O Muhammad) has neither Forsaken you Nor hated you",
       "id": "Telah menceritakan kepada kami [Muhammad bin Katsir] berkata, telah mengabarkan kepada kami [Sufyan] dari [Al Aswad bin Qais] dari [Jundab bin 'Abdullah radliallahu 'anhu] berkata; \"Malaikat Jibril Alaihissalam sekian lama tidak datang menyampaikan wahyu kepada Nabi shallallahu 'alaihi wasallam hingga kemudian ada seorang wanita Quraisy berkata; \"Syetannya telah meninggalkannya\". Maka turunlah surah Adh-Dhuha: \"Wadh dhuhaa wal laili idza sajaa. Maa wadda'aka rabbuka wa qalaa\" (Demi waktu dhuha (matahari sepenggalahan naik) dan demi malam apabila telah sunyi (gelap). Rabbmu tiada meninggalkan kamu dan tiada (pula) benci kepadamu\") (QS. Adhdhuha)"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 93,
+        "ayah": 1,
+        "surah_name": "Ad-Duha",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/93/1"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",

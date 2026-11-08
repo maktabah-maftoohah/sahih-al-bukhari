@@ -73,6 +73,18 @@ def main():
             og_desc = f"{ar_snippet} — {trans_snippet}"
             og_url = f"{base_url}/{h_str}"
 
+            # Prepare direct Quran references if present
+            quran_links = []
+            for cr in h.get("cross_references", []):
+                if cr.get("type") == "quran":
+                    s_num = cr.get("surah")
+                    a_num = cr.get("ayah")
+                    s_name = cr.get("surah_name") or f"Surah {s_num}"
+                    cr_url = cr.get("url") or f"https://maktabah-maftoohah.github.io/al-quran/{s_num}/{a_num}"
+                    quran_links.append(f'<a href="{cr_url}" target="_blank" rel="noopener" style="display: inline-block; margin: 0.25rem 0.35rem; background: rgba(16, 185, 129, 0.15); border: 1px solid rgba(16, 185, 129, 0.5); color: #34d399; text-decoration: none; font-size: 0.85rem; font-weight: 600; padding: 0.4rem 0.85rem; border-radius: 6px;">📖 Rujuk {html.escape(s_name)} ({s_num}:{a_num}) dalam Al-Quran Digital ↗</a>')
+
+            quran_html = f'<div style="margin: 1rem 0;">{"".join(quran_links)}</div>' if quran_links else ""
+
             # Calculate relative path back to root (1 directory deep)
             redirect_target = f"../#hadith/{h_str}"
 
@@ -118,6 +130,7 @@ def main():
     <div style="font-size: 0.95rem; color: #fbbf24; margin-bottom: 1.25rem;">{html.escape(book_title_ms)} ({html.escape(book_title_ar)}){in_book_text}</div>
     <div style="font-family: 'Amiri', 'Traditional Arabic', serif; font-size: 1.45rem; color: #fef3c7; direction: rtl; line-height: 1.8; margin-bottom: 1.25rem;">{html.escape(ar_snippet)}</div>
     <p style="font-size: 0.95rem; color: #cbd5e1; line-height: 1.6; margin-bottom: 1.75rem;">"{html.escape(trans_snippet)}"</p>
+    {quran_html}
     <a href="{redirect_target}" style="display: inline-block; background: #10b981; color: #022c22; text-decoration: none; font-weight: 700; padding: 0.75rem 1.5rem; border-radius: 8px;">Buka Hadis Penuh / Open Full Hadith ↗</a>
   </div>
 </body>

@@ -972,7 +972,16 @@
       "ms": "Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta untuk menguasai harta seorang muslim -atau ia katakan dengan redaksi untuk menguasai harta saudaranya-- ia bertemu Allah sedang Allah dalam keadaan murka kepadanya.\" Kemudian Allah menurunkan ayat yang membenarkannya; 'Sesungguhnya orang-orang yang menukar janji Allah,,, dst (QS. Ali'Imran 77), [Sulaiman] berkata dalam haditsnya; kemudian Al Asy'ats bin Qais lewat dan berujar; 'Apa yang diceritakan Abdullah kepada kalian? ' Mereka pun menjawabnya dengan suatu jawaban sebagaimana diutarakan Abdullah. Lantas [Asy'ats] menerangkan; 'Sesungguhnya ayat diatas diturunkan tentang saya dan kawan saya karena suatu sumur yang ada diantara kami",
       "en": "Narrated `Abdullah:The Prophet (ﷺ) said, \"Whoever swears falsely in order to grab the property of a Muslim (or of his brother), Allah will be angry with him when he meets Him.\" Allah then revealed in confirmation of the above statement:--'Verily those who purchase a small gain at the cost of Allah's Covenant and their own oaths.' (3.77) Al-Ash'ath said, \"This Verse was revealed regarding me and a companion of mine when we had a dispute about a well",
       "id": "Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta untuk menguasai harta seorang muslim -atau ia katakan dengan redaksi untuk menguasai harta saudaranya-- ia bertemu Allah sedang Allah dalam keadaan murka kepadanya.\" Kemudian Allah menurunkan ayat yang membenarkannya; 'Sesungguhnya orang-orang yang menukar janji Allah,,, dst (QS. Ali'Imran 77), [Sulaiman] berkata dalam haditsnya; kemudian Al Asy'ats bin Qais lewat dan berujar; 'Apa yang diceritakan Abdullah kepada kalian? ' Mereka pun menjawabnya dengan suatu jawaban sebagaimana diutarakan Abdullah. Lantas [Asy'ats] menerangkan; 'Sesungguhnya ayat diatas diturunkan tentang saya dan kawan saya karena suatu sumur yang ada diantara kami"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 3,
+        "ayah": 77,
+        "surah_name": "Ali 'Imran",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/3/77"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -997,7 +1006,16 @@
       "ms": "Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta untuk menguasai harta seorang muslim -atau ia katakan dengan redaksi untuk menguasai harta saudaranya-- ia bertemu Allah sedang Allah dalam keadaan murka kepadanya.\" Kemudian Allah menurunkan ayat yang membenarkannya; 'Sesungguhnya orang-orang yang menukar janji Allah,,, dst (QS. Ali'Imran 77), [Sulaiman] berkata dalam haditsnya; kemudian Al Asy'ats bin Qais lewat dan berujar; 'Apa yang diceritakan Abdullah kepada kalian? ' Mereka pun menjawabnya dengan suatu jawaban sebagaimana diutarakan Abdullah. Lantas [Asy'ats] menerangkan; 'Sesungguhnya ayat diatas diturunkan tentang saya dan kawan saya karena suatu sumur yang ada diantara kami",
       "en": "Narrated `Abdullah:The Prophet (ﷺ) said, \"Whoever swears falsely in order to grab the property of a Muslim (or of his brother), Allah will be angry with him when he meets Him.\" Allah then revealed in confirmation of the above statement:--'Verily those who purchase a small gain at the cost of Allah's Covenant and their own oaths.' (3.77) Al-Ash'ath said, \"This Verse was revealed regarding me and a companion of mine when we had a dispute about a well",
       "id": "Telah menceritakan kepadaku [Muhammad bin Basyar] telah menceritakan kepada kami [Ibnu Abi 'Adi] dari [Syu'bah] dari [Sulaiman] dan [Manshur] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu, dari Nabi shallallahu 'alaihi wasallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta untuk menguasai harta seorang muslim -atau ia katakan dengan redaksi untuk menguasai harta saudaranya-- ia bertemu Allah sedang Allah dalam keadaan murka kepadanya.\" Kemudian Allah menurunkan ayat yang membenarkannya; 'Sesungguhnya orang-orang yang menukar janji Allah,,, dst (QS. Ali'Imran 77), [Sulaiman] berkata dalam haditsnya; kemudian Al Asy'ats bin Qais lewat dan berujar; 'Apa yang diceritakan Abdullah kepada kalian? ' Mereka pun menjawabnya dengan suatu jawaban sebagaimana diutarakan Abdullah. Lantas [Asy'ats] menerangkan; 'Sesungguhnya ayat diatas diturunkan tentang saya dan kawan saya karena suatu sumur yang ada diantara kami"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 3,
+        "ayah": 77,
+        "surah_name": "Ali 'Imran",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/3/77"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1072,7 +1090,23 @@
       "ms": "Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] mengabarkan, telah mengabarkan kepadaku [Ayahku] dari [Aisyah] radliallahu 'anhuma mengenai firman Allah: 'Allah tidak menghukum kalian karena sumpah kalian yang tak disengaja, ' QS.Albaqarah 225, kata 'Aisyah; ayat tersebut diturunkan tentang ucapan orang yang bersumpah; 'Tidak, demi Allah. Baik, demi Allah",
       "en": "Narrated `Aisha:regarding: 'Allah will not call you to account for that which is unintentional in your oaths...' (2.225) This Verse was revealed concerning such oath formulas as: 'No, by Allah!' and 'Yes, by Allah!' something against his oath due to forgetfulness should he make expiation?). And the Statement of Allah: 'And there is no blame on you if you make a mistake therein.' (33.5) And Allah said:-- '(Moses said to Khadir): Call me not to account for what I forgot",
       "id": "Telah menceritakan kepadaku [Muhammad bin Al Mutsanna] telah menceritakan kepada kami [Yahya] dari [Hisyam] mengabarkan, telah mengabarkan kepadaku [Ayahku] dari [Aisyah] radliallahu 'anhuma mengenai firman Allah: 'Allah tidak menghukum kalian karena sumpah kalian yang tak disengaja, ' QS.Albaqarah 225, kata 'Aisyah; ayat tersebut diturunkan tentang ucapan orang yang bersumpah; 'Tidak, demi Allah. Baik, demi Allah"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 2,
+        "ayah": 225,
+        "surah_name": "Al-Baqarah",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/2/225"
+      },
+      {
+        "type": "quran",
+        "surah": 33,
+        "ayah": 5,
+        "surah_name": "Al-Ahzab",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/33/5"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1297,7 +1331,16 @@
       "ms": "Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Amru bin Dinar] telah menceritakan kepadaku [Said bin Jubair] menuturkan; saya bertanya kepada [Ibnu 'Abbas], maka ia menjawab; telah menceritakan kepada kami [Ubai bin Ka'b], bahwasanya ia mendengar Rasulullah Shallallahu'alaihi wa sallam bersabda (mengenai firman Allah); 'Janganlah engkau menghukumku karena aku lupa dan janganlah engkau memaksa urusanku yang bagiku terasa sukar' (Alkahfi 73), beliau menafsiri dengan: \"Itulah lupa pertama-tama yang dilakukan Musa",
       "en": "Narrated Ubai bin Ka'b: that he heard Allah's Messenger (ﷺ) saying, \"(Moses) said, 'Call me not to account for what I forget and be not hard upon me for my affair (with you)' (18.73) the first excuse of Moses was his forgetfulness",
       "id": "Telah menceritakan kepada kami [Al Humaidi] telah menceritakan kepada kami [Sufyan] telah menceritakan kepada kami [Amru bin Dinar] telah menceritakan kepadaku [Said bin Jubair] menuturkan; saya bertanya kepada [Ibnu 'Abbas], maka ia menjawab; telah menceritakan kepada kami [Ubai bin Ka'b], bahwasanya ia mendengar Rasulullah Shallallahu'alaihi wa sallam bersabda (mengenai firman Allah); 'Janganlah engkau menghukumku karena aku lupa dan janganlah engkau memaksa urusanku yang bagiku terasa sukar' (Alkahfi 73), beliau menafsiri dengan: \"Itulah lupa pertama-tama yang dilakukan Musa"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 18,
+        "ayah": 73,
+        "surah_name": "Al-Kahf",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/18/73"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1397,7 +1440,16 @@
       "ms": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah mengada-ada di depan hakim, dengan tujuan untuk memperoleh harta seorang muslim, maka ia berjumpa dengan Allah dan Allah murka kepadanya, \" kemudian Allah menurunkan ayat yang membenarkan hal ini dengan ayat; 'Sesungguhnya orang-orang yang menukar janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'imran 77) hingga akhir ayat. Maka [Al Asy'ats bin Qais] masuk dan bertanya; 'Apa yang diceritakan Abu Abdurrahman kepada kalian? ' Mereka menjawab; 'begini dan begini'. Maka Al Asy'ats bin Qais berkata; 'ayat itu diturunkan kepada kami, yang ketika itu saya mempunyai sumur di pekarangan keponakanku, maka kudatangi Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: \"Sekarang engkau harus menyertakan bukti kepemiikanmu atau dia melakukan sumpahnya!\" Aku menjawab; 'kalau begitu, dia pasti akan bersumpah Ya Rasulullah! ' Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta (diada-adakan), ia melakukan kejahatan dengan sumpahnya itu dengan tujuan untuk merampas harta seorang muslim, ia akan menjumpai Allah sedang Allah dalam keadaan murka kepadanya",
       "en": "Narrated `Abdullah:Allah's Messenger (ﷺ) said, \"If somebody is ordered (by the ruler or the judge) to take an oath, and he takes a false oath in order to grab the property of a Muslim, then he will incur Allah's Wrath when he will meet Him.\" And Allah revealed in its confirmation: 'Verily! Those who purchase a small gain at the cost of Allah's covenants and their own oaths.' (3.77) (The sub-narrator added:) Al-Ash'ath bin Qais entered, saying, \"What did Abu `Abdur-Rahman narrate to you?\" They said, \"So-and-so,\" Al-Ash'ath said, \"This verse was revealed in my connection. I had a well on the land of my cousin (and we had a dispute about it). I reported him to Allah's Apostle who said (to me). \"You should give evidence (i.e. witness) otherwise the oath of your opponent will render your claim invalid.\" I said, \"Then he (my opponent) will take the oath, O Allah's Messenger (ﷺ).\" Allah's Messenger (ﷺ) said, \"Whoever is ordered (by the ruler or the judge) to give an oath, and he takes a false oath in order to grab the property of a Muslim, then he will incur Allah's Wrath when he meets Him on the Day of Resurrection",
       "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah mengada-ada di depan hakim, dengan tujuan untuk memperoleh harta seorang muslim, maka ia berjumpa dengan Allah dan Allah murka kepadanya, \" kemudian Allah menurunkan ayat yang membenarkan hal ini dengan ayat; 'Sesungguhnya orang-orang yang menukar janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'imran 77) hingga akhir ayat. Maka [Al Asy'ats bin Qais] masuk dan bertanya; 'Apa yang diceritakan Abu Abdurrahman kepada kalian? ' Mereka menjawab; 'begini dan begini'. Maka Al Asy'ats bin Qais berkata; 'ayat itu diturunkan kepada kami, yang ketika itu saya mempunyai sumur di pekarangan keponakanku, maka kudatangi Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: \"Sekarang engkau harus menyertakan bukti kepemiikanmu atau dia melakukan sumpahnya!\" Aku menjawab; 'kalau begitu, dia pasti akan bersumpah Ya Rasulullah! ' Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta (diada-adakan), ia melakukan kejahatan dengan sumpahnya itu dengan tujuan untuk merampas harta seorang muslim, ia akan menjumpai Allah sedang Allah dalam keadaan murka kepadanya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 3,
+        "ayah": 77,
+        "surah_name": "Ali 'Imran",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/3/77"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1422,7 +1474,16 @@
       "ms": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah mengada-ada di depan hakim, dengan tujuan untuk memperoleh harta seorang muslim, maka ia berjumpa dengan Allah dan Allah murka kepadanya, \" kemudian Allah menurunkan ayat yang membenarkan hal ini dengan ayat; 'Sesungguhnya orang-orang yang menukar janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'imran 77) hingga akhir ayat. Maka [Al Asy'ats bin Qais] masuk dan bertanya; 'Apa yang diceritakan Abu Abdurrahman kepada kalian? ' Mereka menjawab; 'begini dan begini'. Maka Al Asy'ats bin Qais berkata; 'ayat itu diturunkan kepada kami, yang ketika itu saya mempunyai sumur di pekarangan keponakanku, maka kudatangi Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: \"Sekarang engkau harus menyertakan bukti kepemiikanmu atau dia melakukan sumpahnya!\" Aku menjawab; 'kalau begitu, dia pasti akan bersumpah Ya Rasulullah! ' Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta (diada-adakan), ia melakukan kejahatan dengan sumpahnya itu dengan tujuan untuk merampas harta seorang muslim, ia akan menjumpai Allah sedang Allah dalam keadaan murka kepadanya",
       "en": "Narrated `Abdullah:Allah's Messenger (ﷺ) said, \"If somebody is ordered (by the ruler or the judge) to take an oath, and he takes a false oath in order to grab the property of a Muslim, then he will incur Allah's Wrath when he will meet Him.\" And Allah revealed in its confirmation: 'Verily! Those who purchase a small gain at the cost of Allah's covenants and their own oaths.' (3.77) (The sub-narrator added:) Al-Ash'ath bin Qais entered, saying, \"What did Abu `Abdur-Rahman narrate to you?\" They said, \"So-and-so,\" Al-Ash'ath said, \"This verse was revealed in my connection. I had a well on the land of my cousin (and we had a dispute about it). I reported him to Allah's Apostle who said (to me). \"You should give evidence (i.e. witness) otherwise the oath of your opponent will render your claim invalid.\" I said, \"Then he (my opponent) will take the oath, O Allah's Messenger (ﷺ).\" Allah's Messenger (ﷺ) said, \"Whoever is ordered (by the ruler or the judge) to give an oath, and he takes a false oath in order to grab the property of a Muslim, then he will incur Allah's Wrath when he meets Him on the Day of Resurrection",
       "id": "Telah menceritakan kepada kami [Musa bin Isma'il] telah menceritakan kepada kami [Abu 'Awanah] dari [Al A'masy] dari [Abu Wa`il] dari [Abdullah] radliallahu 'anhu menuturkan; Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah mengada-ada di depan hakim, dengan tujuan untuk memperoleh harta seorang muslim, maka ia berjumpa dengan Allah dan Allah murka kepadanya, \" kemudian Allah menurunkan ayat yang membenarkan hal ini dengan ayat; 'Sesungguhnya orang-orang yang menukar janji Allah dan sumpah mereka dengan harga yang sedikit' (QS. Ali'imran 77) hingga akhir ayat. Maka [Al Asy'ats bin Qais] masuk dan bertanya; 'Apa yang diceritakan Abu Abdurrahman kepada kalian? ' Mereka menjawab; 'begini dan begini'. Maka Al Asy'ats bin Qais berkata; 'ayat itu diturunkan kepada kami, yang ketika itu saya mempunyai sumur di pekarangan keponakanku, maka kudatangi Rasulullah Shallallahu'alaihi wa sallam dan beliau bersabda: \"Sekarang engkau harus menyertakan bukti kepemiikanmu atau dia melakukan sumpahnya!\" Aku menjawab; 'kalau begitu, dia pasti akan bersumpah Ya Rasulullah! ' Rasulullah Shallallahu'alaihi wa sallam bersabda: \"Barangsiapa bersumpah dengan sumpah dusta (diada-adakan), ia melakukan kejahatan dengan sumpahnya itu dengan tujuan untuk merampas harta seorang muslim, ia akan menjumpai Allah sedang Allah dalam keadaan murka kepadanya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 3,
+        "ayah": 77,
+        "surah_name": "Ali 'Imran",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/3/77"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1472,7 +1533,16 @@
       "ms": "Telah menceritakan kepada kami [Abdul 'Aziz] telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] -lewat jalur periwayatan lain- Telah menceritakan kepada kami [Al Hajjaj] telah menceritakan kepada kami [Abdullah bin Umar An Numairi] telah menceritakan kepada kami [Yunus bin Yazid Al Aili] menuturkan; aku mendengar [Az Zuhri] menuturkan; aku mendengar [Urwah bin Zubair] dan [Sa'id bin Musayyab] dan [Alqomah bin Waqqash] dan [Ubaidullah bin Abdullah bin Utbah] tentang hadits ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam ketika penyebar berita bohong menyebarkan isu bahwa dia berbuat zina, maka Allah menurunkan berita kesuciannya; 'Masing-masing penyebar berita bohong itu menceritakan sekumpulan cerita bohong tentang aku, maka Allah menurunkan ayat; 'Sesungguhnya orang-orang yang menyebarkan berita bohong,,, hingga sepuluh ayat berikutnya (QS. Annur 11-21) yang kesemuanya menjelaskan berita kesucianku. Abu Bakar ash Shiddiq yang sebagai pihak menanggung nafkah Misthah bin Utsatsah karena masih ada hubungan kekerabatan mengatakan: \"Demi Allah, saya tidak akan memberi nafkah lagi kepada Misthah sedikit pun selama-lamanya setelah ia turut serta menyebarkan isu tentang 'Aisyah.\" Maka Allah menurunkan ayat: 'dan janganlah orang-orang yang diberi kelebihan rejeki dan kelapangan diantara kalian untuk menahan pemberiannya kepada kerabat' (QS.Annur 22), lantas Abu Bakar mengatakan; 'Baik demi Allah, sungguh saya mengharap jika Allah mengampuni kesalahanku' lantas Abu Bakar meneruskan kembali pemberian nafkahnya dan berkata; 'Demi Allah, saya tidak akan lagi mencabutnya selama-lamanya",
       "en": "Narrated Az-Zuhri:I heard `Urwa bin Az-Zubair, Sa`id bin Al-Musaiyab, 'Alqama bin Waqqas and 'Ubaidullah bin `Abdullah bin `Uqba relating from `Aisha, the wife of the Prophet (ﷺ) the narration of the people (i.e. the liars) who spread the slander against her and they said what they said, and how Allah revealed her innocence. Each of them related to me a portion of that narration. (They said that `Aisha said), ''Then Allah revealed the ten Verses starting with:--'Verily! Those who spread the slander..' (24.11-21) All these verses were in proof of my innocence. Abu Bakr As-Siddiq who used to provide for Mistah some financial aid because of his relation to him, said, \"By Allah, I will never give anything (in charity) to Mistah, after what he has said about `Aisha\" Then Allah revealed:-- 'And let not those among you who are good and are wealthy swear not to give (any sort of help) to their kins men....' (24.22) On that, Abu Bakr said, \"Yes, by Allah, I like that Allah should forgive me.\" and then resumed giving Mistah the aid he used to give him and said, \"By Allah! I will never withhold it from him",
       "id": "Telah menceritakan kepada kami [Abdul 'Aziz] telah menceritakan kepada kami [Ibrahim] dari [Shalih] dari [Ibnu Syihab] -lewat jalur periwayatan lain- Telah menceritakan kepada kami [Al Hajjaj] telah menceritakan kepada kami [Abdullah bin Umar An Numairi] telah menceritakan kepada kami [Yunus bin Yazid Al Aili] menuturkan; aku mendengar [Az Zuhri] menuturkan; aku mendengar [Urwah bin Zubair] dan [Sa'id bin Musayyab] dan [Alqomah bin Waqqash] dan [Ubaidullah bin Abdullah bin Utbah] tentang hadits ['Aisyah] isteri Nabi shallallahu 'alaihi wasallam ketika penyebar berita bohong menyebarkan isu bahwa dia berbuat zina, maka Allah menurunkan berita kesuciannya; 'Masing-masing penyebar berita bohong itu menceritakan sekumpulan cerita bohong tentang aku, maka Allah menurunkan ayat; 'Sesungguhnya orang-orang yang menyebarkan berita bohong,,, hingga sepuluh ayat berikutnya (QS. Annur 11-21) yang kesemuanya menjelaskan berita kesucianku. Abu Bakar ash Shiddiq yang sebagai pihak menanggung nafkah Misthah bin Utsatsah karena masih ada hubungan kekerabatan mengatakan: \"Demi Allah, saya tidak akan memberi nafkah lagi kepada Misthah sedikit pun selama-lamanya setelah ia turut serta menyebarkan isu tentang 'Aisyah.\" Maka Allah menurunkan ayat: 'dan janganlah orang-orang yang diberi kelebihan rejeki dan kelapangan diantara kalian untuk menahan pemberiannya kepada kerabat' (QS.Annur 22), lantas Abu Bakar mengatakan; 'Baik demi Allah, sungguh saya mengharap jika Allah mengampuni kesalahanku' lantas Abu Bakar meneruskan kembali pemberian nafkahnya dan berkata; 'Demi Allah, saya tidak akan lagi mencabutnya selama-lamanya"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 24,
+        "ayah": 22,
+        "surah_name": "An-Nur",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/24/22"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
@@ -1772,7 +1842,16 @@
       "ms": "Telah menceritakan kepada kami [Al Hasan bin Muhammad] telah menceritakan kepada kami [Al Hajjaj] dari [Ibnu Juraij] menuturkan; ['Atha`] berangggapan bahwa dirinya pernah mendengar [Ubaid bin Umair] mengatakan; aku pernah mendengar ['Aisyah] menuturkan; bahwa Nabi shallallahu 'alaihi wasallam tinggal di rumah Zainab binti Jahsy dan meminum madu dirumahnya, maka aku dan Hafshah saling berwasiat bahwa siapa saja diantara kami berdua yang didatangi Nabi shallallahu 'alaihi wasallam, agar kami mengatakan; 'Aku menemukan bau pohon mighfar dimulutmu, apakah engkau telah makan buah mighfar? ' Nabi kemudian menemui salah satu dari keduanya dan dia mengatakan ucapan yang telah disepakati keduanya, namun Nabi justeru menjawab: \"Tidak, bahkan aku minum madu di tempat Zainab binti Jahsy, dan sekali-kali aku tidak akan mengulanginya.\" Maka turunlah ayat yang menegur Nabi; \"Wahai Nabi, mengapa kamu mengharamkan sesuatu yang telah Allah halalkan kepadamu' dan surat, 'jika kalian berdua bertaubat kepada Allah, ' ditujukan kepada Aisyah dan Hafshah. Dan firman-Nya; 'Ingatlah ketika Nabi merahasiakan sebuah pembicaraan kepada sebagian isterinya, ' petikan ayat ini untuk ucapan Nabi yang mengatakan: 'Namun aku minum madu.' [Ibrahim bin Musa] berkata kepadaku; dari [Hisyam] dengan tambahan redaksi: \"Saya sekali-kali tak akan mengulanginya selama-lamanya, saya telah bersumpah, maka janganlah kalian kabarkan kepada seorang pun",
       "en": "Narrated `Aisha:The Prophet (ﷺ) used to stay (for a period) in the house of Zainab bint Jahsh (one of the wives of the Prophet ) and he used to drink honey in her house. Hafsa and I decided that when the Prophet (ﷺ) entered upon either of us, she would say, \"I smell in you the bad smell of Maghafir (a bad smelling raisin). Have you eaten Maghafir?\" When he entered upon one of us, she said that to him. He replied (to her), \"No, but I have drunk honey in the house of Zainab bint Jahsh, and I will never drink it again.\" Then the following verse was revealed: 'O Prophet ! Why do you ban (for you) that which Allah has made lawful for you?. ..(up to) If you two (wives of the Prophet (ﷺ) turn in repentance to Allah.' (66.1-4) The two were `Aisha and Hafsa And also the Statement of Allah: 'And (Remember) when the Prophet (ﷺ) disclosed a matter in confidence to one of his wives!' (66.3) i.e., his saying, \"But I have drunk honey.\" Hisham said: It also meant his saying, \"I will not drink anymore, and I have taken an oath, so do not inform anybody of that",
       "id": "Telah menceritakan kepada kami [Al Hasan bin Muhammad] telah menceritakan kepada kami [Al Hajjaj] dari [Ibnu Juraij] menuturkan; ['Atha`] berangggapan bahwa dirinya pernah mendengar [Ubaid bin Umair] mengatakan; aku pernah mendengar ['Aisyah] menuturkan; bahwa Nabi shallallahu 'alaihi wasallam tinggal di rumah Zainab binti Jahsy dan meminum madu dirumahnya, maka aku dan Hafshah saling berwasiat bahwa siapa saja diantara kami berdua yang didatangi Nabi shallallahu 'alaihi wasallam, agar kami mengatakan; 'Aku menemukan bau pohon mighfar dimulutmu, apakah engkau telah makan buah mighfar? ' Nabi kemudian menemui salah satu dari keduanya dan dia mengatakan ucapan yang telah disepakati keduanya, namun Nabi justeru menjawab: \"Tidak, bahkan aku minum madu di tempat Zainab binti Jahsy, dan sekali-kali aku tidak akan mengulanginya.\" Maka turunlah ayat yang menegur Nabi; \"Wahai Nabi, mengapa kamu mengharamkan sesuatu yang telah Allah halalkan kepadamu' dan surat, 'jika kalian berdua bertaubat kepada Allah, ' ditujukan kepada Aisyah dan Hafshah. Dan firman-Nya; 'Ingatlah ketika Nabi merahasiakan sebuah pembicaraan kepada sebagian isterinya, ' petikan ayat ini untuk ucapan Nabi yang mengatakan: 'Namun aku minum madu.' [Ibrahim bin Musa] berkata kepadaku; dari [Hisyam] dengan tambahan redaksi: \"Saya sekali-kali tak akan mengulanginya selama-lamanya, saya telah bersumpah, maka janganlah kalian kabarkan kepada seorang pun"
-    }
+    },
+    "cross_references": [
+      {
+        "type": "quran",
+        "surah": 66,
+        "ayah": 3,
+        "surah_name": "At-Tahrim",
+        "url": "https://maktabah-maftoohah.github.io/al-quran/66/3"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
