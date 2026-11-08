@@ -36,7 +36,7 @@ Pautan terus boleh dikongsi secara terus ke mana-mana hadis tunggal:
 ### 📚 Naskhah Cetakan Bersejarah & Dokumen Luar Talian
 * **Al-Tab'ah al-Sultaniyyah (Bulaq 1311 H)**: Naskhah imbasan resolusi tinggi titah Sultan Abdul Hamid II mengikut naskhah al-Yuniniyyah ([`documents/bukhari-sultaniyyah-vol01.pdf`](documents/bukhari-sultaniyyah-vol01.pdf)).
 * **E-Buku EPUB 3.0 Lengkap**: Seluruh 97 Kitab dalam satu fail e-buku serasi e-reader ([`documents/sahih-al-bukhari.epub`](documents/sahih-al-bukhari.epub)).
-* **Katalog Arkib Imbasan Penuh**: Panduan muat turun naskhah 9 jilid lengkap Dar al-Ta'sil, Darussalam, dan Sultaniyyah ([`docs/SCANNED_EDITIONS.md`](docs/SCANNED_EDITIONS.md)).
+* **Katalog Arkib Imbasan Penuh**: Panduan muat turun naskhah 9 jilid lengkap Dar al-Ta'sil, Darussalam, dan Sultaniyyah ([Laman Web Dokumen](https://maktabah-maftoohah.github.io/sahih-al-bukhari/docs/) / [`docs/SCANNED_EDITIONS.md`](docs/SCANNED_EDITIONS.md)).
 
 ---
 

@@ -1,5 +1,7 @@
 # Naskhah Cetakan Muktabar & Dokumen Digital Sahih al-Bukhari
 
+> 🌐 **Versi Laman Web Interaktif**: Sila layari [Halaman Dokumen & Naskhah Cetakan Sahih al-Bukhari](https://maktabah-maftoohah.github.io/sahih-al-bukhari/docs/) untuk paparan antara muka visual berjadual berserta butang muat turun segera.
+
 > **Koleksi:** Sahih al-Bukhari (*Al-Jami' al-Musnad al-Sahih al-Mukhtasar min Umur Rasulillah SAW wa Sunanihi wa Ayyamihi*)  
 > **Penyusun:** Al-Imam Abu 'Abdillah Muhammad ibn Ismail al-Bukhari (194–256 H)
 
