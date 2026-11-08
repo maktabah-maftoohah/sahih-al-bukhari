@@ -1,0 +1,40 @@
+{
+  "collection": "sahih-al-bukhari",
+  "title": "Sahih al-Bukhari (صحيح البخاري)",
+  "total_hadiths": 7589,
+  "updated_at": "2026-11-08T02:42:40Z",
+  "editions": [
+    {
+      "id": "ara-bukhari",
+      "name": "Arabic (Vocalized with Tashkeel)",
+      "language": "ar",
+      "description": "Standard vocalized Arabic text of Sahih al-Bukhari with full tashkeel.",
+      "filename": "ara-bukhari.json",
+      "hadith_count": 7589
+    },
+    {
+      "id": "ara-bukhari1",
+      "name": "Arabic (Unvocalized Plain)",
+      "language": "ar-plain",
+      "description": "Normalized Arabic text without diacritics for fast fulltext search.",
+      "filename": "ara-bukhari1.json",
+      "hadith_count": 7589
+    },
+    {
+      "id": "eng-bukhari",
+      "name": "English (Dr. Muhammad Muhsin Khan)",
+      "language": "en",
+      "description": "Complete 9-volume translation by Dr. Muhammad Muhsin Khan.",
+      "filename": "eng-bukhari.json",
+      "hadith_count": 7589
+    },
+    {
+      "id": "ind-bukhari",
+      "name": "Nusantara / Indonesian (Terjemahan Lengkap)",
+      "language": "ms-id",
+      "description": "Complete Nusantara translation of all hadiths.",
+      "filename": "ind-bukhari.json",
+      "hadith_count": 7589
+    }
+  ]
+}

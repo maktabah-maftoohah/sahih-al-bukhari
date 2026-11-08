@@ -1,74 +1,9 @@
 [
   {
     "chapter_number": 1,
-    "title_ar": "باب الإِيمَانُ وَقَوْلُ النَّبِيِّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ: «بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ»",
-    "title_ms": "Bab: Iman dan Sabda Nabi ﷺ: 'Islam dibina atas lima perkara'",
-    "title_en": "Chapter: Faith and the statement of the Prophet ﷺ: 'Islam is based on five'",
-    "hadith_start": 8,
-    "hadith_end": 8
-  },
-  {
-    "chapter_number": 2,
-    "title_ar": "باب أُمُورِ الإِيمَانِ وَقَوْلِ اللَّهِ تَعَالَى: {لَيْسَ الْبِرَّ أَنْ تُوَلُّوا وُجُوهَكُمْ}",
-    "title_ms": "Bab: Perkara-perkara Iman",
-    "title_en": "Chapter: Matters of Faith",
-    "hadith_start": 9,
-    "hadith_end": 9
-  },
-  {
-    "chapter_number": 3,
-    "title_ar": "باب الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ",
-    "title_ms": "Bab: Seorang Muslim ialah yang orang Islam lain selamat dari lidah dan tangannya",
-    "title_en": "Chapter: A Muslim is the one from whose tongue and hands Muslims are safe",
-    "hadith_start": 10,
-    "hadith_end": 11
-  },
-  {
-    "chapter_number": 4,
-    "title_ar": "باب أَيُّ الإِسْلاَمِ أَفْضَلُ؟",
-    "title_ms": "Bab: Manakah amalan Islam yang paling afdhal?",
-    "title_en": "Chapter: Which Islam is the best?",
-    "hadith_start": 12,
-    "hadith_end": 12
-  },
-  {
-    "chapter_number": 5,
-    "title_ar": "باب إِطْعَامُ الطَّعَامِ مِنَ الإِسْلاَمِ",
-    "title_ms": "Bab: Memberi makan sebahagian daripada Islam",
-    "title_en": "Chapter: To feed the people is a part of Islam",
-    "hadith_start": 12,
-    "hadith_end": 12
-  },
-  {
-    "chapter_number": 6,
-    "title_ar": "باب مِنَ الإِيمَانِ أَنْ يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ",
-    "title_ms": "Bab: Sebahagian daripada iman mengasihi saudaranya seperti mengasihi dirinya sendiri",
-    "title_en": "Chapter: To love for one's brother what he loves for himself is part of faith",
-    "hadith_start": 13,
-    "hadith_end": 13
-  },
-  {
-    "chapter_number": 7,
-    "title_ar": "باب حُبُّ الرَّسُولِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ مِنَ الإِيمَانِ",
-    "title_ms": "Bab: Mengasihi Rasulullah ﷺ adalah sebahagian daripada iman",
-    "title_en": "Chapter: Loving the Messenger ﷺ is part of faith",
-    "hadith_start": 14,
-    "hadith_end": 15
-  },
-  {
-    "chapter_number": 8,
-    "title_ar": "باب حَلاَوَةِ الإِيمَانِ",
-    "title_ms": "Bab: Manisnya Iman",
-    "title_en": "Chapter: Sweetness of Faith",
-    "hadith_start": 16,
-    "hadith_end": 16
-  },
-  {
-    "chapter_number": 9,
-    "title_ar": "باب سُؤَالِ جِبْرِيلَ النَّبِيَّ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ عَنِ الإِيمَانِ وَالإِسْلاَمِ وَالإِحْسَانِ",
-    "title_ms": "Bab: Pertanyaan Jibril kepada Nabi ﷺ tentang Iman, Islam dan Ihsan",
-    "title_en": "Chapter: Question of Gabriel about Iman, Islam and Ihsan",
-    "hadith_start": 50,
-    "hadith_end": 50
+    "title": "",
+    "title_ar": "كتاب الإيمان",
+    "hadith_range": "8-58",
+    "hadiths_count": 51
   }
 ]

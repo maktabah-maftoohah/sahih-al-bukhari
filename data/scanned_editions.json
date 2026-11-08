@@ -1,0 +1,73 @@
+{
+  "collection": "sahih-al-bukhari",
+  "title": "Sahih al-Bukhari Scanned Editions Registry",
+  "title_ar": "فهرس النسخ المصورة والوثائقية لصحيح البخاري",
+  "editions": [
+    {
+      "id": "sultaniyyah",
+      "name": "Al-Tab'ah al-Sultaniyyah (الطبعة السلطانية - بولاق)",
+      "year_hijri": 1311,
+      "year_gregorian": 1893,
+      "publisher": "Al-Matba'ah al-Kubra al-Amiriyyah bi-Bulaq (Cairo)",
+      "description": "The gold standard Ottoman imperial print executed by royal decree of Sultan Abdul Hamid II, meticulously verifying the recension of Imam Sharaf al-Din al-Yunini (نسخة اليونيني).",
+      "volumes_count": 9,
+      "archive_url": "https://archive.org/details/BukhariSultanya",
+      "included_in_repo": ["bukhari-sultaniyyah-vol01.pdf"],
+      "volumes": [
+        { "volume": 1, "filename": "0180_01.pdf", "size_mb": 25.1, "download_url": "https://archive.org/download/BukhariSultanya/0180_01.pdf", "local_copy": "documents/bukhari-sultaniyyah-vol01.pdf" },
+        { "volume": 2, "filename": "0180_02.pdf", "size_mb": 22.4, "download_url": "https://archive.org/download/BukhariSultanya/0180_02.pdf" },
+        { "volume": 3, "filename": "0180_03.pdf", "size_mb": 25.9, "download_url": "https://archive.org/download/BukhariSultanya/0180_03.pdf" },
+        { "volume": 4, "filename": "0180_04.pdf", "size_mb": 26.2, "download_url": "https://archive.org/download/BukhariSultanya/0180_04.pdf" },
+        { "volume": 5, "filename": "0180_05.pdf", "size_mb": 24.8, "download_url": "https://archive.org/download/BukhariSultanya/0180_05.pdf" },
+        { "volume": 6, "filename": "0180_06.pdf", "size_mb": 27.1, "download_url": "https://archive.org/download/BukhariSultanya/0180_06.pdf" },
+        { "volume": 7, "filename": "0180_07.pdf", "size_mb": 23.9, "download_url": "https://archive.org/download/BukhariSultanya/0180_07.pdf" },
+        { "volume": 8, "filename": "0180_08.pdf", "size_mb": 25.4, "download_url": "https://archive.org/download/BukhariSultanya/0180_08.pdf" },
+        { "volume": 9, "filename": "0180_09.pdf", "size_mb": 28.3, "download_url": "https://archive.org/download/BukhariSultanya/0180_09.pdf" }
+      ]
+    },
+    {
+      "id": "dar-al-taseel",
+      "name": "Dar al-Ta'sil Critical Edition (طبعة دار التأصيل)",
+      "year_hijri": 1435,
+      "year_gregorian": 2014,
+      "publisher": "Dar al-Ta'sil (Cairo)",
+      "description": "Premier contemporary critical edition based on multi-manuscript collation and verified chain linkages.",
+      "volumes_count": 10,
+      "archive_url": "https://archive.org/details/sa71mir_gmail_1_201605",
+      "volumes": [
+        { "volume": 1, "filename": "taseel_01.pdf", "size_mb": 35.2, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/01.pdf" },
+        { "volume": 2, "filename": "taseel_02.pdf", "size_mb": 34.1, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/02.pdf" },
+        { "volume": 3, "filename": "taseel_03.pdf", "size_mb": 36.5, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/03.pdf" },
+        { "volume": 4, "filename": "taseel_04.pdf", "size_mb": 33.8, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/04.pdf" },
+        { "volume": 5, "filename": "taseel_05.pdf", "size_mb": 37.0, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/05.pdf" },
+        { "volume": 6, "filename": "taseel_06.pdf", "size_mb": 35.9, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/06.pdf" },
+        { "volume": 7, "filename": "taseel_07.pdf", "size_mb": 34.4, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/07.pdf" },
+        { "volume": 8, "filename": "taseel_08.pdf", "size_mb": 38.1, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/08.pdf" },
+        { "volume": 9, "filename": "taseel_09.pdf", "size_mb": 36.7, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/09.pdf" },
+        { "volume": 10, "filename": "taseel_10.pdf", "size_mb": 39.2, "download_url": "https://archive.org/download/sa71mir_gmail_1_201605/10.pdf" }
+      ]
+    },
+    {
+      "id": "darussalam-bilingual",
+      "name": "Darussalam Arabic-English Bilingual (دار السلام)",
+      "year_hijri": 1417,
+      "year_gregorian": 1997,
+      "publisher": "Darussalam Publishers (Riyadh)",
+      "translator": "Dr. Muhammad Muhsin Khan",
+      "description": "Standard 9-volume Arabic-English edition with universal international numbering system.",
+      "volumes_count": 9,
+      "archive_url": "https://archive.org/details/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic",
+      "volumes": [
+        { "volume": 1, "filename": "bukhari_darussalam_01.pdf", "size_mb": 21.3, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%201%20-%201-875.pdf" },
+        { "volume": 2, "filename": "bukhari_darussalam_02.pdf", "size_mb": 20.8, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%202%20-%20876-1772.pdf" },
+        { "volume": 3, "filename": "bukhari_darussalam_03.pdf", "size_mb": 23.1, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%203%20-%201773-2737.pdf" },
+        { "volume": 4, "filename": "bukhari_darussalam_04.pdf", "size_mb": 22.4, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%204%20-%202738-3648.pdf" },
+        { "volume": 5, "filename": "bukhari_darussalam_05.pdf", "size_mb": 24.5, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%205%20-%203649-4473.pdf" },
+        { "volume": 6, "filename": "bukhari_darussalam_06.pdf", "size_mb": 25.2, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%206%20-%204474-5062.pdf" },
+        { "volume": 7, "filename": "bukhari_darussalam_07.pdf", "size_mb": 23.7, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%207%20-%205063-5969.pdf" },
+        { "volume": 8, "filename": "bukhari_darussalam_08.pdf", "size_mb": 26.0, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%208%20-%205970-6860.pdf" },
+        { "volume": 9, "filename": "bukhari_darussalam_09.pdf", "size_mb": 27.5, "download_url": "https://archive.org/download/SahihAlBukhari9VolumesVolume1To9EnglishAndArabic/Sahih%20Al-Bukhari%20Vol.%209%20-%206861-7563.pdf" }
+      ]
+    }
+  ]
+}

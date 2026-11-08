@@ -1,4 +1,4 @@
-import os
+import json
 from pathlib import Path
 
 def test_project():
@@ -6,7 +6,18 @@ def test_project():
     assert (root / "index.html").exists(), "index.html missing"
     assert (root / "AGENTS.md").exists(), "AGENTS.md missing"
     assert (root / ".nojekyll").exists(), ".nojekyll missing"
-    print("Project structure verification PASSED for sahih-al-bukhari.")
+    assert (root / "data" / "books.json").exists(), "books.json missing"
+    assert (root / "data" / "editions" / "manifest.json").exists(), "editions/manifest.json missing"
+    assert (root / "data" / "scanned_editions.json").exists(), "scanned_editions.json missing"
+    assert (root / "docs" / "SCANNED_EDITIONS.md").exists(), "SCANNED_EDITIONS.md missing"
+    assert (root / "documents" / "sahih-al-bukhari.epub").exists(), "sahih-al-bukhari.epub missing"
+    assert (root / "documents" / "bukhari-sultaniyyah-vol01.pdf").exists(), "bukhari-sultaniyyah-vol01.pdf missing"
+
+    with open(root / "data" / "books.json", "r", encoding="utf-8") as f:
+        books = json.load(f)
+        assert len(books) == 97, f"Expected 97 books, found {len(books)}"
+
+    print("Project structure & document verification PASSED for sahih-al-bukhari.")
 
 if __name__ == "__main__":
     test_project()

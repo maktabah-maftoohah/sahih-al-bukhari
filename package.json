@@ -7,9 +7,18 @@
   "scripts": {
     "serve": "python scripts/serve.py --port 8000",
     "verify": "python scripts/verify_project.py && python scripts/verify_data_integrity.py",
-    "test": "npm run verify"
+    "test": "npm run verify",
+    "extract:all": "python scripts/extract_bukhari_all.py",
+    "generate:epub": "python scripts/generate_epub.py",
+    "download:scans": "python scripts/download_scanned_editions.py"
   },
-  "keywords": ["islamic-library", "hadith", "zero-build", "pwa", "maktabah-maftoohah"],
+  "keywords": [
+    "islamic-library",
+    "hadith",
+    "zero-build",
+    "pwa",
+    "maktabah-maftoohah"
+  ],
   "author": "Maktabah Maftoohah",
   "license": "MIT"
 }

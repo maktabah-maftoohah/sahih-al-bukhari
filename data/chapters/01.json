@@ -1,50 +1,9 @@
 [
   {
     "chapter_number": 1,
-    "title_ar": "باب كَيْفَ كَانَ بَدْءُ الْوَحْيِ إِلَى رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
-    "title_ms": "Bab: Bagaimana permulaan wahyu diturunkan kepada Rasulullah ﷺ",
-    "title_en": "Chapter: How the Divine Inspiration started to Allah's Messenger ﷺ",
-    "hadith_start": 1,
-    "hadith_end": 1
-  },
-  {
-    "chapter_number": 2,
-    "title_ar": "باب",
-    "title_ms": "Bab",
-    "title_en": "Chapter",
-    "hadith_start": 2,
-    "hadith_end": 2
-  },
-  {
-    "chapter_number": 3,
-    "title_ar": "باب",
-    "title_ms": "Bab",
-    "title_en": "Chapter",
-    "hadith_start": 3,
-    "hadith_end": 3
-  },
-  {
-    "chapter_number": 4,
-    "title_ar": "باب",
-    "title_ms": "Bab",
-    "title_en": "Chapter",
-    "hadith_start": 4,
-    "hadith_end": 4
-  },
-  {
-    "chapter_number": 5,
-    "title_ar": "باب",
-    "title_ms": "Bab",
-    "title_en": "Chapter",
-    "hadith_start": 5,
-    "hadith_end": 5
-  },
-  {
-    "chapter_number": 6,
-    "title_ar": "باب",
-    "title_ms": "Bab",
-    "title_en": "Chapter",
-    "hadith_start": 6,
-    "hadith_end": 7
+    "title": "",
+    "title_ar": "كتاب بدء الوحي",
+    "hadith_range": "1-7",
+    "hadiths_count": 7
   }
 ]

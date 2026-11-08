@@ -53,6 +53,20 @@ class BukhariReader {
         this.render();
       });
     }
+
+    const docsToggle = document.getElementById('docsToggle');
+    const docsModal = document.getElementById('docsModal');
+    const closeDocsModal = document.getElementById('closeDocsModal');
+
+    if (docsToggle && docsModal) {
+      docsToggle.addEventListener('click', () => docsModal.showModal());
+    }
+    if (closeDocsModal && docsModal) {
+      closeDocsModal.addEventListener('click', () => docsModal.close());
+      docsModal.addEventListener('click', (e) => {
+        if (e.target === docsModal) docsModal.close();
+      });
+    }
   }
 
   async loadBooks() {
