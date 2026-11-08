@@ -21,6 +21,19 @@ class BukhariReader {
   async init() {
     analytics.init();
     this.registerServiceWorker();
+
+    // Parse language from URL params or search links (?lang=en or ?lang=ms)
+    if (window.location.search) {
+      const sp = new URLSearchParams(window.location.search);
+      const urlLang = sp.get('lang');
+      if (urlLang === 'en' || urlLang === 'ms') {
+        this.currentLang = urlLang;
+      }
+    }
+    if (this.langToggle) {
+      this.langToggle.textContent = this.currentLang === 'ms' ? 'MY' : 'EN';
+    }
+
     this.setupEventListeners();
     await this.loadBooks();
     await this.handleRouting();
