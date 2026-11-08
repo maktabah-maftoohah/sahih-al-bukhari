@@ -18,6 +18,7 @@ def test_project():
     assert (root / "data" / "editions" / "manifest.json").exists(), "editions/manifest.json missing"
     assert (root / "data" / "scanned_editions.json").exists(), "scanned_editions.json missing"
     assert (root / "docs" / "SCANNED_EDITIONS.md").exists(), "SCANNED_EDITIONS.md missing"
+    assert (root / "docs" / "index.html").exists(), "docs/index.html missing"
     assert (root / "documents" / "sahih-al-bukhari.epub").exists(), "sahih-al-bukhari.epub missing"
     assert (root / "documents" / "bukhari-sultaniyyah-vol01.pdf").exists(), "bukhari-sultaniyyah-vol01.pdf missing"
 
