@@ -22,7 +22,69 @@
       "ms": "Telah menceritakan kepada kami [Al Humaidi Abdullah bin Az Zubair] dia berkata, Telah menceritakan kepada kami [Sufyan] yang berkata, bahwa Telah menceritakan kepada kami [Yahya bin Sa'id Al Anshari] berkata, telah mengabarkan kepada kami [Muhammad bin Ibrahim At Taimi], bahwa dia pernah mendengar [Alqamah bin Waqash Al Laitsi] berkata; saya pernah mendengar [Umar bin Al Khaththab] diatas mimbar berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Semua perbuatan tergantung niatnya, dan (balasan) bagi tiap-tiap orang (tergantung) apa yang diniatkan; Barangsiapa niat hijrahnya karena dunia yang ingin digapainya atau karena seorang perempuan yang ingin dinikahinya, maka hijrahnya adalah kepada apa dia diniatkan",
       "en": "Narrated 'Umar bin Al-Khattab: I heard Allah's Messenger (ﷺ) saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for",
       "id": "Telah menceritakan kepada kami [Al Humaidi Abdullah bin Az Zubair] dia berkata, Telah menceritakan kepada kami [Sufyan] yang berkata, bahwa Telah menceritakan kepada kami [Yahya bin Sa'id Al Anshari] berkata, telah mengabarkan kepada kami [Muhammad bin Ibrahim At Taimi], bahwa dia pernah mendengar [Alqamah bin Waqash Al Laitsi] berkata; saya pernah mendengar [Umar bin Al Khaththab] diatas mimbar berkata; saya mendengar Rasulullah shallallahu 'alaihi wasallam bersabda: \"Semua perbuatan tergantung niatnya, dan (balasan) bagi tiap-tiap orang (tergantung) apa yang diniatkan; Barangsiapa niat hijrahnya karena dunia yang ingin digapainya atau karena seorang perempuan yang ingin dinikahinya, maka hijrahnya adalah kepada apa dia diniatkan"
-    }
+    },
+    "sanad": [
+      {
+        "order": 1,
+        "narrator_id": 10,
+        "narrator_name_ar": "الحُمَيْدِيُّ عَبْدُ اللَّهِ بْنُ الزُّبَيْرِ",
+        "narrator_name_ms": "Al-Humaidi Abdullah bin al-Zubair",
+        "narrator_name_en": "Al-Humaydi Abdullah ibn al-Zubayr",
+        "reliability_level": 1,
+        "reliability_color": "#15803d",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/10/"
+      },
+      {
+        "order": 2,
+        "narrator_id": 1128,
+        "narrator_name_ar": "سُفْيَانُ بْنُ عُيَيْنَةَ",
+        "narrator_name_ms": "Sufyan bin Uyaynah",
+        "narrator_name_en": "Sufyan ibn Uyaynah",
+        "reliability_level": 1,
+        "reliability_color": "#15803d",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/1128/"
+      },
+      {
+        "order": 3,
+        "narrator_id": 12,
+        "narrator_name_ar": "يَحْيَى بْنُ سَعِيدٍ الأَنْصَارِيُّ",
+        "narrator_name_ms": "Yahya bin Sa'id al-Ansari",
+        "narrator_name_en": "Yahya ibn Sa'id al-Ansari",
+        "reliability_level": 1,
+        "reliability_color": "#15803d",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/12/"
+      },
+      {
+        "order": 4,
+        "narrator_id": 14,
+        "narrator_name_ar": "مُحَمَّدُ بْنُ إِبْرَاهِيمَ التَّيْمِيُّ",
+        "narrator_name_ms": "Muhammad bin Ibrahim at-Taimi",
+        "narrator_name_en": "Muhammad ibn Ibrahim al-Taymi",
+        "reliability_level": 1,
+        "reliability_color": "#15803d",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/14/"
+      },
+      {
+        "order": 5,
+        "narrator_id": 16,
+        "narrator_name_ar": "عَلْقَمَةُ بْنُ وَقَّاصٍ اللَّيْثِيُّ",
+        "narrator_name_ms": "'Alqamah bin Waqqas al-Laitsi",
+        "narrator_name_en": "'Alqamah ibn Waqqas al-Laythi",
+        "reliability_level": 1,
+        "reliability_color": "#15803d",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/16/"
+      },
+      {
+        "order": 6,
+        "narrator_id": 2,
+        "narrator_name_ar": "عُمَرُ بْنُ الخَطَّابِ رَضِيَ اللَّهُ عَنْهُ",
+        "narrator_name_ms": "Umar bin al-Khattab RA",
+        "narrator_name_en": "Umar ibn al-Khattab RA",
+        "reliability_level": 0,
+        "reliability_color": "#0284c7",
+        "profile_url": "https://maktabah-maftoohah.github.io/rijal-al-hadith/rawi/2/"
+      }
+    ]
   },
   {
     "collection_id": "sahih-al-bukhari",
